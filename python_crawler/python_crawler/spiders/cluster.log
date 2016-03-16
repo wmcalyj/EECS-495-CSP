@@ -1,0 +1,84 @@
+2016-02-27 02:35:57,267 INFO Number of arguments: 2 arguments.
+2016-02-27 02:35:57,268 INFO Argument List: ['runspider', 'my_spider.py']
+2016-02-27 02:35:57,272 INFO Number of arguments: 2 arguments.
+2016-02-27 02:35:57,272 INFO Number of arguments: 2 arguments.
+2016-02-27 02:35:57,273 INFO Argument List: ['runspider', 'my_spider.py']
+2016-02-27 02:35:57,273 INFO Argument List: ['runspider', 'my_spider.py']
+2016-02-27 03:20:49,573 INFO Number of arguments: 2 arguments.
+2016-02-27 03:20:49,582 INFO Argument List: ['runspider', 'my_spider.py']
+2016-02-27 03:20:49,586 INFO Number of arguments: 2 arguments.
+2016-02-27 03:20:49,586 INFO Number of arguments: 2 arguments.
+2016-02-27 03:20:49,587 INFO Argument List: ['runspider', 'my_spider.py']
+2016-02-27 03:20:49,587 INFO Argument List: ['runspider', 'my_spider.py']
+2016-02-27 03:20:57,274 INFO Number of arguments: 2 arguments.
+2016-02-27 03:20:57,275 INFO Argument List: ['runspider', 'my_spider.py']
+2016-02-27 03:20:57,278 INFO Number of arguments: 2 arguments.
+2016-02-27 03:20:57,278 INFO Number of arguments: 2 arguments.
+2016-02-27 03:20:57,278 INFO Argument List: ['runspider', 'my_spider.py']
+2016-02-27 03:20:57,278 INFO Argument List: ['runspider', 'my_spider.py']
+2016-02-27 03:23:37,772 INFO Number of arguments: 5 arguments.
+2016-02-27 03:23:37,772 INFO Argument List: ['runspider', 'my_spider.py', '-t', 'bbc.com', 'http://www.bbc.com']
+2016-02-27 03:25:38,592 INFO Number of arguments: 5 arguments.
+2016-02-27 03:25:38,592 INFO Argument List: ['runspider', 'my_spider.py', '-s', 'domain=bbc.com', 'urls=http://www.bbc.com']
+2016-02-27 03:26:37,973 INFO Number of arguments: 5 arguments.
+2016-02-27 03:26:37,974 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domain=bbc.com', 'urls=http://www.bbc.com']
+2016-02-27 03:27:23,163 INFO Number of arguments: 4 arguments.
+2016-02-27 03:27:23,163 INFO Argument List: ['runspider', 'my_spider.py', 'domain=bbc.com', 'urls=http://www.bbc.com']
+2016-02-27 03:27:39,223 INFO Number of arguments: 5 arguments.
+2016-02-27 03:27:39,224 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domain=bbc.com', 'urls=http://www.bbc.com']
+2016-02-27 03:27:43,553 INFO Number of arguments: 5 arguments.
+2016-02-27 03:27:43,554 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domain=bbc.com', 'urls=http://www.bbc.com']
+2016-02-27 03:40:25,800 INFO Number of arguments: 5 arguments.
+2016-02-27 03:40:25,801 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domain=bbc.com', 'urls=http://www.bbc.com']
+2016-02-27 03:47:23,692 INFO Number of arguments: 5 arguments.
+2016-02-27 03:47:23,692 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domain=bbc.com', 'urls=http://www.bbc.com']
+2016-02-27 03:51:39,043 INFO Number of arguments: 5 arguments.
+2016-02-27 03:51:39,043 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domain=bbc.com', 'urls=http://www.bbc.com']
+2016-02-27 03:53:09,441 INFO Number of arguments: 5 arguments.
+2016-02-27 03:53:09,441 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domain=bbc.com', 'urls=http://www.bbc.com']
+2016-02-27 03:58:04,613 INFO Number of arguments: 5 arguments.
+2016-02-27 03:58:04,613 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domain=bbc.com', 'urls=http://www.bbc.com']
+2016-02-27 03:58:25,080 INFO Number of arguments: 5 arguments.
+2016-02-27 03:58:25,081 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domain=bbc.com', 'urls=http://www.bbc.com']
+2016-02-27 03:59:01,464 INFO Number of arguments: 5 arguments.
+2016-02-27 03:59:01,465 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domain=bbc.com', 'urls=http://www.bbc.com']
+2016-02-27 03:59:07,439 INFO Number of arguments: 5 arguments.
+2016-02-27 03:59:07,439 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domain=bbc.com', 'urls=http://www.bbc.com']
+2016-02-27 03:59:15,254 INFO Number of arguments: 5 arguments.
+2016-02-27 03:59:15,255 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domains=bbc.com', 'urls=http://www.bbc.com']
+2016-02-27 04:06:19,411 INFO Number of arguments: 5 arguments.
+2016-02-27 04:06:19,427 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domains=bbc.com', 'urls=http://www.bbc.com']
+2016-02-27 04:06:35,253 INFO Number of arguments: 5 arguments.
+2016-02-27 04:06:35,254 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domains=bbc.com', '-aurls=http://www.bbc.com']
+2016-02-27 04:06:35,256 INFO Number of arguments: 5 arguments.
+2016-02-27 04:06:35,256 INFO Number of arguments: 5 arguments.
+2016-02-27 04:06:35,256 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domains=bbc.com', '-aurls=http://www.bbc.com']
+2016-02-27 04:06:35,256 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domains=bbc.com', '-aurls=http://www.bbc.com']
+2016-02-27 04:06:40,998 INFO Number of arguments: 6 arguments.
+2016-02-27 04:06:40,998 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domains=bbc.com', '-a', 'urls=http://www.bbc.com']
+2016-02-27 04:06:41,000 INFO Number of arguments: 6 arguments.
+2016-02-27 04:06:41,000 INFO Number of arguments: 6 arguments.
+2016-02-27 04:06:41,001 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domains=bbc.com', '-a', 'urls=http://www.bbc.com']
+2016-02-27 04:06:41,001 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domains=bbc.com', '-a', 'urls=http://www.bbc.com']
+2016-02-27 04:07:35,410 INFO Number of arguments: 6 arguments.
+2016-02-27 04:07:35,410 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domains=bbc.com', '-a', 'urls=http://www.bbc.com']
+2016-02-27 04:07:35,413 INFO Number of arguments: 6 arguments.
+2016-02-27 04:07:35,413 INFO Number of arguments: 6 arguments.
+2016-02-27 04:07:35,413 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domains=bbc.com', '-a', 'urls=http://www.bbc.com']
+2016-02-27 04:07:35,413 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domains=bbc.com', '-a', 'urls=http://www.bbc.com']
+2016-02-27 04:08:15,956 INFO Number of arguments: 6 arguments.
+2016-02-27 04:08:15,957 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domains=bbc.com', '-a', 'urls=http://www.bbc.com']
+2016-02-27 04:08:15,959 INFO Number of arguments: 6 arguments.
+2016-02-27 04:08:15,959 INFO Number of arguments: 6 arguments.
+2016-02-27 04:08:15,960 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domains=bbc.com', '-a', 'urls=http://www.bbc.com']
+2016-02-27 04:08:15,960 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domains=bbc.com', '-a', 'urls=http://www.bbc.com']
+2016-02-27 04:08:16,262 INFO method is: None, domains are: bbc.com, urls are: http://www.bbc.com
+2016-02-27 04:08:16,262 INFO method is: None, domains are: bbc.com, urls are: http://www.bbc.com
+2016-02-27 04:09:08,262 INFO Number of arguments: 6 arguments.
+2016-02-27 04:09:08,262 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domains=bbc.com', '-a', 'urls=http://www.bbc.com']
+2016-02-27 04:09:08,264 INFO Number of arguments: 6 arguments.
+2016-02-27 04:09:08,264 INFO Number of arguments: 6 arguments.
+2016-02-27 04:09:08,265 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domains=bbc.com', '-a', 'urls=http://www.bbc.com']
+2016-02-27 04:09:08,265 INFO Argument List: ['runspider', 'my_spider.py', '-a', 'domains=bbc.com', '-a', 'urls=http://www.bbc.com']
+2016-02-27 04:09:08,553 INFO method is: None, domains are: bbc.com, urls are: http://www.bbc.com
+2016-02-27 04:09:08,553 INFO method is: None, domains are: bbc.com, urls are: http://www.bbc.com

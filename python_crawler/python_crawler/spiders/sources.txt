@@ -1,0 +1,2 @@
+cnn.com;http://www.cnn.com
+bbc.com;http://www.bbc.com

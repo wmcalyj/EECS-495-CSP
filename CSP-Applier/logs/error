@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "./dom_analyzer.py", line 131, in _traverse
+    elif isinstance(root.contents[0], NavigableString):
+IndexError: list index out of range

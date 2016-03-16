@@ -1,0 +1,28 @@
+reading from file: sources.txt
+max urls: 200
+log level: INFO
+log file: crawler.log
+
+
+**************************** Start Crawling *********************************
+
+Text read from file: cnn.com;http://www.cnn.com
+domains: cnn.com
+urls: http://www.cnn.com
+cookies: 
+userAgent: 
+
+
+running command: scrapy runspider --logfile=crawler.log -L INFO python_crawler/python_crawler/spiders/my_spider.py -a domains=cnn.com -a urls=http://www.cnn.com -a maxurls=200 -a cookies= -a userAgent= now!
+
+
+
+Text read from file: bbc.com;http://www.bbc.com
+domains: bbc.com
+urls: http://www.bbc.com
+cookies: 
+userAgent: 
+
+
+running command: scrapy runspider --logfile=crawler.log -L INFO python_crawler/python_crawler/spiders/my_spider.py -a domains=bbc.com -a urls=http://www.bbc.com -a maxurls=200 -a cookies= -a userAgent= now!
+

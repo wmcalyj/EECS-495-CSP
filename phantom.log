@@ -1,0 +1,524 @@
+2016-03-15 23:01:31,776 DEBUG url - https://accounts.google.com/RecoverAccount?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ignoreShadow=0&hl=en
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - ACCOUNT_CHOOSER,AFx_qI7ZD6SXUm6nHW8b8fLCIqJNhI3AS7zyYLm1XBJF-JarDbAC1HJtVujWRwvrW7VAjhrY0Dpaq5tCcUHN3tvAQW-Aq0tO_bFMzbSGsC4_vTFUyv2ojW-peV7nYrjhs-iHNPMleFXa,accounts.google.com,/,2018-03-08T07:39:05.076Z APISID,h4VxjqXv1r74TZbl/APKp3m7CjJrfhRzsZ,.google.com,/,2018-03-08T07:39:05.075Z COMPASS,gmail=CiUACWuJVwnZZfVpxilGaOKvEbSP6HvQw_vNx3Izc8KFb7yv48NeENSe-rYF,mail.google.com,/mail,2016-03-18T07:37:26.587Z GALX,NOdgTuEdRxI,accounts.google.com,/,Session GAPS,1:NxLYXFgZZnlrBP90YrXMTWU6GGfJFA:TiNJMfktsPw60tpj,accounts.google.com,/,2018-03-08T07:39:05.151Z GMAIL_AT,AF6bupPRqpj6oP37-7dmHQ4uAaHU9GFZyw,mail.google.com,/mail,Session GMAIL_RTT,39,.google.com,/,Session HSID,A5EZnHjSQKlB3u_TV,.google.com,/,2018-03-08T07:39:05.075Z LSID,mail|o.mail.google.com|s.youtube:DQAAANgAAABfL3ulic1Ist4RygWHpVFAE2cdjnd1OqtrHsVLc_rGWuezH8buD23t03nLV3GwcFa_8UH4YpBt8W6acE1fYWKa4lgW4rlat_Ttupxi-5BDJUtQ_wNc1j1ycWap_aq6ycXmOCzWeUp-oPhw95TSr0QYtuQZmQz3HCF46pdtng_RzyeKijdqzDg-IVylzSArxCRXCDZk-yR8Qn9I34KzYcBaU2O2qzBGY8upo2bcGqWCrtw49YO014DdMZ0fFC-tTj0hatNiIjPO2dFIJ7NTEolzX9frIdU7Wj4dHfE5MNve-g,accounts.google.com,/,2018-03-08T07:39:05.152Z NID,77=uBmiIkXLq-KoTCybNmh-HIJ_Glk66o6ghfhheok_MuUKq7bdDYG_Hjz_Cl9iQ3w_aC7W3OraLwCA1Z1FGsj5mHigFRP2x7rhEFIMCWzAvcWHjTLadN3l4zTR298Y6_MzhYjQ7ldYkWwm7AeNhH8DSwAX2tIFjNAAgwq0qKem3nQ8,.google.com,/,2016-09-07T07:39:08.000Z OSID,DQAAAOgAAAAyeLNviqzNsnfKY3hBVxBsBwrBIhtXzfHczYTZgJ67v95rWaZug0IOHWiqWWNC0ONVM3diQXbILSX7k2Q7uDe6L4kw1cW-cmy182eFgOLMUDHvjJX_w4KqSzeBg0j35oMl2Liry4lGgJrEcqC1j5U09-Ajp833YJXmEnSDGThoPpA1qDZUV5HEXRuFe0IPjg0-1kefb7gKS0qPZrfRNxmkQEuwXHm_-eF8I74kJayRhb_63B6sIS8Rh9SptL96yr3TbIm8ts848VrVgzDe-P-8M0-udj23fzP4gHiBfQiCHcieW8tYpBLa4wxrdyisWDg,mail.google.com,/,2018-03-08T07:39:05.209Z S,gmail=q9BVNpH9RP3lPg5ILmg7Fg,mail.google.com,/mail,2016-03-08T08:37:26.587Z SAPISID,DWTVdyBtEsfORAQj/Am1v0DlUcXDyOsXNc,.google.com,/,2018-03-08T07:39:05.075Z SID,DQAAANUAAAB2Dz8fsbvfMagUAld2MG79EDApmA3CUGxG_WhIee-GNTlXbTJUgstWVR7L9ziQNhKCEqaagkkIC5UD7bneBkE36EhII3x-X8cL6ZvLDhaQ4X05mDBwge-psniKCvO2GnQMDTexAr9GXwhyFVH08lh4-mf7FQBVDlKRVT6kc8KTBDGOESMrAxu_FWnIeHDxHuhjB_QI6NFkmNJFBd3ibQm3U64dqysDcWu1J5JFvwkUUqBAvayNSZ0J5D3NH2SyUpmj7rwwb-HHSip6qs0mY8l7PhX5vnOQm4-LfNXvjW9gAw,.google.com,/,2018-03-08T07:39:05.075Z SSID,AgjMkzLDgzcC2XlnB,.google.com,/,2018-03-08T07:39:05.075Z 
+2016-03-15 23:01:31,776 DEBUG url - https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&ltmpl=default&dsh=-4991224122901578707
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - ACCOUNT_CHOOSER,AFx_qI7ZD6SXUm6nHW8b8fLCIqJNhI3AS7zyYLm1XBJF-JarDbAC1HJtVujWRwvrW7VAjhrY0Dpaq5tCcUHN3tvAQW-Aq0tO_bFMzbSGsC4_vTFUyv2ojW-peV7nYrjhs-iHNPMleFXa,accounts.google.com,/,2018-03-08T07:39:05.076Z APISID,h4VxjqXv1r74TZbl/APKp3m7CjJrfhRzsZ,.google.com,/,2018-03-08T07:39:05.075Z COMPASS,gmail=CiUACWuJVwnZZfVpxilGaOKvEbSP6HvQw_vNx3Izc8KFb7yv48NeENSe-rYF,mail.google.com,/mail,2016-03-18T07:37:26.587Z GALX,NOdgTuEdRxI,accounts.google.com,/,Session GAPS,1:NxLYXFgZZnlrBP90YrXMTWU6GGfJFA:TiNJMfktsPw60tpj,accounts.google.com,/,2018-03-08T07:39:05.151Z GMAIL_AT,AF6bupPRqpj6oP37-7dmHQ4uAaHU9GFZyw,mail.google.com,/mail,Session GMAIL_RTT,39,.google.com,/,Session HSID,A5EZnHjSQKlB3u_TV,.google.com,/,2018-03-08T07:39:05.075Z LSID,mail|o.mail.google.com|s.youtube:DQAAANgAAABfL3ulic1Ist4RygWHpVFAE2cdjnd1OqtrHsVLc_rGWuezH8buD23t03nLV3GwcFa_8UH4YpBt8W6acE1fYWKa4lgW4rlat_Ttupxi-5BDJUtQ_wNc1j1ycWap_aq6ycXmOCzWeUp-oPhw95TSr0QYtuQZmQz3HCF46pdtng_RzyeKijdqzDg-IVylzSArxCRXCDZk-yR8Qn9I34KzYcBaU2O2qzBGY8upo2bcGqWCrtw49YO014DdMZ0fFC-tTj0hatNiIjPO2dFIJ7NTEolzX9frIdU7Wj4dHfE5MNve-g,accounts.google.com,/,2018-03-08T07:39:05.152Z NID,77=uBmiIkXLq-KoTCybNmh-HIJ_Glk66o6ghfhheok_MuUKq7bdDYG_Hjz_Cl9iQ3w_aC7W3OraLwCA1Z1FGsj5mHigFRP2x7rhEFIMCWzAvcWHjTLadN3l4zTR298Y6_MzhYjQ7ldYkWwm7AeNhH8DSwAX2tIFjNAAgwq0qKem3nQ8,.google.com,/,2016-09-07T07:39:08.000Z OSID,DQAAAOgAAAAyeLNviqzNsnfKY3hBVxBsBwrBIhtXzfHczYTZgJ67v95rWaZug0IOHWiqWWNC0ONVM3diQXbILSX7k2Q7uDe6L4kw1cW-cmy182eFgOLMUDHvjJX_w4KqSzeBg0j35oMl2Liry4lGgJrEcqC1j5U09-Ajp833YJXmEnSDGThoPpA1qDZUV5HEXRuFe0IPjg0-1kefb7gKS0qPZrfRNxmkQEuwXHm_-eF8I74kJayRhb_63B6sIS8Rh9SptL96yr3TbIm8ts848VrVgzDe-P-8M0-udj23fzP4gHiBfQiCHcieW8tYpBLa4wxrdyisWDg,mail.google.com,/,2018-03-08T07:39:05.209Z S,gmail=q9BVNpH9RP3lPg5ILmg7Fg,mail.google.com,/mail,2016-03-08T08:37:26.587Z SAPISID,DWTVdyBtEsfORAQj/Am1v0DlUcXDyOsXNc,.google.com,/,2018-03-08T07:39:05.075Z SID,DQAAANUAAAB2Dz8fsbvfMagUAld2MG79EDApmA3CUGxG_WhIee-GNTlXbTJUgstWVR7L9ziQNhKCEqaagkkIC5UD7bneBkE36EhII3x-X8cL6ZvLDhaQ4X05mDBwge-psniKCvO2GnQMDTexAr9GXwhyFVH08lh4-mf7FQBVDlKRVT6kc8KTBDGOESMrAxu_FWnIeHDxHuhjB_QI6NFkmNJFBd3ibQm3U64dqysDcWu1J5JFvwkUUqBAvayNSZ0J5D3NH2SyUpmj7rwwb-HHSip6qs0mY8l7PhX5vnOQm4-LfNXvjW9gAw,.google.com,/,2018-03-08T07:39:05.075Z SSID,AgjMkzLDgzcC2XlnB,.google.com,/,2018-03-08T07:39:05.075Z 
+2016-03-15 23:01:31,777 DEBUG url - https://www.facebook.com/about/privacy
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - act,1457422946710%2F2,.facebook.com,/,Session,20,,, c_user,100011429551423,.facebook.com,/,Session,21,,✓, csm,2,.facebook.com,/,Session,4,,, datr,wYHeVrNmRuvqpfN6-7X0aqT1,.facebook.com,/,2018-03-08T07:40:03.977Z,28,✓,, fr,09UPTSC5ubH1mtd7g.AWW-pld4v1M1DtQiUL0-LwGG148.BW3oHU.Vm.Fbe.0.AWXuvTcA,.facebook.com,/,2016-06-06T07:42:26.680Z,72,✓,, lu,RgHYlC5gHgRBLqGdZlB1hIuw,.facebook.com,/,2018-03-08T07:40:03.978Z,26,✓,✓, p,-2,.facebook.com,/,Session,3,,, pl,n,.facebook.com,/,Session,3,✓,✓, presence,EDvF3EtimeF1457422956EuserFA21B11429551423A2EstateFDt2F_5b_5dElm2FnullEuct2F1457422205BEtrFnullEtwF3048002834EatF1457422952826G457422956201CEchFDp_5f1B11429551423F3CC,.facebook.com,/,Session,174,,✓, s,Aa6tjoZcZrLCESba.BW3oHU,.facebook.com,/,Session,24,✓,✓, xs,59%3A-riCJHQWk6jF2A%3A2%3A1457422804%3A-1,.facebook.com,/,Session,43,✓,✓, 
+2016-03-15 23:01:31,777 DEBUG url - https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&hl=en&service=mail&scc=1
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - ACCOUNT_CHOOSER,AFx_qI7ZD6SXUm6nHW8b8fLCIqJNhI3AS7zyYLm1XBJF-JarDbAC1HJtVujWRwvrW7VAjhrY0Dpaq5tCcUHN3tvAQW-Aq0tO_bFMzbSGsC4_vTFUyv2ojW-peV7nYrjhs-iHNPMleFXa,accounts.google.com,/,2018-03-08T07:39:05.076Z APISID,h4VxjqXv1r74TZbl/APKp3m7CjJrfhRzsZ,.google.com,/,2018-03-08T07:39:05.075Z COMPASS,gmail=CiUACWuJVwnZZfVpxilGaOKvEbSP6HvQw_vNx3Izc8KFb7yv48NeENSe-rYF,mail.google.com,/mail,2016-03-18T07:37:26.587Z GALX,NOdgTuEdRxI,accounts.google.com,/,Session GAPS,1:NxLYXFgZZnlrBP90YrXMTWU6GGfJFA:TiNJMfktsPw60tpj,accounts.google.com,/,2018-03-08T07:39:05.151Z GMAIL_AT,AF6bupPRqpj6oP37-7dmHQ4uAaHU9GFZyw,mail.google.com,/mail,Session GMAIL_RTT,39,.google.com,/,Session HSID,A5EZnHjSQKlB3u_TV,.google.com,/,2018-03-08T07:39:05.075Z LSID,mail|o.mail.google.com|s.youtube:DQAAANgAAABfL3ulic1Ist4RygWHpVFAE2cdjnd1OqtrHsVLc_rGWuezH8buD23t03nLV3GwcFa_8UH4YpBt8W6acE1fYWKa4lgW4rlat_Ttupxi-5BDJUtQ_wNc1j1ycWap_aq6ycXmOCzWeUp-oPhw95TSr0QYtuQZmQz3HCF46pdtng_RzyeKijdqzDg-IVylzSArxCRXCDZk-yR8Qn9I34KzYcBaU2O2qzBGY8upo2bcGqWCrtw49YO014DdMZ0fFC-tTj0hatNiIjPO2dFIJ7NTEolzX9frIdU7Wj4dHfE5MNve-g,accounts.google.com,/,2018-03-08T07:39:05.152Z NID,77=uBmiIkXLq-KoTCybNmh-HIJ_Glk66o6ghfhheok_MuUKq7bdDYG_Hjz_Cl9iQ3w_aC7W3OraLwCA1Z1FGsj5mHigFRP2x7rhEFIMCWzAvcWHjTLadN3l4zTR298Y6_MzhYjQ7ldYkWwm7AeNhH8DSwAX2tIFjNAAgwq0qKem3nQ8,.google.com,/,2016-09-07T07:39:08.000Z OSID,DQAAAOgAAAAyeLNviqzNsnfKY3hBVxBsBwrBIhtXzfHczYTZgJ67v95rWaZug0IOHWiqWWNC0ONVM3diQXbILSX7k2Q7uDe6L4kw1cW-cmy182eFgOLMUDHvjJX_w4KqSzeBg0j35oMl2Liry4lGgJrEcqC1j5U09-Ajp833YJXmEnSDGThoPpA1qDZUV5HEXRuFe0IPjg0-1kefb7gKS0qPZrfRNxmkQEuwXHm_-eF8I74kJayRhb_63B6sIS8Rh9SptL96yr3TbIm8ts848VrVgzDe-P-8M0-udj23fzP4gHiBfQiCHcieW8tYpBLa4wxrdyisWDg,mail.google.com,/,2018-03-08T07:39:05.209Z S,gmail=q9BVNpH9RP3lPg5ILmg7Fg,mail.google.com,/mail,2016-03-08T08:37:26.587Z SAPISID,DWTVdyBtEsfORAQj/Am1v0DlUcXDyOsXNc,.google.com,/,2018-03-08T07:39:05.075Z SID,DQAAANUAAAB2Dz8fsbvfMagUAld2MG79EDApmA3CUGxG_WhIee-GNTlXbTJUgstWVR7L9ziQNhKCEqaagkkIC5UD7bneBkE36EhII3x-X8cL6ZvLDhaQ4X05mDBwge-psniKCvO2GnQMDTexAr9GXwhyFVH08lh4-mf7FQBVDlKRVT6kc8KTBDGOESMrAxu_FWnIeHDxHuhjB_QI6NFkmNJFBd3ibQm3U64dqysDcWu1J5JFvwkUUqBAvayNSZ0J5D3NH2SyUpmj7rwwb-HHSip6qs0mY8l7PhX5vnOQm4-LfNXvjW9gAw,.google.com,/,2018-03-08T07:39:05.075Z SSID,AgjMkzLDgzcC2XlnB,.google.com,/,2018-03-08T07:39:05.075Z 
+2016-03-15 23:01:31,777 DEBUG url - https://www.facebook.com/recover/initiate?lwv=110
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - act,1457422946710%2F2,.facebook.com,/,Session,20,,, c_user,100011429551423,.facebook.com,/,Session,21,,✓, csm,2,.facebook.com,/,Session,4,,, datr,wYHeVrNmRuvqpfN6-7X0aqT1,.facebook.com,/,2018-03-08T07:40:03.977Z,28,✓,, fr,09UPTSC5ubH1mtd7g.AWW-pld4v1M1DtQiUL0-LwGG148.BW3oHU.Vm.Fbe.0.AWXuvTcA,.facebook.com,/,2016-06-06T07:42:26.680Z,72,✓,, lu,RgHYlC5gHgRBLqGdZlB1hIuw,.facebook.com,/,2018-03-08T07:40:03.978Z,26,✓,✓, p,-2,.facebook.com,/,Session,3,,, pl,n,.facebook.com,/,Session,3,✓,✓, presence,EDvF3EtimeF1457422956EuserFA21B11429551423A2EstateFDt2F_5b_5dElm2FnullEuct2F1457422205BEtrFnullEtwF3048002834EatF1457422952826G457422956201CEchFDp_5f1B11429551423F3CC,.facebook.com,/,Session,174,,✓, s,Aa6tjoZcZrLCESba.BW3oHU,.facebook.com,/,Session,24,✓,✓, xs,59%3A-riCJHQWk6jF2A%3A2%3A1457422804%3A-1,.facebook.com,/,Session,43,✓,✓, 
+2016-03-15 23:01:31,778 DEBUG url - https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ltmpl=default
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - ACCOUNT_CHOOSER,AFx_qI7ZD6SXUm6nHW8b8fLCIqJNhI3AS7zyYLm1XBJF-JarDbAC1HJtVujWRwvrW7VAjhrY0Dpaq5tCcUHN3tvAQW-Aq0tO_bFMzbSGsC4_vTFUyv2ojW-peV7nYrjhs-iHNPMleFXa,accounts.google.com,/,2018-03-08T07:39:05.076Z APISID,h4VxjqXv1r74TZbl/APKp3m7CjJrfhRzsZ,.google.com,/,2018-03-08T07:39:05.075Z COMPASS,gmail=CiUACWuJVwnZZfVpxilGaOKvEbSP6HvQw_vNx3Izc8KFb7yv48NeENSe-rYF,mail.google.com,/mail,2016-03-18T07:37:26.587Z GALX,NOdgTuEdRxI,accounts.google.com,/,Session GAPS,1:NxLYXFgZZnlrBP90YrXMTWU6GGfJFA:TiNJMfktsPw60tpj,accounts.google.com,/,2018-03-08T07:39:05.151Z GMAIL_AT,AF6bupPRqpj6oP37-7dmHQ4uAaHU9GFZyw,mail.google.com,/mail,Session GMAIL_RTT,39,.google.com,/,Session HSID,A5EZnHjSQKlB3u_TV,.google.com,/,2018-03-08T07:39:05.075Z LSID,mail|o.mail.google.com|s.youtube:DQAAANgAAABfL3ulic1Ist4RygWHpVFAE2cdjnd1OqtrHsVLc_rGWuezH8buD23t03nLV3GwcFa_8UH4YpBt8W6acE1fYWKa4lgW4rlat_Ttupxi-5BDJUtQ_wNc1j1ycWap_aq6ycXmOCzWeUp-oPhw95TSr0QYtuQZmQz3HCF46pdtng_RzyeKijdqzDg-IVylzSArxCRXCDZk-yR8Qn9I34KzYcBaU2O2qzBGY8upo2bcGqWCrtw49YO014DdMZ0fFC-tTj0hatNiIjPO2dFIJ7NTEolzX9frIdU7Wj4dHfE5MNve-g,accounts.google.com,/,2018-03-08T07:39:05.152Z NID,77=uBmiIkXLq-KoTCybNmh-HIJ_Glk66o6ghfhheok_MuUKq7bdDYG_Hjz_Cl9iQ3w_aC7W3OraLwCA1Z1FGsj5mHigFRP2x7rhEFIMCWzAvcWHjTLadN3l4zTR298Y6_MzhYjQ7ldYkWwm7AeNhH8DSwAX2tIFjNAAgwq0qKem3nQ8,.google.com,/,2016-09-07T07:39:08.000Z OSID,DQAAAOgAAAAyeLNviqzNsnfKY3hBVxBsBwrBIhtXzfHczYTZgJ67v95rWaZug0IOHWiqWWNC0ONVM3diQXbILSX7k2Q7uDe6L4kw1cW-cmy182eFgOLMUDHvjJX_w4KqSzeBg0j35oMl2Liry4lGgJrEcqC1j5U09-Ajp833YJXmEnSDGThoPpA1qDZUV5HEXRuFe0IPjg0-1kefb7gKS0qPZrfRNxmkQEuwXHm_-eF8I74kJayRhb_63B6sIS8Rh9SptL96yr3TbIm8ts848VrVgzDe-P-8M0-udj23fzP4gHiBfQiCHcieW8tYpBLa4wxrdyisWDg,mail.google.com,/,2018-03-08T07:39:05.209Z S,gmail=q9BVNpH9RP3lPg5ILmg7Fg,mail.google.com,/mail,2016-03-08T08:37:26.587Z SAPISID,DWTVdyBtEsfORAQj/Am1v0DlUcXDyOsXNc,.google.com,/,2018-03-08T07:39:05.075Z SID,DQAAANUAAAB2Dz8fsbvfMagUAld2MG79EDApmA3CUGxG_WhIee-GNTlXbTJUgstWVR7L9ziQNhKCEqaagkkIC5UD7bneBkE36EhII3x-X8cL6ZvLDhaQ4X05mDBwge-psniKCvO2GnQMDTexAr9GXwhyFVH08lh4-mf7FQBVDlKRVT6kc8KTBDGOESMrAxu_FWnIeHDxHuhjB_QI6NFkmNJFBd3ibQm3U64dqysDcWu1J5JFvwkUUqBAvayNSZ0J5D3NH2SyUpmj7rwwb-HHSip6qs0mY8l7PhX5vnOQm4-LfNXvjW9gAw,.google.com,/,2018-03-08T07:39:05.075Z SSID,AgjMkzLDgzcC2XlnB,.google.com,/,2018-03-08T07:39:05.075Z 
+2016-03-15 23:01:31,778 DEBUG url - https://www.facebook.com/legal/terms
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - act,1457422946710%2F2,.facebook.com,/,Session,20,,, c_user,100011429551423,.facebook.com,/,Session,21,,✓, csm,2,.facebook.com,/,Session,4,,, datr,wYHeVrNmRuvqpfN6-7X0aqT1,.facebook.com,/,2018-03-08T07:40:03.977Z,28,✓,, fr,09UPTSC5ubH1mtd7g.AWW-pld4v1M1DtQiUL0-LwGG148.BW3oHU.Vm.Fbe.0.AWXuvTcA,.facebook.com,/,2016-06-06T07:42:26.680Z,72,✓,, lu,RgHYlC5gHgRBLqGdZlB1hIuw,.facebook.com,/,2018-03-08T07:40:03.978Z,26,✓,✓, p,-2,.facebook.com,/,Session,3,,, pl,n,.facebook.com,/,Session,3,✓,✓, presence,EDvF3EtimeF1457422956EuserFA21B11429551423A2EstateFDt2F_5b_5dElm2FnullEuct2F1457422205BEtrFnullEtwF3048002834EatF1457422952826G457422956201CEchFDp_5f1B11429551423F3CC,.facebook.com,/,Session,174,,✓, s,Aa6tjoZcZrLCESba.BW3oHU,.facebook.com,/,Session,24,✓,✓, xs,59%3A-riCJHQWk6jF2A%3A2%3A1457422804%3A-1,.facebook.com,/,Session,43,✓,✓, 
+2016-03-15 23:01:31,778 INFO [MAIN] no working process ... 
+2016-03-15 23:01:31,778 INFO [MAIN] allocate task [https://accounts.google.com/RecoverAccount?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ignoreShadow=0&hl=en] to a worker [0 instance running]
+2016-03-15 23:01:31,779 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'https://accounts.google.com/RecoverAccount?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ignoreShadow=0&hl=en', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', 'ACCOUNT_CHOOSER,AFx_qI7ZD6SXUm6nHW8b8fLCIqJNhI3AS7zyYLm1XBJF-JarDbAC1HJtVujWRwvrW7VAjhrY0Dpaq5tCcUHN3tvAQW-Aq0tO_bFMzbSGsC4_vTFUyv2ojW-peV7nYrjhs-iHNPMleFXa,accounts.google.com,/,2018-03-08T07:39:05.076Z APISID,h4VxjqXv1r74TZbl/APKp3m7CjJrfhRzsZ,.google.com,/,2018-03-08T07:39:05.075Z COMPASS,gmail=CiUACWuJVwnZZfVpxilGaOKvEbSP6HvQw_vNx3Izc8KFb7yv48NeENSe-rYF,mail.google.com,/mail,2016-03-18T07:37:26.587Z GALX,NOdgTuEdRxI,accounts.google.com,/,Session GAPS,1:NxLYXFgZZnlrBP90YrXMTWU6GGfJFA:TiNJMfktsPw60tpj,accounts.google.com,/,2018-03-08T07:39:05.151Z GMAIL_AT,AF6bupPRqpj6oP37-7dmHQ4uAaHU9GFZyw,mail.google.com,/mail,Session GMAIL_RTT,39,.google.com,/,Session HSID,A5EZnHjSQKlB3u_TV,.google.com,/,2018-03-08T07:39:05.075Z LSID,mail|o.mail.google.com|s.youtube:DQAAANgAAABfL3ulic1Ist4RygWHpVFAE2cdjnd1OqtrHsVLc_rGWuezH8buD23t03nLV3GwcFa_8UH4YpBt8W6acE1fYWKa4lgW4rlat_Ttupxi-5BDJUtQ_wNc1j1ycWap_aq6ycXmOCzWeUp-oPhw95TSr0QYtuQZmQz3HCF46pdtng_RzyeKijdqzDg-IVylzSArxCRXCDZk-yR8Qn9I34KzYcBaU2O2qzBGY8upo2bcGqWCrtw49YO014DdMZ0fFC-tTj0hatNiIjPO2dFIJ7NTEolzX9frIdU7Wj4dHfE5MNve-g,accounts.google.com,/,2018-03-08T07:39:05.152Z NID,77=uBmiIkXLq-KoTCybNmh-HIJ_Glk66o6ghfhheok_MuUKq7bdDYG_Hjz_Cl9iQ3w_aC7W3OraLwCA1Z1FGsj5mHigFRP2x7rhEFIMCWzAvcWHjTLadN3l4zTR298Y6_MzhYjQ7ldYkWwm7AeNhH8DSwAX2tIFjNAAgwq0qKem3nQ8,.google.com,/,2016-09-07T07:39:08.000Z OSID,DQAAAOgAAAAyeLNviqzNsnfKY3hBVxBsBwrBIhtXzfHczYTZgJ67v95rWaZug0IOHWiqWWNC0ONVM3diQXbILSX7k2Q7uDe6L4kw1cW-cmy182eFgOLMUDHvjJX_w4KqSzeBg0j35oMl2Liry4lGgJrEcqC1j5U09-Ajp833YJXmEnSDGThoPpA1qDZUV5HEXRuFe0IPjg0-1kefb7gKS0qPZrfRNxmkQEuwXHm_-eF8I74kJayRhb_63B6sIS8Rh9SptL96yr3TbIm8ts848VrVgzDe-P-8M0-udj23fzP4gHiBfQiCHcieW8tYpBLa4wxrdyisWDg,mail.google.com,/,2018-03-08T07:39:05.209Z S,gmail=q9BVNpH9RP3lPg5ILmg7Fg,mail.google.com,/mail,2016-03-08T08:37:26.587Z SAPISID,DWTVdyBtEsfORAQj/Am1v0DlUcXDyOsXNc,.google.com,/,2018-03-08T07:39:05.075Z SID,DQAAANUAAAB2Dz8fsbvfMagUAld2MG79EDApmA3CUGxG_WhIee-GNTlXbTJUgstWVR7L9ziQNhKCEqaagkkIC5UD7bneBkE36EhII3x-X8cL6ZvLDhaQ4X05mDBwge-psniKCvO2GnQMDTexAr9GXwhyFVH08lh4-mf7FQBVDlKRVT6kc8KTBDGOESMrAxu_FWnIeHDxHuhjB_QI6NFkmNJFBd3ibQm3U64dqysDcWu1J5JFvwkUUqBAvayNSZ0J5D3NH2SyUpmj7rwwb-HHSip6qs0mY8l7PhX5vnOQm4-LfNXvjW9gAw,.google.com,/,2018-03-08T07:39:05.075Z SSID,AgjMkzLDgzcC2XlnB,.google.com,/,2018-03-08T07:39:05.075Z ']
+2016-03-15 23:01:33,092 INFO [MAIN] successfully run https://accounts.google.com/RecoverAccount?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ignoreShadow=0&hl=en withpid:17643, full_path:log_dir/accounts.google.com_eb1671f6-44c5-457e-a9ed-18590753ea75
+2016-03-15 23:01:33,092 INFO [MAIN] allocate task [https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&ltmpl=default&dsh=-4991224122901578707] to a worker [1 instance running]
+2016-03-15 23:01:33,093 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&ltmpl=default&dsh=-4991224122901578707', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', 'ACCOUNT_CHOOSER,AFx_qI7ZD6SXUm6nHW8b8fLCIqJNhI3AS7zyYLm1XBJF-JarDbAC1HJtVujWRwvrW7VAjhrY0Dpaq5tCcUHN3tvAQW-Aq0tO_bFMzbSGsC4_vTFUyv2ojW-peV7nYrjhs-iHNPMleFXa,accounts.google.com,/,2018-03-08T07:39:05.076Z APISID,h4VxjqXv1r74TZbl/APKp3m7CjJrfhRzsZ,.google.com,/,2018-03-08T07:39:05.075Z COMPASS,gmail=CiUACWuJVwnZZfVpxilGaOKvEbSP6HvQw_vNx3Izc8KFb7yv48NeENSe-rYF,mail.google.com,/mail,2016-03-18T07:37:26.587Z GALX,NOdgTuEdRxI,accounts.google.com,/,Session GAPS,1:NxLYXFgZZnlrBP90YrXMTWU6GGfJFA:TiNJMfktsPw60tpj,accounts.google.com,/,2018-03-08T07:39:05.151Z GMAIL_AT,AF6bupPRqpj6oP37-7dmHQ4uAaHU9GFZyw,mail.google.com,/mail,Session GMAIL_RTT,39,.google.com,/,Session HSID,A5EZnHjSQKlB3u_TV,.google.com,/,2018-03-08T07:39:05.075Z LSID,mail|o.mail.google.com|s.youtube:DQAAANgAAABfL3ulic1Ist4RygWHpVFAE2cdjnd1OqtrHsVLc_rGWuezH8buD23t03nLV3GwcFa_8UH4YpBt8W6acE1fYWKa4lgW4rlat_Ttupxi-5BDJUtQ_wNc1j1ycWap_aq6ycXmOCzWeUp-oPhw95TSr0QYtuQZmQz3HCF46pdtng_RzyeKijdqzDg-IVylzSArxCRXCDZk-yR8Qn9I34KzYcBaU2O2qzBGY8upo2bcGqWCrtw49YO014DdMZ0fFC-tTj0hatNiIjPO2dFIJ7NTEolzX9frIdU7Wj4dHfE5MNve-g,accounts.google.com,/,2018-03-08T07:39:05.152Z NID,77=uBmiIkXLq-KoTCybNmh-HIJ_Glk66o6ghfhheok_MuUKq7bdDYG_Hjz_Cl9iQ3w_aC7W3OraLwCA1Z1FGsj5mHigFRP2x7rhEFIMCWzAvcWHjTLadN3l4zTR298Y6_MzhYjQ7ldYkWwm7AeNhH8DSwAX2tIFjNAAgwq0qKem3nQ8,.google.com,/,2016-09-07T07:39:08.000Z OSID,DQAAAOgAAAAyeLNviqzNsnfKY3hBVxBsBwrBIhtXzfHczYTZgJ67v95rWaZug0IOHWiqWWNC0ONVM3diQXbILSX7k2Q7uDe6L4kw1cW-cmy182eFgOLMUDHvjJX_w4KqSzeBg0j35oMl2Liry4lGgJrEcqC1j5U09-Ajp833YJXmEnSDGThoPpA1qDZUV5HEXRuFe0IPjg0-1kefb7gKS0qPZrfRNxmkQEuwXHm_-eF8I74kJayRhb_63B6sIS8Rh9SptL96yr3TbIm8ts848VrVgzDe-P-8M0-udj23fzP4gHiBfQiCHcieW8tYpBLa4wxrdyisWDg,mail.google.com,/,2018-03-08T07:39:05.209Z S,gmail=q9BVNpH9RP3lPg5ILmg7Fg,mail.google.com,/mail,2016-03-08T08:37:26.587Z SAPISID,DWTVdyBtEsfORAQj/Am1v0DlUcXDyOsXNc,.google.com,/,2018-03-08T07:39:05.075Z SID,DQAAANUAAAB2Dz8fsbvfMagUAld2MG79EDApmA3CUGxG_WhIee-GNTlXbTJUgstWVR7L9ziQNhKCEqaagkkIC5UD7bneBkE36EhII3x-X8cL6ZvLDhaQ4X05mDBwge-psniKCvO2GnQMDTexAr9GXwhyFVH08lh4-mf7FQBVDlKRVT6kc8KTBDGOESMrAxu_FWnIeHDxHuhjB_QI6NFkmNJFBd3ibQm3U64dqysDcWu1J5JFvwkUUqBAvayNSZ0J5D3NH2SyUpmj7rwwb-HHSip6qs0mY8l7PhX5vnOQm4-LfNXvjW9gAw,.google.com,/,2018-03-08T07:39:05.075Z SSID,AgjMkzLDgzcC2XlnB,.google.com,/,2018-03-08T07:39:05.075Z ']
+2016-03-15 23:01:34,102 INFO [MAIN] successfully run https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&ltmpl=default&dsh=-4991224122901578707 withpid:17646, full_path:log_dir/accounts.google.com_6075202c-4e58-4110-92c2-f00947fe7cfe
+2016-03-15 23:01:34,103 INFO [MAIN] allocate task [https://www.facebook.com/about/privacy] to a worker [2 instance running]
+2016-03-15 23:01:34,104 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'https://www.facebook.com/about/privacy', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', 'act,1457422946710%2F2,.facebook.com,/,Session,20,,, c_user,100011429551423,.facebook.com,/,Session,21,,\xe2\x9c\x93, csm,2,.facebook.com,/,Session,4,,, datr,wYHeVrNmRuvqpfN6-7X0aqT1,.facebook.com,/,2018-03-08T07:40:03.977Z,28,\xe2\x9c\x93,, fr,09UPTSC5ubH1mtd7g.AWW-pld4v1M1DtQiUL0-LwGG148.BW3oHU.Vm.Fbe.0.AWXuvTcA,.facebook.com,/,2016-06-06T07:42:26.680Z,72,\xe2\x9c\x93,, lu,RgHYlC5gHgRBLqGdZlB1hIuw,.facebook.com,/,2018-03-08T07:40:03.978Z,26,\xe2\x9c\x93,\xe2\x9c\x93, p,-2,.facebook.com,/,Session,3,,, pl,n,.facebook.com,/,Session,3,\xe2\x9c\x93,\xe2\x9c\x93, presence,EDvF3EtimeF1457422956EuserFA21B11429551423A2EstateFDt2F_5b_5dElm2FnullEuct2F1457422205BEtrFnullEtwF3048002834EatF1457422952826G457422956201CEchFDp_5f1B11429551423F3CC,.facebook.com,/,Session,174,,\xe2\x9c\x93, s,Aa6tjoZcZrLCESba.BW3oHU,.facebook.com,/,Session,24,\xe2\x9c\x93,\xe2\x9c\x93, xs,59%3A-riCJHQWk6jF2A%3A2%3A1457422804%3A-1,.facebook.com,/,Session,43,\xe2\x9c\x93,\xe2\x9c\x93, ']
+2016-03-15 23:01:35,114 INFO [MAIN] successfully run https://www.facebook.com/about/privacy withpid:17647, full_path:log_dir/www.facebook.com_57eade50-956e-4b3c-a02b-9e73e1462cf3
+2016-03-15 23:01:35,114 INFO [MAIN] allocate task [https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&hl=en&service=mail&scc=1] to a worker [3 instance running]
+2016-03-15 23:01:35,115 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&hl=en&service=mail&scc=1', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', 'ACCOUNT_CHOOSER,AFx_qI7ZD6SXUm6nHW8b8fLCIqJNhI3AS7zyYLm1XBJF-JarDbAC1HJtVujWRwvrW7VAjhrY0Dpaq5tCcUHN3tvAQW-Aq0tO_bFMzbSGsC4_vTFUyv2ojW-peV7nYrjhs-iHNPMleFXa,accounts.google.com,/,2018-03-08T07:39:05.076Z APISID,h4VxjqXv1r74TZbl/APKp3m7CjJrfhRzsZ,.google.com,/,2018-03-08T07:39:05.075Z COMPASS,gmail=CiUACWuJVwnZZfVpxilGaOKvEbSP6HvQw_vNx3Izc8KFb7yv48NeENSe-rYF,mail.google.com,/mail,2016-03-18T07:37:26.587Z GALX,NOdgTuEdRxI,accounts.google.com,/,Session GAPS,1:NxLYXFgZZnlrBP90YrXMTWU6GGfJFA:TiNJMfktsPw60tpj,accounts.google.com,/,2018-03-08T07:39:05.151Z GMAIL_AT,AF6bupPRqpj6oP37-7dmHQ4uAaHU9GFZyw,mail.google.com,/mail,Session GMAIL_RTT,39,.google.com,/,Session HSID,A5EZnHjSQKlB3u_TV,.google.com,/,2018-03-08T07:39:05.075Z LSID,mail|o.mail.google.com|s.youtube:DQAAANgAAABfL3ulic1Ist4RygWHpVFAE2cdjnd1OqtrHsVLc_rGWuezH8buD23t03nLV3GwcFa_8UH4YpBt8W6acE1fYWKa4lgW4rlat_Ttupxi-5BDJUtQ_wNc1j1ycWap_aq6ycXmOCzWeUp-oPhw95TSr0QYtuQZmQz3HCF46pdtng_RzyeKijdqzDg-IVylzSArxCRXCDZk-yR8Qn9I34KzYcBaU2O2qzBGY8upo2bcGqWCrtw49YO014DdMZ0fFC-tTj0hatNiIjPO2dFIJ7NTEolzX9frIdU7Wj4dHfE5MNve-g,accounts.google.com,/,2018-03-08T07:39:05.152Z NID,77=uBmiIkXLq-KoTCybNmh-HIJ_Glk66o6ghfhheok_MuUKq7bdDYG_Hjz_Cl9iQ3w_aC7W3OraLwCA1Z1FGsj5mHigFRP2x7rhEFIMCWzAvcWHjTLadN3l4zTR298Y6_MzhYjQ7ldYkWwm7AeNhH8DSwAX2tIFjNAAgwq0qKem3nQ8,.google.com,/,2016-09-07T07:39:08.000Z OSID,DQAAAOgAAAAyeLNviqzNsnfKY3hBVxBsBwrBIhtXzfHczYTZgJ67v95rWaZug0IOHWiqWWNC0ONVM3diQXbILSX7k2Q7uDe6L4kw1cW-cmy182eFgOLMUDHvjJX_w4KqSzeBg0j35oMl2Liry4lGgJrEcqC1j5U09-Ajp833YJXmEnSDGThoPpA1qDZUV5HEXRuFe0IPjg0-1kefb7gKS0qPZrfRNxmkQEuwXHm_-eF8I74kJayRhb_63B6sIS8Rh9SptL96yr3TbIm8ts848VrVgzDe-P-8M0-udj23fzP4gHiBfQiCHcieW8tYpBLa4wxrdyisWDg,mail.google.com,/,2018-03-08T07:39:05.209Z S,gmail=q9BVNpH9RP3lPg5ILmg7Fg,mail.google.com,/mail,2016-03-08T08:37:26.587Z SAPISID,DWTVdyBtEsfORAQj/Am1v0DlUcXDyOsXNc,.google.com,/,2018-03-08T07:39:05.075Z SID,DQAAANUAAAB2Dz8fsbvfMagUAld2MG79EDApmA3CUGxG_WhIee-GNTlXbTJUgstWVR7L9ziQNhKCEqaagkkIC5UD7bneBkE36EhII3x-X8cL6ZvLDhaQ4X05mDBwge-psniKCvO2GnQMDTexAr9GXwhyFVH08lh4-mf7FQBVDlKRVT6kc8KTBDGOESMrAxu_FWnIeHDxHuhjB_QI6NFkmNJFBd3ibQm3U64dqysDcWu1J5JFvwkUUqBAvayNSZ0J5D3NH2SyUpmj7rwwb-HHSip6qs0mY8l7PhX5vnOQm4-LfNXvjW9gAw,.google.com,/,2018-03-08T07:39:05.075Z SSID,AgjMkzLDgzcC2XlnB,.google.com,/,2018-03-08T07:39:05.075Z ']
+2016-03-15 23:01:36,123 INFO [MAIN] successfully run https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&hl=en&service=mail&scc=1 withpid:17648, full_path:log_dir/accounts.google.com_b6fa5cc5-1e43-4f1b-bc9f-f8a77b8813ad
+2016-03-15 23:01:36,123 INFO [MAIN] allocate task [https://www.facebook.com/recover/initiate?lwv=110] to a worker [4 instance running]
+2016-03-15 23:01:36,124 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'https://www.facebook.com/recover/initiate?lwv=110', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', 'act,1457422946710%2F2,.facebook.com,/,Session,20,,, c_user,100011429551423,.facebook.com,/,Session,21,,\xe2\x9c\x93, csm,2,.facebook.com,/,Session,4,,, datr,wYHeVrNmRuvqpfN6-7X0aqT1,.facebook.com,/,2018-03-08T07:40:03.977Z,28,\xe2\x9c\x93,, fr,09UPTSC5ubH1mtd7g.AWW-pld4v1M1DtQiUL0-LwGG148.BW3oHU.Vm.Fbe.0.AWXuvTcA,.facebook.com,/,2016-06-06T07:42:26.680Z,72,\xe2\x9c\x93,, lu,RgHYlC5gHgRBLqGdZlB1hIuw,.facebook.com,/,2018-03-08T07:40:03.978Z,26,\xe2\x9c\x93,\xe2\x9c\x93, p,-2,.facebook.com,/,Session,3,,, pl,n,.facebook.com,/,Session,3,\xe2\x9c\x93,\xe2\x9c\x93, presence,EDvF3EtimeF1457422956EuserFA21B11429551423A2EstateFDt2F_5b_5dElm2FnullEuct2F1457422205BEtrFnullEtwF3048002834EatF1457422952826G457422956201CEchFDp_5f1B11429551423F3CC,.facebook.com,/,Session,174,,\xe2\x9c\x93, s,Aa6tjoZcZrLCESba.BW3oHU,.facebook.com,/,Session,24,\xe2\x9c\x93,\xe2\x9c\x93, xs,59%3A-riCJHQWk6jF2A%3A2%3A1457422804%3A-1,.facebook.com,/,Session,43,\xe2\x9c\x93,\xe2\x9c\x93, ']
+2016-03-15 23:01:37,132 INFO [MAIN] successfully run https://www.facebook.com/recover/initiate?lwv=110 withpid:17649, full_path:log_dir/www.facebook.com_dbaea6b3-a2e6-42b5-a986-46a50cc40547
+2016-03-15 23:01:41,786 INFO http server is running...
+2016-03-15 23:01:42,137 INFO [MAIN] EXIT[0] worker[0] https://accounts.google.com/RecoverAccount?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ignoreShadow=0&hl=en pid[17643]
+2016-03-15 23:01:42,137 INFO [MAIN] worker[0] https://accounts.google.com/RecoverAccount?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ignoreShadow=0&hl=en finished its job, kill it
+2016-03-15 23:01:42,138 INFO [MAIN] EXIT[0] worker[0] https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&ltmpl=default&dsh=-4991224122901578707 pid[17646]
+2016-03-15 23:01:42,138 INFO [MAIN] worker[0] https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&ltmpl=default&dsh=-4991224122901578707 finished its job, kill it
+2016-03-15 23:01:42,138 INFO [MAIN] EXIT[0] worker[0] https://www.facebook.com/about/privacy pid[17647]
+2016-03-15 23:01:42,138 INFO [MAIN] worker[0] https://www.facebook.com/about/privacy finished its job, kill it
+2016-03-15 23:01:42,138 INFO [MAIN] EXIT[0] worker[0] https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&hl=en&service=mail&scc=1 pid[17648]
+2016-03-15 23:01:42,139 INFO [MAIN] worker[0] https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&hl=en&service=mail&scc=1 finished its job, kill it
+2016-03-15 23:01:42,139 INFO [MAIN] EXIT[0] worker[0] https://www.facebook.com/recover/initiate?lwv=110 pid[17649]
+2016-03-15 23:01:42,139 INFO [MAIN] worker[0] https://www.facebook.com/recover/initiate?lwv=110 finished its job, kill it
+2016-03-15 23:01:42,139 INFO [MAIN] no working process ... 
+2016-03-15 23:01:42,139 INFO [MAIN] allocate task [https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ltmpl=default] to a worker [0 instance running]
+2016-03-15 23:01:42,140 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ltmpl=default', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', 'ACCOUNT_CHOOSER,AFx_qI7ZD6SXUm6nHW8b8fLCIqJNhI3AS7zyYLm1XBJF-JarDbAC1HJtVujWRwvrW7VAjhrY0Dpaq5tCcUHN3tvAQW-Aq0tO_bFMzbSGsC4_vTFUyv2ojW-peV7nYrjhs-iHNPMleFXa,accounts.google.com,/,2018-03-08T07:39:05.076Z APISID,h4VxjqXv1r74TZbl/APKp3m7CjJrfhRzsZ,.google.com,/,2018-03-08T07:39:05.075Z COMPASS,gmail=CiUACWuJVwnZZfVpxilGaOKvEbSP6HvQw_vNx3Izc8KFb7yv48NeENSe-rYF,mail.google.com,/mail,2016-03-18T07:37:26.587Z GALX,NOdgTuEdRxI,accounts.google.com,/,Session GAPS,1:NxLYXFgZZnlrBP90YrXMTWU6GGfJFA:TiNJMfktsPw60tpj,accounts.google.com,/,2018-03-08T07:39:05.151Z GMAIL_AT,AF6bupPRqpj6oP37-7dmHQ4uAaHU9GFZyw,mail.google.com,/mail,Session GMAIL_RTT,39,.google.com,/,Session HSID,A5EZnHjSQKlB3u_TV,.google.com,/,2018-03-08T07:39:05.075Z LSID,mail|o.mail.google.com|s.youtube:DQAAANgAAABfL3ulic1Ist4RygWHpVFAE2cdjnd1OqtrHsVLc_rGWuezH8buD23t03nLV3GwcFa_8UH4YpBt8W6acE1fYWKa4lgW4rlat_Ttupxi-5BDJUtQ_wNc1j1ycWap_aq6ycXmOCzWeUp-oPhw95TSr0QYtuQZmQz3HCF46pdtng_RzyeKijdqzDg-IVylzSArxCRXCDZk-yR8Qn9I34KzYcBaU2O2qzBGY8upo2bcGqWCrtw49YO014DdMZ0fFC-tTj0hatNiIjPO2dFIJ7NTEolzX9frIdU7Wj4dHfE5MNve-g,accounts.google.com,/,2018-03-08T07:39:05.152Z NID,77=uBmiIkXLq-KoTCybNmh-HIJ_Glk66o6ghfhheok_MuUKq7bdDYG_Hjz_Cl9iQ3w_aC7W3OraLwCA1Z1FGsj5mHigFRP2x7rhEFIMCWzAvcWHjTLadN3l4zTR298Y6_MzhYjQ7ldYkWwm7AeNhH8DSwAX2tIFjNAAgwq0qKem3nQ8,.google.com,/,2016-09-07T07:39:08.000Z OSID,DQAAAOgAAAAyeLNviqzNsnfKY3hBVxBsBwrBIhtXzfHczYTZgJ67v95rWaZug0IOHWiqWWNC0ONVM3diQXbILSX7k2Q7uDe6L4kw1cW-cmy182eFgOLMUDHvjJX_w4KqSzeBg0j35oMl2Liry4lGgJrEcqC1j5U09-Ajp833YJXmEnSDGThoPpA1qDZUV5HEXRuFe0IPjg0-1kefb7gKS0qPZrfRNxmkQEuwXHm_-eF8I74kJayRhb_63B6sIS8Rh9SptL96yr3TbIm8ts848VrVgzDe-P-8M0-udj23fzP4gHiBfQiCHcieW8tYpBLa4wxrdyisWDg,mail.google.com,/,2018-03-08T07:39:05.209Z S,gmail=q9BVNpH9RP3lPg5ILmg7Fg,mail.google.com,/mail,2016-03-08T08:37:26.587Z SAPISID,DWTVdyBtEsfORAQj/Am1v0DlUcXDyOsXNc,.google.com,/,2018-03-08T07:39:05.075Z SID,DQAAANUAAAB2Dz8fsbvfMagUAld2MG79EDApmA3CUGxG_WhIee-GNTlXbTJUgstWVR7L9ziQNhKCEqaagkkIC5UD7bneBkE36EhII3x-X8cL6ZvLDhaQ4X05mDBwge-psniKCvO2GnQMDTexAr9GXwhyFVH08lh4-mf7FQBVDlKRVT6kc8KTBDGOESMrAxu_FWnIeHDxHuhjB_QI6NFkmNJFBd3ibQm3U64dqysDcWu1J5JFvwkUUqBAvayNSZ0J5D3NH2SyUpmj7rwwb-HHSip6qs0mY8l7PhX5vnOQm4-LfNXvjW9gAw,.google.com,/,2018-03-08T07:39:05.075Z SSID,AgjMkzLDgzcC2XlnB,.google.com,/,2018-03-08T07:39:05.075Z ']
+2016-03-15 23:01:43,152 INFO [MAIN] successfully run https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ltmpl=default withpid:17651, full_path:log_dir/accounts.google.com_68c2ec4b-d949-4648-9076-903b5b619a71
+2016-03-15 23:01:43,152 INFO [MAIN] allocate task [https://www.facebook.com/legal/terms] to a worker [1 instance running]
+2016-03-15 23:01:43,154 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'https://www.facebook.com/legal/terms', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', 'act,1457422946710%2F2,.facebook.com,/,Session,20,,, c_user,100011429551423,.facebook.com,/,Session,21,,\xe2\x9c\x93, csm,2,.facebook.com,/,Session,4,,, datr,wYHeVrNmRuvqpfN6-7X0aqT1,.facebook.com,/,2018-03-08T07:40:03.977Z,28,\xe2\x9c\x93,, fr,09UPTSC5ubH1mtd7g.AWW-pld4v1M1DtQiUL0-LwGG148.BW3oHU.Vm.Fbe.0.AWXuvTcA,.facebook.com,/,2016-06-06T07:42:26.680Z,72,\xe2\x9c\x93,, lu,RgHYlC5gHgRBLqGdZlB1hIuw,.facebook.com,/,2018-03-08T07:40:03.978Z,26,\xe2\x9c\x93,\xe2\x9c\x93, p,-2,.facebook.com,/,Session,3,,, pl,n,.facebook.com,/,Session,3,\xe2\x9c\x93,\xe2\x9c\x93, presence,EDvF3EtimeF1457422956EuserFA21B11429551423A2EstateFDt2F_5b_5dElm2FnullEuct2F1457422205BEtrFnullEtwF3048002834EatF1457422952826G457422956201CEchFDp_5f1B11429551423F3CC,.facebook.com,/,Session,174,,\xe2\x9c\x93, s,Aa6tjoZcZrLCESba.BW3oHU,.facebook.com,/,Session,24,\xe2\x9c\x93,\xe2\x9c\x93, xs,59%3A-riCJHQWk6jF2A%3A2%3A1457422804%3A-1,.facebook.com,/,Session,43,\xe2\x9c\x93,\xe2\x9c\x93, ']
+2016-03-15 23:01:44,165 INFO [MAIN] successfully run https://www.facebook.com/legal/terms withpid:17654, full_path:log_dir/www.facebook.com_2f726952-da78-4500-b127-64ab9e51462f
+2016-03-15 23:01:54,171 DEBUG [MAIN] queue empty timeout
+2016-03-15 23:01:59,176 INFO [MAIN] EXIT[0] worker[0] https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ltmpl=default pid[17651]
+2016-03-15 23:01:59,176 INFO [MAIN] worker[0] https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ltmpl=default finished its job, kill it
+2016-03-15 23:01:59,176 INFO [MAIN] EXIT[0] worker[0] https://www.facebook.com/legal/terms pid[17654]
+2016-03-15 23:01:59,177 INFO [MAIN] worker[0] https://www.facebook.com/legal/terms finished its job, kill it
+2016-03-15 23:01:59,177 INFO [MAIN] no working process ... 
+2016-03-15 23:33:28,642 DEBUG url - http://money.cnn.com/data/markets
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,646 DEBUG url - http://www.cnn.com/videos
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,647 DEBUG url - http://www.cnn.com/style
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,648 DEBUG url - http://money.cnn.com/luxury
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,648 DEBUG url - http://www.cnn.com/asia
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,648 DEBUG url - http://www.cnn.com/opinions
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,648 DEBUG url - http://www.cnn.com/us
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,649 DEBUG url - http://www.cnn.com/specials/politics/washington-politics
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,649 DEBUG url - http://www.cnn.com/travel
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,649 DEBUG url - http://money.cnn.com
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,649 DEBUG url - http://www.cnn.com/health
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,650 DEBUG url - http://money.cnn.com/media
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,650 DEBUG url - http://www.cnn.com/americas
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,650 DEBUG url - http://money.cnn.com/pf
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,650 DEBUG url - http://www.cnn.com/middle-east
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,651 DEBUG url - http://money.cnn.com/technology
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,651 DEBUG url - http://www.cnn.com/politics
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,651 DEBUG url - http://www.cnn.com/specials/opinion/opinion-social-issues
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,651 DEBUG url - http://www.cnn.com/specials/politics/national-politics
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,651 DEBUG url - http://www.cnn.com/specials/us/crime-and-justice
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,651 DEBUG url - http://www.cnn.com/specials/politics/world-politics
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,652 DEBUG url - http://www.cnn.com/specials/opinion/opinion-politics
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,653 DEBUG url - http://www.cnn.com/specials/us/extreme-weather
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,653 DEBUG url - http://www.cnn.com/specials/politics/2016-election
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,653 DEBUG url - http://money.cnn.com/services/privacy
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,653 DEBUG url - http://www.cnn.com/world
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,654 DEBUG url - http://www.cnn.com/entertainment
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,654 DEBUG url - http://www.cnn.com/specials/space-science
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,654 DEBUG url - http://www.cnn.com/africa
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,654 DEBUG url - http://www.cnn.com/specials/us/energy-and-environment
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,654 DEBUG url - http://www.cnn.com/europe
+times - 1
+userAgents - Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
+cookies - 
+2016-03-15 23:33:28,655 INFO [MAIN] no working process ... 
+2016-03-15 23:33:28,655 INFO [MAIN] allocate task [http://money.cnn.com/data/markets] to a worker [0 instance running]
+2016-03-15 23:33:28,655 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://money.cnn.com/data/markets', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:33:29,978 INFO [MAIN] successfully run http://money.cnn.com/data/markets withpid:18435, full_path:log_dir/money.cnn.com_bc7849bc-70b5-4bf9-bb5e-58eae824f1a6
+2016-03-15 23:33:29,978 INFO [MAIN] allocate task [http://www.cnn.com/videos] to a worker [1 instance running]
+2016-03-15 23:33:29,979 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/videos', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:33:30,987 INFO [MAIN] successfully run http://www.cnn.com/videos withpid:18436, full_path:log_dir/www.cnn.com_81d6b5f2-d349-4fca-b7ac-352c88d5b8d1
+2016-03-15 23:33:30,987 INFO [MAIN] allocate task [http://www.cnn.com/style] to a worker [2 instance running]
+2016-03-15 23:33:30,988 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/style', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:33:31,994 INFO [MAIN] successfully run http://www.cnn.com/style withpid:18437, full_path:log_dir/www.cnn.com_c3ed1b9c-d0c1-48c1-841c-224e1820ed45
+2016-03-15 23:33:31,994 INFO [MAIN] allocate task [http://money.cnn.com/luxury] to a worker [3 instance running]
+2016-03-15 23:33:31,995 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://money.cnn.com/luxury', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:33:33,004 INFO [MAIN] successfully run http://money.cnn.com/luxury withpid:18439, full_path:log_dir/money.cnn.com_83b9a154-968b-41ed-ae84-098cc9631bba
+2016-03-15 23:33:33,005 INFO [MAIN] allocate task [http://www.cnn.com/asia] to a worker [4 instance running]
+2016-03-15 23:33:33,006 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/asia', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:33:34,013 INFO [MAIN] successfully run http://www.cnn.com/asia withpid:18440, full_path:log_dir/www.cnn.com_3b162da2-f439-4c24-b365-95fa483ca616
+2016-03-15 23:33:38,661 INFO http server is running...
+2016-03-15 23:33:39,018 INFO [MAIN] process 18435 is still running
+2016-03-15 23:33:39,019 INFO [MAIN] process 18436 is still running
+2016-03-15 23:33:39,019 INFO [MAIN] process 18437 is still running
+2016-03-15 23:33:39,019 INFO [MAIN] process 18439 is still running
+2016-03-15 23:33:39,019 INFO [MAIN] process 18440 is still running
+2016-03-15 23:33:39,019 INFO [MAIN] all 5 workers are in processing
+2016-03-15 23:33:44,023 INFO [MAIN] EXIT[0] worker[0] http://money.cnn.com/data/markets pid[18435]
+2016-03-15 23:33:44,024 INFO [MAIN] worker[0] http://money.cnn.com/data/markets finished its job, kill it
+2016-03-15 23:33:44,024 INFO [MAIN] process 18436 is still running
+2016-03-15 23:33:44,024 INFO [MAIN] process 18437 is still running
+2016-03-15 23:33:44,024 INFO [MAIN] process 18439 is still running
+2016-03-15 23:33:44,024 INFO [MAIN] process 18440 is still running
+2016-03-15 23:33:44,024 INFO [MAIN] all 4 workers are in processing
+2016-03-15 23:33:44,024 INFO [MAIN] allocate task [http://www.cnn.com/opinions] to a worker [4 instance running]
+2016-03-15 23:33:44,025 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/opinions', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:33:45,036 INFO [MAIN] successfully run http://www.cnn.com/opinions withpid:18444, full_path:log_dir/www.cnn.com_9ca53e79-1350-4c13-afac-394a36ae4e21
+2016-03-15 23:33:50,040 INFO [MAIN] process 18436 is still running
+2016-03-15 23:33:50,040 INFO [MAIN] process 18437 is still running
+2016-03-15 23:33:50,040 INFO [MAIN] process 18439 is still running
+2016-03-15 23:33:50,040 INFO [MAIN] process 18440 is still running
+2016-03-15 23:33:50,040 INFO [MAIN] process 18444 is still running
+2016-03-15 23:33:50,041 INFO [MAIN] all 5 workers are in processing
+2016-03-15 23:33:55,042 INFO [MAIN] process 18436 is still running
+2016-03-15 23:33:55,043 INFO [MAIN] EXIT[0] worker[1] http://www.cnn.com/style pid[18437]
+2016-03-15 23:33:55,043 INFO [MAIN] worker[1] http://www.cnn.com/style finished its job, kill it
+2016-03-15 23:33:55,043 INFO [MAIN] process 18436 is still running
+2016-03-15 23:33:55,043 INFO [MAIN] EXIT[0] worker[1] http://money.cnn.com/luxury pid[18439]
+2016-03-15 23:33:55,043 INFO [MAIN] worker[1] http://money.cnn.com/luxury finished its job, kill it
+2016-03-15 23:33:55,043 INFO [MAIN] process 18436 is still running
+2016-03-15 23:33:55,043 INFO [MAIN] process 18440 is still running
+2016-03-15 23:33:55,043 INFO [MAIN] process 18444 is still running
+2016-03-15 23:33:55,044 INFO [MAIN] all 3 workers are in processing
+2016-03-15 23:33:55,044 INFO [MAIN] allocate task [http://www.cnn.com/us] to a worker [3 instance running]
+2016-03-15 23:33:55,044 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/us', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:33:56,055 INFO [MAIN] successfully run http://www.cnn.com/us withpid:18450, full_path:log_dir/www.cnn.com_8a5f8fce-3305-4942-b60f-8d29c81330ce
+2016-03-15 23:33:56,055 INFO [MAIN] allocate task [http://www.cnn.com/specials/politics/washington-politics] to a worker [4 instance running]
+2016-03-15 23:33:56,057 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/specials/politics/washington-politics', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:33:57,073 INFO [MAIN] successfully run http://www.cnn.com/specials/politics/washington-politics withpid:18451, full_path:log_dir/www.cnn.com_26e8333d-954d-418e-b4e6-3168658d657d
+2016-03-15 23:34:02,077 INFO [MAIN] EXIT[0] worker[0] http://www.cnn.com/videos pid[18436]
+2016-03-15 23:34:02,077 INFO [MAIN] worker[0] http://www.cnn.com/videos finished its job, kill it
+2016-03-15 23:34:02,077 INFO [MAIN] EXIT[0] worker[0] http://www.cnn.com/asia pid[18440]
+2016-03-15 23:34:02,077 INFO [MAIN] worker[0] http://www.cnn.com/asia finished its job, kill it
+2016-03-15 23:34:02,078 INFO [MAIN] EXIT[0] worker[0] http://www.cnn.com/opinions pid[18444]
+2016-03-15 23:34:02,078 INFO [MAIN] worker[0] http://www.cnn.com/opinions finished its job, kill it
+2016-03-15 23:34:02,078 INFO [MAIN] process 18450 is still running
+2016-03-15 23:34:02,078 INFO [MAIN] process 18451 is still running
+2016-03-15 23:34:02,078 INFO [MAIN] all 2 workers are in processing
+2016-03-15 23:34:02,078 INFO [MAIN] allocate task [http://www.cnn.com/travel] to a worker [2 instance running]
+2016-03-15 23:34:02,079 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/travel', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:34:03,088 INFO [MAIN] successfully run http://www.cnn.com/travel withpid:18453, full_path:log_dir/www.cnn.com_38d6d44f-97eb-41c9-860b-768a0dbc2df5
+2016-03-15 23:34:03,088 INFO [MAIN] allocate task [http://money.cnn.com] to a worker [3 instance running]
+2016-03-15 23:34:03,089 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://money.cnn.com', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:34:04,099 INFO [MAIN] successfully run http://money.cnn.com withpid:18454, full_path:log_dir/money.cnn.com_d0b989aa-90ae-4a53-b0e8-c1f1317ab06f
+2016-03-15 23:34:04,099 INFO [MAIN] allocate task [http://www.cnn.com/health] to a worker [4 instance running]
+2016-03-15 23:34:04,100 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/health', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:34:05,110 INFO [MAIN] successfully run http://www.cnn.com/health withpid:18455, full_path:log_dir/www.cnn.com_fd9b138e-449e-4c40-b94f-af581822830b
+2016-03-15 23:34:10,112 INFO [MAIN] process 18450 is still running
+2016-03-15 23:34:10,112 INFO [MAIN] process 18451 is still running
+2016-03-15 23:34:10,112 INFO [MAIN] process 18453 is still running
+2016-03-15 23:34:10,112 INFO [MAIN] process 18454 is still running
+2016-03-15 23:34:10,112 INFO [MAIN] process 18455 is still running
+2016-03-15 23:34:10,112 INFO [MAIN] all 5 workers are in processing
+2016-03-15 23:34:15,117 INFO [MAIN] EXIT[0] worker[0] http://www.cnn.com/us pid[18450]
+2016-03-15 23:34:15,118 INFO [MAIN] worker[0] http://www.cnn.com/us finished its job, kill it
+2016-03-15 23:34:15,118 INFO [MAIN] process 18451 is still running
+2016-03-15 23:34:15,118 INFO [MAIN] process 18453 is still running
+2016-03-15 23:34:15,118 INFO [MAIN] process 18454 is still running
+2016-03-15 23:34:15,118 INFO [MAIN] process 18455 is still running
+2016-03-15 23:34:15,118 INFO [MAIN] all 4 workers are in processing
+2016-03-15 23:34:15,119 INFO [MAIN] allocate task [http://money.cnn.com/media] to a worker [4 instance running]
+2016-03-15 23:34:15,120 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://money.cnn.com/media', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:34:16,128 INFO [MAIN] successfully run http://money.cnn.com/media withpid:18461, full_path:log_dir/money.cnn.com_9ae3c0ab-ab38-4cc9-be9b-0fb70c7314fa
+2016-03-15 23:34:21,132 INFO [MAIN] process 18451 is still running
+2016-03-15 23:34:21,132 INFO [MAIN] EXIT[0] worker[1] http://www.cnn.com/travel pid[18453]
+2016-03-15 23:34:21,134 INFO [MAIN] worker[1] http://www.cnn.com/travel finished its job, kill it
+2016-03-15 23:34:21,134 INFO [MAIN] process 18451 is still running
+2016-03-15 23:34:21,135 INFO [MAIN] EXIT[0] worker[1] http://money.cnn.com pid[18454]
+2016-03-15 23:34:21,135 INFO [MAIN] worker[1] http://money.cnn.com finished its job, kill it
+2016-03-15 23:34:21,138 INFO [MAIN] process 18451 is still running
+2016-03-15 23:34:21,138 INFO [MAIN] process 18455 is still running
+2016-03-15 23:34:21,139 INFO [MAIN] process 18461 is still running
+2016-03-15 23:34:21,139 INFO [MAIN] all 3 workers are in processing
+2016-03-15 23:34:21,139 INFO [MAIN] allocate task [http://www.cnn.com/americas] to a worker [3 instance running]
+2016-03-15 23:34:21,141 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/americas', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:34:22,153 INFO [MAIN] successfully run http://www.cnn.com/americas withpid:18462, full_path:log_dir/www.cnn.com_b3881baf-30aa-436d-89cb-c07766f1cc93
+2016-03-15 23:34:22,154 INFO [MAIN] allocate task [http://money.cnn.com/pf] to a worker [4 instance running]
+2016-03-15 23:34:22,155 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://money.cnn.com/pf', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:34:23,179 INFO [MAIN] successfully run http://money.cnn.com/pf withpid:18464, full_path:log_dir/money.cnn.com_ad1567e4-b8f3-4707-85b5-41c912de3b97
+2016-03-15 23:34:28,181 INFO [MAIN] EXIT[0] worker[0] http://www.cnn.com/specials/politics/washington-politics pid[18451]
+2016-03-15 23:34:28,181 INFO [MAIN] worker[0] http://www.cnn.com/specials/politics/washington-politics finished its job, kill it
+2016-03-15 23:34:28,182 INFO [MAIN] process 18455 is still running
+2016-03-15 23:34:28,182 INFO [MAIN] process 18461 is still running
+2016-03-15 23:34:28,182 INFO [MAIN] process 18462 is still running
+2016-03-15 23:34:28,182 INFO [MAIN] process 18464 is still running
+2016-03-15 23:34:28,183 INFO [MAIN] all 4 workers are in processing
+2016-03-15 23:34:28,183 INFO [MAIN] allocate task [http://www.cnn.com/middle-east] to a worker [4 instance running]
+2016-03-15 23:34:28,184 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/middle-east', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:34:29,194 INFO [MAIN] successfully run http://www.cnn.com/middle-east withpid:18467, full_path:log_dir/www.cnn.com_410c2c4d-4893-4f95-809d-c973636401da
+2016-03-15 23:34:34,197 INFO [MAIN] process 18455 is still running
+2016-03-15 23:34:34,197 INFO [MAIN] process 18461 is still running
+2016-03-15 23:34:34,197 INFO [MAIN] process 18462 is still running
+2016-03-15 23:34:34,197 INFO [MAIN] process 18464 is still running
+2016-03-15 23:34:34,197 INFO [MAIN] process 18467 is still running
+2016-03-15 23:34:34,197 INFO [MAIN] all 5 workers are in processing
+2016-03-15 23:34:39,199 INFO [MAIN] process 18455 is still running
+2016-03-15 23:34:39,199 INFO [MAIN] EXIT[0] worker[1] http://money.cnn.com/media pid[18461]
+2016-03-15 23:34:39,199 INFO [MAIN] worker[1] http://money.cnn.com/media finished its job, kill it
+2016-03-15 23:34:39,199 INFO [MAIN] process 18455 is still running
+2016-03-15 23:34:39,199 INFO [MAIN] EXIT[0] worker[1] http://www.cnn.com/americas pid[18462]
+2016-03-15 23:34:39,200 INFO [MAIN] worker[1] http://www.cnn.com/americas finished its job, kill it
+2016-03-15 23:34:39,200 INFO [MAIN] process 18455 is still running
+2016-03-15 23:34:39,200 INFO [MAIN] process 18464 is still running
+2016-03-15 23:34:39,200 INFO [MAIN] process 18467 is still running
+2016-03-15 23:34:39,200 INFO [MAIN] all 3 workers are in processing
+2016-03-15 23:34:39,200 INFO [MAIN] allocate task [http://money.cnn.com/technology] to a worker [3 instance running]
+2016-03-15 23:34:39,201 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://money.cnn.com/technology', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:34:40,210 INFO [MAIN] successfully run http://money.cnn.com/technology withpid:18471, full_path:log_dir/money.cnn.com_b9f29f1c-ebca-4605-a11b-2acd492be596
+2016-03-15 23:34:40,211 INFO [MAIN] allocate task [http://www.cnn.com/politics] to a worker [4 instance running]
+2016-03-15 23:34:40,212 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/politics', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:34:41,224 INFO [MAIN] successfully run http://www.cnn.com/politics withpid:18472, full_path:log_dir/www.cnn.com_ce9a22d1-ea4c-4c3d-9a4d-2ca372f8d180
+2016-03-15 23:34:46,228 INFO [MAIN] process 18455 is still running
+2016-03-15 23:34:46,228 INFO [MAIN] EXIT[0] worker[1] http://money.cnn.com/pf pid[18464]
+2016-03-15 23:34:46,228 INFO [MAIN] worker[1] http://money.cnn.com/pf finished its job, kill it
+2016-03-15 23:34:46,228 INFO [MAIN] process 18455 is still running
+2016-03-15 23:34:46,229 INFO [MAIN] process 18467 is still running
+2016-03-15 23:34:46,229 INFO [MAIN] process 18471 is still running
+2016-03-15 23:34:46,229 INFO [MAIN] process 18472 is still running
+2016-03-15 23:34:46,229 INFO [MAIN] all 4 workers are in processing
+2016-03-15 23:34:46,229 INFO [MAIN] allocate task [http://www.cnn.com/specials/opinion/opinion-social-issues] to a worker [4 instance running]
+2016-03-15 23:34:46,230 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/specials/opinion/opinion-social-issues', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:34:47,237 INFO [MAIN] successfully run http://www.cnn.com/specials/opinion/opinion-social-issues withpid:18476, full_path:log_dir/www.cnn.com_41a7e1f9-b90b-4430-be21-d5089fe5520b
+2016-03-15 23:34:52,241 INFO [MAIN] process 18455 is still running
+2016-03-15 23:34:52,242 INFO [MAIN] process 18467 is still running
+2016-03-15 23:34:52,242 INFO [MAIN] process 18471 is still running
+2016-03-15 23:34:52,242 INFO [MAIN] process 18472 is still running
+2016-03-15 23:34:52,242 INFO [MAIN] process 18476 is still running
+2016-03-15 23:34:52,243 INFO [MAIN] all 5 workers are in processing
+2016-03-15 23:34:57,245 INFO [MAIN] process 18455 is still running
+2016-03-15 23:34:57,245 INFO [MAIN] process 18467 is still running
+2016-03-15 23:34:57,245 INFO [MAIN] EXIT[0] worker[2] http://money.cnn.com/technology pid[18471]
+2016-03-15 23:34:57,245 INFO [MAIN] worker[2] http://money.cnn.com/technology finished its job, kill it
+2016-03-15 23:34:57,246 INFO [MAIN] process 18455 is still running
+2016-03-15 23:34:57,246 INFO [MAIN] process 18467 is still running
+2016-03-15 23:34:57,247 INFO [MAIN] process 18472 is still running
+2016-03-15 23:34:57,247 INFO [MAIN] process 18476 is still running
+2016-03-15 23:34:57,247 INFO [MAIN] all 4 workers are in processing
+2016-03-15 23:34:57,247 INFO [MAIN] allocate task [http://www.cnn.com/specials/politics/national-politics] to a worker [4 instance running]
+2016-03-15 23:34:57,248 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/specials/politics/national-politics', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:34:58,259 INFO [MAIN] successfully run http://www.cnn.com/specials/politics/national-politics withpid:18480, full_path:log_dir/www.cnn.com_d2ddac24-5514-46d1-9bf0-210bbdff8fd5
+2016-03-15 23:35:03,265 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:03,265 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:03,265 INFO [MAIN] process 18472 is still running
+2016-03-15 23:35:03,265 INFO [MAIN] process 18476 is still running
+2016-03-15 23:35:03,265 INFO [MAIN] process 18480 is still running
+2016-03-15 23:35:03,266 INFO [MAIN] all 5 workers are in processing
+2016-03-15 23:35:08,275 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:08,276 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:08,276 INFO [MAIN] EXIT[-6] worker[2] http://www.cnn.com/politics pid[18472]
+2016-03-15 23:35:08,276 INFO [MAIN] worker[2] http://www.cnn.com/politics finished its job, kill it
+2016-03-15 23:35:08,277 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:08,277 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:08,277 INFO [MAIN] EXIT[0] worker[2] http://www.cnn.com/specials/opinion/opinion-social-issues pid[18476]
+2016-03-15 23:35:08,277 INFO [MAIN] worker[2] http://www.cnn.com/specials/opinion/opinion-social-issues finished its job, kill it
+2016-03-15 23:35:08,277 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:08,278 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:08,278 INFO [MAIN] process 18480 is still running
+2016-03-15 23:35:08,279 INFO [MAIN] all 3 workers are in processing
+2016-03-15 23:35:08,279 INFO [MAIN] allocate task [http://www.cnn.com/specials/us/crime-and-justice] to a worker [3 instance running]
+2016-03-15 23:35:08,280 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/specials/us/crime-and-justice', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:35:09,299 INFO [MAIN] successfully run http://www.cnn.com/specials/us/crime-and-justice withpid:18485, full_path:log_dir/www.cnn.com_be88ac2a-7132-40f8-b040-326c696ec6a3
+2016-03-15 23:35:09,300 INFO [MAIN] allocate task [http://www.cnn.com/specials/politics/world-politics] to a worker [4 instance running]
+2016-03-15 23:35:09,301 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/specials/politics/world-politics', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:35:10,325 INFO [MAIN] successfully run http://www.cnn.com/specials/politics/world-politics withpid:18486, full_path:log_dir/www.cnn.com_474f0380-18a3-4fe6-b486-daf62b7284e7
+2016-03-15 23:35:15,331 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:15,331 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:15,332 INFO [MAIN] EXIT[0] worker[2] http://www.cnn.com/specials/politics/national-politics pid[18480]
+2016-03-15 23:35:15,332 INFO [MAIN] worker[2] http://www.cnn.com/specials/politics/national-politics finished its job, kill it
+2016-03-15 23:35:15,332 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:15,332 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:15,333 INFO [MAIN] process 18485 is still running
+2016-03-15 23:35:15,333 INFO [MAIN] process 18486 is still running
+2016-03-15 23:35:15,333 INFO [MAIN] all 4 workers are in processing
+2016-03-15 23:35:15,333 INFO [MAIN] allocate task [http://www.cnn.com/specials/opinion/opinion-politics] to a worker [4 instance running]
+2016-03-15 23:35:15,334 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/specials/opinion/opinion-politics', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:35:16,345 INFO [MAIN] successfully run http://www.cnn.com/specials/opinion/opinion-politics withpid:18490, full_path:log_dir/www.cnn.com_cadba866-5fc9-4e26-908a-eb3c05d650be
+2016-03-15 23:35:21,347 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:21,347 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:21,347 INFO [MAIN] process 18485 is still running
+2016-03-15 23:35:21,347 INFO [MAIN] process 18486 is still running
+2016-03-15 23:35:21,347 INFO [MAIN] process 18490 is still running
+2016-03-15 23:35:21,348 INFO [MAIN] all 5 workers are in processing
+2016-03-15 23:35:26,352 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:26,352 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:26,353 INFO [MAIN] EXIT[0] worker[2] http://www.cnn.com/specials/us/crime-and-justice pid[18485]
+2016-03-15 23:35:26,353 INFO [MAIN] worker[2] http://www.cnn.com/specials/us/crime-and-justice finished its job, kill it
+2016-03-15 23:35:26,354 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:26,354 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:26,354 INFO [MAIN] EXIT[0] worker[2] http://www.cnn.com/specials/politics/world-politics pid[18486]
+2016-03-15 23:35:26,354 INFO [MAIN] worker[2] http://www.cnn.com/specials/politics/world-politics finished its job, kill it
+2016-03-15 23:35:26,355 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:26,355 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:26,355 INFO [MAIN] process 18490 is still running
+2016-03-15 23:35:26,355 INFO [MAIN] all 3 workers are in processing
+2016-03-15 23:35:26,356 INFO [MAIN] allocate task [http://www.cnn.com/specials/us/extreme-weather] to a worker [3 instance running]
+2016-03-15 23:35:26,358 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/specials/us/extreme-weather', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:35:27,384 INFO [MAIN] successfully run http://www.cnn.com/specials/us/extreme-weather withpid:18494, full_path:log_dir/www.cnn.com_eefdd654-6d79-4a0a-bf6e-4a2012dacf60
+2016-03-15 23:35:27,385 INFO [MAIN] allocate task [http://www.cnn.com/specials/politics/2016-election] to a worker [4 instance running]
+2016-03-15 23:35:27,386 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/specials/politics/2016-election', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:35:28,401 INFO [MAIN] successfully run http://www.cnn.com/specials/politics/2016-election withpid:18495, full_path:log_dir/www.cnn.com_f3cddc2f-edbc-4d52-b077-a90dfaa5a658
+2016-03-15 23:35:33,404 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:33,404 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:33,405 INFO [MAIN] process 18490 is still running
+2016-03-15 23:35:33,406 INFO [MAIN] process 18494 is still running
+2016-03-15 23:35:33,406 INFO [MAIN] process 18495 is still running
+2016-03-15 23:35:33,406 INFO [MAIN] all 5 workers are in processing
+2016-03-15 23:35:38,407 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:38,408 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:38,408 INFO [MAIN] EXIT[0] worker[2] http://www.cnn.com/specials/opinion/opinion-politics pid[18490]
+2016-03-15 23:35:38,408 INFO [MAIN] worker[2] http://www.cnn.com/specials/opinion/opinion-politics finished its job, kill it
+2016-03-15 23:35:38,408 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:38,409 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:38,409 INFO [MAIN] process 18494 is still running
+2016-03-15 23:35:38,409 INFO [MAIN] process 18495 is still running
+2016-03-15 23:35:38,409 INFO [MAIN] all 4 workers are in processing
+2016-03-15 23:35:38,409 INFO [MAIN] allocate task [http://money.cnn.com/services/privacy] to a worker [4 instance running]
+2016-03-15 23:35:38,410 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://money.cnn.com/services/privacy', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:35:39,422 INFO [MAIN] successfully run http://money.cnn.com/services/privacy withpid:18502, full_path:log_dir/money.cnn.com_b150c5f4-101c-478e-8327-99041df0b6cc
+2016-03-15 23:35:44,423 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:44,424 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:44,424 INFO [MAIN] process 18494 is still running
+2016-03-15 23:35:44,425 INFO [MAIN] process 18495 is still running
+2016-03-15 23:35:44,425 INFO [MAIN] process 18502 is still running
+2016-03-15 23:35:44,425 INFO [MAIN] all 5 workers are in processing
+2016-03-15 23:35:49,430 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:49,431 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:49,431 INFO [MAIN] EXIT[0] worker[2] http://www.cnn.com/specials/us/extreme-weather pid[18494]
+2016-03-15 23:35:49,431 INFO [MAIN] worker[2] http://www.cnn.com/specials/us/extreme-weather finished its job, kill it
+2016-03-15 23:35:49,431 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:49,431 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:49,431 INFO [MAIN] EXIT[0] worker[2] http://www.cnn.com/specials/politics/2016-election pid[18495]
+2016-03-15 23:35:49,432 INFO [MAIN] worker[2] http://www.cnn.com/specials/politics/2016-election finished its job, kill it
+2016-03-15 23:35:49,432 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:49,432 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:49,432 INFO [MAIN] EXIT[0] worker[2] http://money.cnn.com/services/privacy pid[18502]
+2016-03-15 23:35:49,432 INFO [MAIN] worker[2] http://money.cnn.com/services/privacy finished its job, kill it
+2016-03-15 23:35:49,432 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:49,433 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:49,433 INFO [MAIN] all 2 workers are in processing
+2016-03-15 23:35:49,433 INFO [MAIN] allocate task [http://www.cnn.com/world] to a worker [2 instance running]
+2016-03-15 23:35:49,434 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/world', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:35:50,447 INFO [MAIN] successfully run http://www.cnn.com/world withpid:18506, full_path:log_dir/www.cnn.com_ca4a462b-1fc5-463e-8f87-045a967bd329
+2016-03-15 23:35:50,447 INFO [MAIN] allocate task [http://www.cnn.com/entertainment] to a worker [3 instance running]
+2016-03-15 23:35:50,448 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/entertainment', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:35:51,453 INFO [MAIN] successfully run http://www.cnn.com/entertainment withpid:18507, full_path:log_dir/www.cnn.com_a0043a8a-339a-4329-8ec8-383709603d99
+2016-03-15 23:35:51,454 INFO [MAIN] allocate task [http://www.cnn.com/specials/space-science] to a worker [4 instance running]
+2016-03-15 23:35:51,455 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/specials/space-science', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:35:52,466 INFO [MAIN] successfully run http://www.cnn.com/specials/space-science withpid:18508, full_path:log_dir/www.cnn.com_d72e7130-531d-4f0e-9b16-5ed1f760aec9
+2016-03-15 23:35:57,473 INFO [MAIN] process 18455 is still running
+2016-03-15 23:35:57,473 INFO [MAIN] process 18467 is still running
+2016-03-15 23:35:57,474 INFO [MAIN] process 18506 is still running
+2016-03-15 23:35:57,474 INFO [MAIN] process 18507 is still running
+2016-03-15 23:35:57,474 INFO [MAIN] process 18508 is still running
+2016-03-15 23:35:57,475 INFO [MAIN] all 5 workers are in processing
+2016-03-15 23:36:02,483 INFO [MAIN] process 18455 is still running
+2016-03-15 23:36:02,483 INFO [MAIN] process 18467 is still running
+2016-03-15 23:36:02,483 INFO [MAIN] process 18506 is still running
+2016-03-15 23:36:02,483 INFO [MAIN] process 18507 is still running
+2016-03-15 23:36:02,483 INFO [MAIN] process 18508 is still running
+2016-03-15 23:36:02,483 INFO [MAIN] all 5 workers are in processing
+2016-03-15 23:36:07,484 INFO [MAIN] TIMEOUT worker[0] http://www.cnn.com/health pid:18455
+2016-03-15 23:36:07,485 ERROR killProcessAndChildProcesses exception 'Process' object has no attribute 'get_children'
+2016-03-15 23:36:07,485 INFO [MAIN] worker[0] http://www.cnn.com/health finished its job, kill it
+2016-03-15 23:36:07,485 INFO [MAIN] process 18467 is still running
+2016-03-15 23:36:07,486 INFO [MAIN] process 18506 is still running
+2016-03-15 23:36:07,486 INFO [MAIN] process 18507 is still running
+2016-03-15 23:36:07,486 INFO [MAIN] process 18508 is still running
+2016-03-15 23:36:07,486 INFO [MAIN] all 4 workers are in processing
+2016-03-15 23:36:07,486 INFO [MAIN] allocate task [http://www.cnn.com/africa] to a worker [4 instance running]
+2016-03-15 23:36:07,487 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/africa', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:36:08,498 INFO [MAIN] successfully run http://www.cnn.com/africa withpid:18517, full_path:log_dir/www.cnn.com_8a71ef8a-e9af-4175-92b2-40c445665712
+2016-03-15 23:36:13,501 INFO [MAIN] process 18467 is still running
+2016-03-15 23:36:13,502 INFO [MAIN] EXIT[0] worker[1] http://www.cnn.com/world pid[18506]
+2016-03-15 23:36:13,502 INFO [MAIN] worker[1] http://www.cnn.com/world finished its job, kill it
+2016-03-15 23:36:13,502 INFO [MAIN] process 18467 is still running
+2016-03-15 23:36:13,503 INFO [MAIN] EXIT[0] worker[1] http://www.cnn.com/entertainment pid[18507]
+2016-03-15 23:36:13,504 INFO [MAIN] worker[1] http://www.cnn.com/entertainment finished its job, kill it
+2016-03-15 23:36:13,504 INFO [MAIN] process 18467 is still running
+2016-03-15 23:36:13,505 INFO [MAIN] process 18508 is still running
+2016-03-15 23:36:13,506 INFO [MAIN] process 18517 is still running
+2016-03-15 23:36:13,506 INFO [MAIN] all 3 workers are in processing
+2016-03-15 23:36:13,506 INFO [MAIN] allocate task [http://www.cnn.com/specials/us/energy-and-environment] to a worker [3 instance running]
+2016-03-15 23:36:13,507 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/specials/us/energy-and-environment', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:36:14,517 INFO [MAIN] successfully run http://www.cnn.com/specials/us/energy-and-environment withpid:18519, full_path:log_dir/www.cnn.com_02fbae2a-6811-4fdc-a8d1-427d97a900e3
+2016-03-15 23:36:14,518 INFO [MAIN] allocate task [http://www.cnn.com/europe] to a worker [4 instance running]
+2016-03-15 23:36:14,519 INFO Command to start worker ['phantomjs', 'CSP-Applier/training/phantom_worker.js', 'http://www.cnn.com/europe', '1', '5000', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0', '']
+2016-03-15 23:36:15,531 INFO [MAIN] successfully run http://www.cnn.com/europe withpid:18520, full_path:log_dir/www.cnn.com_24557281-6921-4282-8cb7-9e678384e036
+2016-03-15 23:36:20,534 INFO [MAIN] process 18467 is still running
+2016-03-15 23:36:20,535 INFO [MAIN] EXIT[0] worker[1] http://www.cnn.com/specials/space-science pid[18508]
+2016-03-15 23:36:20,535 INFO [MAIN] worker[1] http://www.cnn.com/specials/space-science finished its job, kill it
+2016-03-15 23:36:20,535 INFO [MAIN] process 18467 is still running
+2016-03-15 23:36:20,535 INFO [MAIN] process 18517 is still running
+2016-03-15 23:36:20,535 INFO [MAIN] process 18519 is still running
+2016-03-15 23:36:20,535 INFO [MAIN] process 18520 is still running
+2016-03-15 23:36:20,535 INFO [MAIN] all 4 workers are in processing
+2016-03-15 23:36:30,536 DEBUG [MAIN] queue empty timeout
+2016-03-15 23:36:35,540 INFO [MAIN] TIMEOUT worker[0] http://www.cnn.com/middle-east pid:18467
+2016-03-15 23:36:35,541 ERROR killProcessAndChildProcesses exception 'Process' object has no attribute 'get_children'
+2016-03-15 23:36:35,541 INFO [MAIN] worker[0] http://www.cnn.com/middle-east finished its job, kill it
+2016-03-15 23:36:35,542 INFO [MAIN] EXIT[0] worker[0] http://www.cnn.com/africa pid[18517]
+2016-03-15 23:36:35,542 INFO [MAIN] worker[0] http://www.cnn.com/africa finished its job, kill it
+2016-03-15 23:36:35,542 INFO [MAIN] EXIT[0] worker[0] http://www.cnn.com/specials/us/energy-and-environment pid[18519]
+2016-03-15 23:36:35,542 INFO [MAIN] worker[0] http://www.cnn.com/specials/us/energy-and-environment finished its job, kill it
+2016-03-15 23:36:35,542 INFO [MAIN] EXIT[0] worker[0] http://www.cnn.com/europe pid[18520]
+2016-03-15 23:36:35,543 INFO [MAIN] worker[0] http://www.cnn.com/europe finished its job, kill it
+2016-03-15 23:36:35,543 INFO [MAIN] no working process ... 

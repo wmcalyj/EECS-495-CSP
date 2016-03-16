@@ -1,0 +1,34 @@
+ Steps to run the service:
+1. start mongodb, create db: webcontents
+2. prepare.sh               #install prerequsites, not a complete list
+3. nodemon db_server.js     #mongo db service (port 4040)
+4. python phantom_manager.py log_dir phanton_worker.js_path # this manager starts a server (port 8082) to receive web contents crawl/execution tasks
+
+
+Steps to train a website:
+1. modify spider.py to give a domain name
+2. scrapy runspider spider.py > evaluation/tmp/doman.txt
+3. processGoogleURL.py evaluation/tmp/doman.txt evaluation/urls/domain.txt
+4. pick 2500 from evaluation/urls/domain.txt and store as evaluation/urls/domain_2500.txt
+5. python send_get_req.py evaluation/urls/domain_2500.txt
+
+==============
+6. python processScript.py evaluation/urls/domain_2500.txt # get script
+7. split evaluation/urls/domain_2500.txt into evaluation/urls/domain_train.txt (2000) and evaluation/urls/domain_test.txt (500)
+8. train: mkdir tmp/domain; python template.py evaluation/urls/domain_train.txt tmp/domain
+9. test:  python handler.py domain evaluation/urls/domain_test.txt 
+
+
+
+Some commands:
+notes: ps aux | grep "python" | grep -v "grep"| awk '{print $2}'  | xargs kill -9
+
+notes: ps -fA | grep "phantom_worker.js" | grep -v "grep" | awk '{print $2}' | xargs kill -9
+scrapy runspider spider.py
+db.trees.createIndex({domain:1, key:1},{unique:true})
+
+
+For 
+error: 
+2016-03-08T01:20:46.906-0600 W NETWORK  [HostnameCanonicalizationWorker] Failed to obtain name info for: [ (2601:240:d300:39f5:a65e:60ff:fee2:3d27, "nodename nor servname provided, or not known"), (2601:240:d300:39f5:a65e:60ff:fee2:3d27, "nodename nor servname provided, or not known"), (fd8d:c490:9bd0::a65e:60ff:fee2:3d27, "nodename nor servname provided, or not known"), (fd8d:c490:9bd0::a65e:60ff:fee2:3d27, "nodename nor servname provided, or not known"), (192.168.1.104, "nodename nor servname provided, or not known"), (192.168.1.104, "nodename nor servname provided, or not known") ]
+Probably just ignore: https://jira.mongodb.org/browse/SERVER-20952

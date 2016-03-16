@@ -1,0 +1,1323 @@
+2016-02-14 08:29:43,240 INFO [MAIN] no working process ... 
+2016-02-14 08:29:43,240 INFO [MAIN] allocate task [http://www.google.com] to a worker [0 instance running]
+2016-02-14 08:29:44,245 INFO [MAIN] successfully run http://www.google.com withpid:93812, full_path:log/www.google.com_d884d6c3-16cf-4ec8-be8b-4fe745df0d07
+2016-02-14 08:29:53,247 INFO http server is running...
+2016-02-14 08:29:54,250 DEBUG [MAIN] queue empty timeout
+2016-02-14 08:29:59,253 INFO [MAIN] EXIT[-9] worker[0] http://www.google.com pid[93812]
+2016-02-14 08:29:59,253 INFO [MAIN] worker[0] http://www.google.com finished its job, kill it
+2016-02-14 08:29:59,253 INFO [MAIN] no working process ... 
+2016-02-14 18:39:14,807 INFO [MAIN] no working process ... 
+2016-02-14 18:39:14,808 INFO [MAIN] allocate task [http://www.google.com] to a worker [0 instance running]
+2016-02-14 18:39:15,818 INFO [MAIN] successfully run http://www.google.com withpid:94843, full_path:log/www.google.com_aef46151-8d73-4d3e-9fc6-8802bf7f7ced
+2016-02-14 18:39:24,815 INFO http server is running...
+2016-02-14 18:39:25,820 DEBUG [MAIN] queue empty timeout
+2016-02-14 18:39:30,820 INFO [MAIN] EXIT[-9] worker[0] http://www.google.com pid[94843]
+2016-02-14 18:39:30,821 INFO [MAIN] worker[0] http://www.google.com finished its job, kill it
+2016-02-14 18:39:30,821 INFO [MAIN] no working process ... 
+2016-03-06 02:24:23,469 INFO [MAIN] no working process ... 
+2016-03-06 02:24:23,473 INFO [MAIN] allocate task [http://www.google.com] to a worker [0 instance running]
+2016-03-06 02:24:24,921 INFO [MAIN] successfully run http://www.google.com withpid:43813, full_path:log_dir/www.google.com_df9b0add-a38d-4397-bc6d-54e34a64a3e1
+2016-03-06 02:24:33,474 INFO http server is running...
+2016-03-06 02:24:34,925 DEBUG [MAIN] queue empty timeout
+2016-03-06 02:24:39,928 INFO [MAIN] process 43813 is still running
+2016-03-06 02:24:39,928 INFO [MAIN] all 1 workers are in processing
+2016-03-06 02:24:49,930 DEBUG [MAIN] queue empty timeout
+2016-03-06 02:24:54,935 INFO [MAIN] process 43813 is still running
+2016-03-06 02:24:54,935 INFO [MAIN] all 1 workers are in processing
+2016-03-06 02:25:04,940 DEBUG [MAIN] queue empty timeout
+2016-03-06 02:25:09,945 INFO [MAIN] process 43813 is still running
+2016-03-06 02:25:09,945 INFO [MAIN] all 1 workers are in processing
+2016-03-06 02:25:19,950 DEBUG [MAIN] queue empty timeout
+2016-03-06 02:25:24,954 INFO [MAIN] process 43813 is still running
+2016-03-06 02:25:24,955 INFO [MAIN] all 1 workers are in processing
+2016-03-06 02:25:34,957 DEBUG [MAIN] queue empty timeout
+2016-03-06 02:25:39,957 INFO [MAIN] process 43813 is still running
+2016-03-06 02:25:39,957 INFO [MAIN] all 1 workers are in processing
+2016-03-06 02:25:49,959 DEBUG [MAIN] queue empty timeout
+2016-03-06 02:25:54,960 INFO [MAIN] EXIT[-2] worker[0] http://www.google.com pid[43813]
+2016-03-06 02:25:54,960 INFO [MAIN] worker[0] http://www.google.com finished its job, kill it
+2016-03-06 02:25:54,960 INFO [MAIN] no working process ... 
+2016-03-06 02:26:39,543 INFO [MAIN] no working process ... 
+2016-03-06 02:26:39,543 INFO [MAIN] allocate task [http://www.google.com] to a worker [0 instance running]
+2016-03-06 02:26:40,555 INFO [MAIN] successfully run http://www.google.com withpid:43874, full_path:log_dir/www.google.com_0c1ef8c7-a92c-4573-a635-9b802fbdd44c
+2016-03-06 02:26:40,556 INFO [MAIN] allocate task [http://www.sina.com.cn] to a worker [1 instance running]
+2016-03-06 02:26:41,565 INFO [MAIN] successfully run http://www.sina.com.cn withpid:43875, full_path:log_dir/www.sina.com.cn_4f07ee8a-7900-439d-bf97-37f40e91f21e
+2016-03-06 02:26:41,566 INFO [MAIN] allocate task [http://www.qq.com] to a worker [2 instance running]
+2016-03-06 02:26:42,575 INFO [MAIN] successfully run http://www.qq.com withpid:43876, full_path:log_dir/www.qq.com_9ae81c15-cc6c-4938-b0c0-6cb714bbe309
+2016-03-06 02:26:42,575 INFO [MAIN] allocate task [http://www.weibo.com] to a worker [3 instance running]
+2016-03-06 02:26:43,582 INFO [MAIN] successfully run http://www.weibo.com withpid:43878, full_path:log_dir/www.weibo.com_e5e44c80-a6ef-4fce-bc8f-a7f137a85c93
+2016-03-06 02:26:43,582 INFO [MAIN] allocate task [http://www.wsj.com] to a worker [4 instance running]
+2016-03-06 02:26:44,588 INFO [MAIN] successfully run http://www.wsj.com withpid:43879, full_path:log_dir/www.wsj.com_569c000a-1a71-4463-af69-e75b8d835e1f
+2016-03-06 02:26:49,551 INFO http server is running...
+2016-03-06 02:26:49,594 INFO [MAIN] process 43874 is still running
+2016-03-06 02:26:49,594 INFO [MAIN] process 43875 is still running
+2016-03-06 02:26:49,594 INFO [MAIN] process 43876 is still running
+2016-03-06 02:26:49,594 INFO [MAIN] process 43878 is still running
+2016-03-06 02:26:49,595 INFO [MAIN] process 43879 is still running
+2016-03-06 02:26:49,595 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:26:54,598 INFO [MAIN] process 43874 is still running
+2016-03-06 02:26:54,598 INFO [MAIN] process 43875 is still running
+2016-03-06 02:26:54,598 INFO [MAIN] process 43876 is still running
+2016-03-06 02:26:54,598 INFO [MAIN] process 43878 is still running
+2016-03-06 02:26:54,598 INFO [MAIN] process 43879 is still running
+2016-03-06 02:26:54,598 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:26:59,604 INFO [MAIN] process 43874 is still running
+2016-03-06 02:26:59,604 INFO [MAIN] process 43875 is still running
+2016-03-06 02:26:59,604 INFO [MAIN] process 43876 is still running
+2016-03-06 02:26:59,605 INFO [MAIN] process 43878 is still running
+2016-03-06 02:26:59,605 INFO [MAIN] process 43879 is still running
+2016-03-06 02:26:59,605 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:27:04,609 INFO [MAIN] process 43874 is still running
+2016-03-06 02:27:04,609 INFO [MAIN] process 43875 is still running
+2016-03-06 02:27:04,609 INFO [MAIN] process 43876 is still running
+2016-03-06 02:27:04,610 INFO [MAIN] process 43878 is still running
+2016-03-06 02:27:04,610 INFO [MAIN] process 43879 is still running
+2016-03-06 02:27:04,610 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:27:09,612 INFO [MAIN] process 43874 is still running
+2016-03-06 02:27:09,612 INFO [MAIN] process 43875 is still running
+2016-03-06 02:27:09,612 INFO [MAIN] process 43876 is still running
+2016-03-06 02:27:09,612 INFO [MAIN] process 43878 is still running
+2016-03-06 02:27:09,612 INFO [MAIN] process 43879 is still running
+2016-03-06 02:27:09,612 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:27:14,614 INFO [MAIN] process 43874 is still running
+2016-03-06 02:27:14,614 INFO [MAIN] process 43875 is still running
+2016-03-06 02:27:14,614 INFO [MAIN] process 43876 is still running
+2016-03-06 02:27:14,615 INFO [MAIN] process 43878 is still running
+2016-03-06 02:27:14,615 INFO [MAIN] process 43879 is still running
+2016-03-06 02:27:14,615 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:27:19,618 INFO [MAIN] process 43874 is still running
+2016-03-06 02:27:19,618 INFO [MAIN] process 43875 is still running
+2016-03-06 02:27:19,619 INFO [MAIN] process 43876 is still running
+2016-03-06 02:27:19,619 INFO [MAIN] process 43878 is still running
+2016-03-06 02:27:19,619 INFO [MAIN] process 43879 is still running
+2016-03-06 02:27:19,619 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:27:24,621 INFO [MAIN] process 43874 is still running
+2016-03-06 02:27:24,621 INFO [MAIN] process 43875 is still running
+2016-03-06 02:27:24,621 INFO [MAIN] process 43876 is still running
+2016-03-06 02:27:24,621 INFO [MAIN] process 43878 is still running
+2016-03-06 02:27:24,621 INFO [MAIN] process 43879 is still running
+2016-03-06 02:27:24,622 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:27:29,626 INFO [MAIN] process 43874 is still running
+2016-03-06 02:27:29,627 INFO [MAIN] process 43875 is still running
+2016-03-06 02:27:29,627 INFO [MAIN] process 43876 is still running
+2016-03-06 02:27:29,628 INFO [MAIN] process 43878 is still running
+2016-03-06 02:27:29,629 INFO [MAIN] process 43879 is still running
+2016-03-06 02:27:29,629 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:27:34,631 INFO [MAIN] process 43874 is still running
+2016-03-06 02:27:34,631 INFO [MAIN] process 43875 is still running
+2016-03-06 02:27:34,631 INFO [MAIN] process 43876 is still running
+2016-03-06 02:27:34,632 INFO [MAIN] process 43878 is still running
+2016-03-06 02:27:34,632 INFO [MAIN] process 43879 is still running
+2016-03-06 02:27:34,632 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:27:39,634 INFO [MAIN] process 43874 is still running
+2016-03-06 02:27:39,634 INFO [MAIN] process 43875 is still running
+2016-03-06 02:27:39,634 INFO [MAIN] process 43876 is still running
+2016-03-06 02:27:39,634 INFO [MAIN] process 43878 is still running
+2016-03-06 02:27:39,634 INFO [MAIN] process 43879 is still running
+2016-03-06 02:27:39,634 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:27:44,640 INFO [MAIN] process 43874 is still running
+2016-03-06 02:27:44,640 INFO [MAIN] process 43875 is still running
+2016-03-06 02:27:44,640 INFO [MAIN] process 43876 is still running
+2016-03-06 02:27:44,640 INFO [MAIN] process 43878 is still running
+2016-03-06 02:27:44,640 INFO [MAIN] process 43879 is still running
+2016-03-06 02:27:44,640 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:27:49,641 INFO [MAIN] process 43874 is still running
+2016-03-06 02:27:49,642 INFO [MAIN] process 43875 is still running
+2016-03-06 02:27:49,642 INFO [MAIN] process 43876 is still running
+2016-03-06 02:27:49,642 INFO [MAIN] process 43878 is still running
+2016-03-06 02:27:49,643 INFO [MAIN] process 43879 is still running
+2016-03-06 02:27:49,643 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:27:54,648 INFO [MAIN] process 43874 is still running
+2016-03-06 02:27:54,648 INFO [MAIN] process 43875 is still running
+2016-03-06 02:27:54,648 INFO [MAIN] process 43876 is still running
+2016-03-06 02:27:54,648 INFO [MAIN] process 43878 is still running
+2016-03-06 02:27:54,648 INFO [MAIN] process 43879 is still running
+2016-03-06 02:27:54,648 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:27:59,651 INFO [MAIN] process 43874 is still running
+2016-03-06 02:27:59,652 INFO [MAIN] process 43875 is still running
+2016-03-06 02:27:59,652 INFO [MAIN] process 43876 is still running
+2016-03-06 02:27:59,652 INFO [MAIN] process 43878 is still running
+2016-03-06 02:27:59,652 INFO [MAIN] process 43879 is still running
+2016-03-06 02:27:59,652 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:28:04,659 INFO [MAIN] process 43874 is still running
+2016-03-06 02:28:04,660 INFO [MAIN] process 43875 is still running
+2016-03-06 02:28:04,661 INFO [MAIN] process 43876 is still running
+2016-03-06 02:28:04,661 INFO [MAIN] process 43878 is still running
+2016-03-06 02:28:04,662 INFO [MAIN] process 43879 is still running
+2016-03-06 02:28:04,662 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:28:09,664 INFO [MAIN] process 43874 is still running
+2016-03-06 02:28:09,664 INFO [MAIN] process 43875 is still running
+2016-03-06 02:28:09,664 INFO [MAIN] process 43876 is still running
+2016-03-06 02:28:09,664 INFO [MAIN] process 43878 is still running
+2016-03-06 02:28:09,664 INFO [MAIN] process 43879 is still running
+2016-03-06 02:28:09,665 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:28:14,668 INFO [MAIN] process 43874 is still running
+2016-03-06 02:28:14,668 INFO [MAIN] process 43875 is still running
+2016-03-06 02:28:14,668 INFO [MAIN] process 43876 is still running
+2016-03-06 02:28:14,668 INFO [MAIN] process 43878 is still running
+2016-03-06 02:28:14,668 INFO [MAIN] process 43879 is still running
+2016-03-06 02:28:14,669 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:28:19,670 INFO [MAIN] process 43874 is still running
+2016-03-06 02:28:19,670 INFO [MAIN] process 43875 is still running
+2016-03-06 02:28:19,671 INFO [MAIN] process 43876 is still running
+2016-03-06 02:28:19,671 INFO [MAIN] process 43878 is still running
+2016-03-06 02:28:19,671 INFO [MAIN] process 43879 is still running
+2016-03-06 02:28:19,671 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:28:24,673 INFO [MAIN] process 43874 is still running
+2016-03-06 02:28:24,673 INFO [MAIN] process 43875 is still running
+2016-03-06 02:28:24,673 INFO [MAIN] process 43876 is still running
+2016-03-06 02:28:24,674 INFO [MAIN] process 43878 is still running
+2016-03-06 02:28:24,674 INFO [MAIN] process 43879 is still running
+2016-03-06 02:28:24,674 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:28:29,679 INFO [MAIN] process 43874 is still running
+2016-03-06 02:28:29,679 INFO [MAIN] process 43875 is still running
+2016-03-06 02:28:29,680 INFO [MAIN] process 43876 is still running
+2016-03-06 02:28:29,680 INFO [MAIN] process 43878 is still running
+2016-03-06 02:28:29,680 INFO [MAIN] process 43879 is still running
+2016-03-06 02:28:29,681 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:28:34,682 INFO [MAIN] process 43874 is still running
+2016-03-06 02:28:34,682 INFO [MAIN] process 43875 is still running
+2016-03-06 02:28:34,682 INFO [MAIN] process 43876 is still running
+2016-03-06 02:28:34,682 INFO [MAIN] process 43878 is still running
+2016-03-06 02:28:34,682 INFO [MAIN] process 43879 is still running
+2016-03-06 02:28:34,682 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:28:39,687 INFO [MAIN] process 43874 is still running
+2016-03-06 02:28:39,688 INFO [MAIN] process 43875 is still running
+2016-03-06 02:28:39,688 INFO [MAIN] process 43876 is still running
+2016-03-06 02:28:39,688 INFO [MAIN] process 43878 is still running
+2016-03-06 02:28:39,688 INFO [MAIN] process 43879 is still running
+2016-03-06 02:28:39,688 INFO [MAIN] all 5 workers are in processing
+2016-03-06 02:28:44,689 INFO [MAIN] TIMEOUT worker[0] http://www.google.com pid:43874
+2016-03-06 02:28:44,689 ERROR killProcessAndChildProcesses exception 'Process' object has no attribute 'get_children'
+2016-03-06 02:28:44,689 INFO [MAIN] worker[0] http://www.google.com finished its job, kill it
+2016-03-06 02:28:44,690 INFO [MAIN] TIMEOUT worker[0] http://www.sina.com.cn pid:43875
+2016-03-06 02:28:44,690 ERROR killProcessAndChildProcesses exception 'Process' object has no attribute 'get_children'
+2016-03-06 02:28:44,690 INFO [MAIN] worker[0] http://www.sina.com.cn finished its job, kill it
+2016-03-06 02:28:44,690 INFO [MAIN] TIMEOUT worker[0] http://www.qq.com pid:43876
+2016-03-06 02:28:44,691 ERROR killProcessAndChildProcesses exception 'Process' object has no attribute 'get_children'
+2016-03-06 02:28:44,691 INFO [MAIN] worker[0] http://www.qq.com finished its job, kill it
+2016-03-06 02:28:44,691 INFO [MAIN] TIMEOUT worker[0] http://www.weibo.com pid:43878
+2016-03-06 02:28:44,691 ERROR killProcessAndChildProcesses exception 'Process' object has no attribute 'get_children'
+2016-03-06 02:28:44,691 INFO [MAIN] worker[0] http://www.weibo.com finished its job, kill it
+2016-03-06 02:28:44,692 INFO [MAIN] TIMEOUT worker[0] http://www.wsj.com pid:43879
+2016-03-06 02:28:44,692 ERROR killProcessAndChildProcesses exception 'Process' object has no attribute 'get_children'
+2016-03-06 02:28:44,692 INFO [MAIN] worker[0] http://www.wsj.com finished its job, kill it
+2016-03-06 02:28:44,692 INFO [MAIN] no working process ... 
+2016-03-06 02:28:44,693 INFO [MAIN] allocate task [http://www.baidu.com] to a worker [0 instance running]
+2016-03-06 02:28:45,697 INFO [MAIN] successfully run http://www.baidu.com withpid:43927, full_path:log_dir/www.baidu.com_62684056-4aff-4489-866b-2d03cb4b92da
+2016-03-06 02:28:45,698 INFO [MAIN] allocate task [https://en.wikipedia.org/wiki/Main_Page] to a worker [1 instance running]
+2016-03-06 02:28:46,706 INFO [MAIN] successfully run https://en.wikipedia.org/wiki/Main_Page withpid:43928, full_path:log_dir/en.wikipedia.org_09e9555a-7176-4d87-ac25-e6f45d9dab5a
+2016-03-06 02:28:46,706 INFO [MAIN] allocate task [http://www.yahoo.com] to a worker [2 instance running]
+2016-03-06 02:28:47,714 INFO [MAIN] successfully run http://www.yahoo.com withpid:43929, full_path:log_dir/www.yahoo.com_c0fa60f9-7ab3-483c-ba32-d67ebe7f2842
+2016-03-06 02:28:57,717 DEBUG [MAIN] queue empty timeout
+2016-03-06 02:29:02,718 INFO [MAIN] process 43927 is still running
+2016-03-06 02:29:02,718 INFO [MAIN] process 43928 is still running
+2016-03-06 02:29:02,718 INFO [MAIN] process 43929 is still running
+2016-03-06 02:29:02,718 INFO [MAIN] all 3 workers are in processing
+2016-03-06 02:29:12,720 DEBUG [MAIN] queue empty timeout
+2016-03-06 02:29:17,724 INFO [MAIN] process 43927 is still running
+2016-03-06 02:29:17,724 INFO [MAIN] process 43928 is still running
+2016-03-06 02:29:17,724 INFO [MAIN] process 43929 is still running
+2016-03-06 02:29:17,725 INFO [MAIN] all 3 workers are in processing
+2016-03-06 02:29:27,725 DEBUG [MAIN] queue empty timeout
+2016-03-06 02:29:32,728 INFO [MAIN] process 43927 is still running
+2016-03-06 02:29:32,728 INFO [MAIN] process 43928 is still running
+2016-03-06 02:29:32,729 INFO [MAIN] process 43929 is still running
+2016-03-06 02:29:32,729 INFO [MAIN] all 3 workers are in processing
+2016-03-06 02:29:42,730 DEBUG [MAIN] queue empty timeout
+2016-03-06 02:29:47,732 INFO [MAIN] process 43927 is still running
+2016-03-06 02:29:47,732 INFO [MAIN] process 43928 is still running
+2016-03-06 02:29:47,732 INFO [MAIN] process 43929 is still running
+2016-03-06 02:29:47,733 INFO [MAIN] all 3 workers are in processing
+2016-03-06 02:29:57,733 DEBUG [MAIN] queue empty timeout
+2016-03-06 02:30:02,734 INFO [MAIN] process 43927 is still running
+2016-03-06 02:30:02,734 INFO [MAIN] process 43928 is still running
+2016-03-06 02:30:02,734 INFO [MAIN] process 43929 is still running
+2016-03-06 02:30:02,734 INFO [MAIN] all 3 workers are in processing
+2016-03-06 02:30:12,739 DEBUG [MAIN] queue empty timeout
+2016-03-06 02:30:17,747 INFO [MAIN] process 43927 is still running
+2016-03-06 02:30:17,747 INFO [MAIN] process 43928 is still running
+2016-03-06 02:30:17,748 INFO [MAIN] process 43929 is still running
+2016-03-06 02:30:17,748 INFO [MAIN] all 3 workers are in processing
+2016-03-06 02:30:27,753 DEBUG [MAIN] queue empty timeout
+2016-03-06 02:30:32,755 INFO [MAIN] process 43927 is still running
+2016-03-06 02:30:32,755 INFO [MAIN] process 43928 is still running
+2016-03-06 02:30:32,755 INFO [MAIN] process 43929 is still running
+2016-03-06 02:30:32,755 INFO [MAIN] all 3 workers are in processing
+2016-03-06 02:30:42,756 DEBUG [MAIN] queue empty timeout
+2016-03-06 02:30:47,758 INFO [MAIN] TIMEOUT worker[0] http://www.baidu.com pid:43927
+2016-03-06 02:30:47,759 ERROR killProcessAndChildProcesses exception 'Process' object has no attribute 'get_children'
+2016-03-06 02:30:47,759 INFO [MAIN] worker[0] http://www.baidu.com finished its job, kill it
+2016-03-06 02:30:47,759 INFO [MAIN] TIMEOUT worker[0] https://en.wikipedia.org/wiki/Main_Page pid:43928
+2016-03-06 02:30:47,759 ERROR killProcessAndChildProcesses exception 'Process' object has no attribute 'get_children'
+2016-03-06 02:30:47,759 INFO [MAIN] worker[0] https://en.wikipedia.org/wiki/Main_Page finished its job, kill it
+2016-03-06 02:30:47,759 INFO [MAIN] TIMEOUT worker[0] http://www.yahoo.com pid:43929
+2016-03-06 02:30:47,759 ERROR killProcessAndChildProcesses exception 'Process' object has no attribute 'get_children'
+2016-03-06 02:30:47,759 INFO [MAIN] worker[0] http://www.yahoo.com finished its job, kill it
+2016-03-06 02:30:47,760 INFO [MAIN] no working process ... 
+2016-03-06 03:26:39,308 INFO {'url': u'http://m.bbc.co.uk', 'userAgent': u'', 'cookies': u''}
+2016-03-06 03:26:39,310 INFO [MAIN] no working process ... 
+2016-03-06 03:35:16,079 INFO {u'http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport': {'url': u'http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/business-35722996': {'url': u'http://www.bbc.com/news/business-35722996', 'userAgent': u'', 'cookies': u''}, u'http://money.cnn.com/technology': {'url': u'http://money.cnn.com/technology', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/cbbc': {'url': u'http://www.bbc.com/cbbc', 'userAgent': u'', 'cookies': u''}, u'http://money.cnn.com/pf': {'url': u'http://money.cnn.com/pf', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/health': {'url': u'http://www.cnn.com/health', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/world-europe-35734947': {'url': u'http://www.bbc.com/news/world-europe-35734947', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport/american-football': {'url': u'http://www.bbc.com/sport/american-football', 'userAgent': u'', 'cookies': u''}, u'http://bleacherreport.com/world-football': {'url': u'http://bleacherreport.com/world-football', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/style/fashion': {'url': u'http://www.cnn.com/style/fashion', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/travel': {'url': u'http://www.cnn.com/travel', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/tv': {'url': u'http://www.bbc.com/tv', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/privacy': {'url': u'http://www.cnn.com/privacy', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/entertainment_and_arts': {'url': u'http://www.bbc.com/news/entertainment_and_arts', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/health': {'url': u'http://www.bbc.com/news/health', 'userAgent': u'', 'cookies': u''}, u'http://money.cnn.com/services/privacy': {'url': u'http://money.cnn.com/services/privacy', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/capital': {'url': u'http://www.bbc.com/capital', 'userAgent': u'', 'cookies': u''}, u'http://bleacherreport.com/mlb': {'url': u'http://bleacherreport.com/mlb', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/entertainment': {'url': u'http://www.cnn.com/entertainment', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport/football': {'url': u'http://www.bbc.com/sport/football', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/earth/story/20160305-how-to-build-a-working-model-of-the-solar-system': {'url': u'http://www.bbc.com/earth/story/20160305-how-to-build-a-working-model-of-the-solar-system', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/future/story/20160303-cheap-oil-is-taking-shipping-routes-back-to-the-1800s': {'url': u'http://www.bbc.com/future/story/20160303-cheap-oil-is-taking-shipping-routes-back-to-the-1800s', 'userAgent': u'', 'cookies': u''}, u'http://facebook.com/cnnstyle': {'url': u'http://facebook.com/cnnstyle', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/weather': {'url': u'http://www.cnn.com/weather', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/opinions/cnnireport': {'url': u'http://www.cnn.com/specials/opinions/cnnireport', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/style/autos': {'url': u'http://www.cnn.com/style/autos', 'userAgent': u'', 'cookies': u''}, u'https://www.facebook.com/cnnpolitics': {'url': u'https://www.facebook.com/cnnpolitics', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport/35738958': {'url': u'http://www.bbc.com/sport/35738958', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/education': {'url': u'http://www.bbc.com/education', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/music': {'url': u'http://www.bbc.com/music', 'userAgent': u'', 'cookies': u''}, u'http://money.cnn.com/services/terms.html': {'url': u'http://money.cnn.com/services/terms.html', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/cnn-longform': {'url': u'http://www.cnn.com/specials/cnn-longform', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/www.bbc.com/travel': {'url': u'http://www.bbc.com/www.bbc.com/travel', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/politics/world-politics': {'url': u'http://www.cnn.com/specials/politics/world-politics', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/arts': {'url': u'http://www.bbc.com/arts', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/autos/story/20160304-genevas-best-in-show': {'url': u'http://www.bbc.com/autos/story/20160304-genevas-best-in-show', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/uk': {'url': u'http://www.bbc.com/news/uk', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/style/architecture': {'url': u'http://www.cnn.com/style/architecture', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/travel/business-traveller': {'url': u'http://www.cnn.com/specials/travel/business-traveller', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/id/status': {'url': u'http://www.bbc.com/id/status', 'userAgent': u'', 'cookies': u''}, u'http://instagram.com/cnn': {'url': u'http://instagram.com/cnn', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/opinion/opinion-politics': {'url': u'http://www.cnn.com/specials/opinion/opinion-politics', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/health/living-well': {'url': u'http://www.cnn.com/specials/health/living-well', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport#orb-footer': {'url': u'http://www.bbc.com/sport#orb-footer', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com#orb-footer': {'url': u'http://www.bbc.com#orb-footer', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/world-europe-35738264': {'url': u'http://www.bbc.com/news/world-europe-35738264', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/travel': {'url': u'http://www.bbc.com/travel', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/space-science': {'url': u'http://www.cnn.com/specials/space-science', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/autos': {'url': u'http://www.bbc.com/autos', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport': {'url': u'http://www.bbc.com/sport', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/world': {'url': u'http://www.bbc.com/news/world', 'userAgent': u'', 'cookies': u''}, u'http://twitter.com/cnnstyle': {'url': u'http://twitter.com/cnnstyle', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/election/us2016': {'url': u'http://www.bbc.com/news/election/us2016', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2F': {'url': u'http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2F', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/style/design': {'url': u'http://www.cnn.com/style/design', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/health/diet-fitness': {'url': u'http://www.cnn.com/specials/health/diet-fitness', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/business-35732291': {'url': u'http://www.bbc.com/news/business-35732291', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fnews': {'url': u'http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fnews', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport/tennis/35736284': {'url': u'http://www.bbc.com/sport/tennis/35736284', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/politics/politics-our-team': {'url': u'http://www.cnn.com/specials/politics/politics-our-team', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/capital/story/20160222-this-is-why-quitting-was-the-best-thing-they-ever-did': {'url': u'http://www.bbc.com/capital/story/20160222-this-is-why-quitting-was-the-best-thing-they-ever-did', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/world': {'url': u'http://www.cnn.com/world', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/digital-studios': {'url': u'http://www.cnn.com/specials/digital-studios', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/travel/story/20160225-the-worlds-most-secretive-places': {'url': u'http://www.bbc.com/travel/story/20160225-the-worlds-most-secretive-places', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/us/energy-and-environment': {'url': u'http://www.cnn.com/specials/us/energy-and-environment', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/cbeebies': {'url': u'http://www.bbc.com/cbeebies', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/makeitdigital': {'url': u'http://www.bbc.com/makeitdigital', 'userAgent': u'', 'cookies': u''}, u'http://bleacherreport.com/college-football': {'url': u'http://bleacherreport.com/college-football', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/terms': {'url': u'http://www.cnn.com/terms', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news#orb-footer': {'url': u'http://www.bbc.com/news#orb-footer', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/tv/schedule/cnn': {'url': u'http://www.cnn.com/tv/schedule/cnn', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/living/cnn-parents': {'url': u'http://www.cnn.com/specials/living/cnn-parents', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/election-us-2016-35738700': {'url': u'http://www.bbc.com/news/election-us-2016-35738700', 'userAgent': u'', 'cookies': u''}, u'https://vine.co/cnnpolitics': {'url': u'https://vine.co/cnnpolitics', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.co.uk/news': {'url': u'http://www.bbc.co.uk/news', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news': {'url': u'http://www.bbc.com/news', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/living/eatocracy': {'url': u'http://www.cnn.com/specials/living/eatocracy', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/also_in_the_news': {'url': u'http://www.bbc.com/news/also_in_the_news', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/technology': {'url': u'http://www.bbc.com/news/technology', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport/cycling': {'url': u'http://www.bbc.com/sport/cycling', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/science_and_environment': {'url': u'http://www.bbc.com/news/science_and_environment', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport/front-page': {'url': u'http://www.bbc.com/sport/front-page', 'userAgent': u'', 'cookies': u''}, u'http://bleacherreport.com/nfl': {'url': u'http://bleacherreport.com/nfl', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/nature': {'url': u'http://www.bbc.com/nature', 'userAgent': u'', 'cookies': u''}, u'https://twitter.com/cnnpolitics': {'url': u'https://twitter.com/cnnpolitics', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/iplayer': {'url': u'http://www.bbc.com/iplayer', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/business-35724308': {'url': u'http://www.bbc.com/news/business-35724308', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/2016/03/05/opinions/clinton-trump-made-for-each-other-opinion-zelizer/index.html': {'url': u'http://www.cnn.com/2016/03/05/opinions/clinton-trump-made-for-each-other-opinion-zelizer/index.html', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/politics': {'url': u'http://www.cnn.com/politics', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/earth/story/20160304-amazing-mothers-of-the-animal-world': {'url': u'http://www.bbc.com/earth/story/20160304-amazing-mothers-of-the-animal-world', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/us/crime-and-justice': {'url': u'http://www.cnn.com/specials/us/crime-and-justice', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport/boxing': {'url': u'http://www.bbc.com/sport/boxing', 'userAgent': u'', 'cookies': u''}, u'http://money.cnn.com/luxury': {'url': u'http://money.cnn.com/luxury', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/showbiz/celebrity-watch': {'url': u'http://www.cnn.com/specials/showbiz/celebrity-watch', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/middle-east': {'url': u'http://www.cnn.com/middle-east', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/2016/03/05/entertainment/bankroll-fresh-trentavious-white-shot-killed-feat/index.html': {'url': u'http://www.cnn.com/2016/03/05/entertainment/bankroll-fresh-trentavious-white-shot-killed-feat/index.html', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/culture/story/20160212-the-room-why-so-many-love-the-worst-film-ever-made': {'url': u'http://www.bbc.com/culture/story/20160212-the-room-why-so-many-love-the-worst-film-ever-made', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport/tennis': {'url': u'http://www.bbc.com/sport/tennis', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/local': {'url': u'http://www.bbc.com/local', 'userAgent': u'', 'cookies': u''}, u'http://bleacherreport.com': {'url': u'http://bleacherreport.com', 'userAgent': u'', 'cookies': u''}, u'http://money.cnn.com/technology/innovationnation': {'url': u'http://money.cnn.com/technology/innovationnation', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/more': {'url': u'http://www.cnn.com/more', 'userAgent': u'', 'cookies': u''}, u'http://shop.bbc.com': {'url': u'http://shop.bbc.com', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/style/arts': {'url': u'http://www.cnn.com/style/arts', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/world/us_and_canada': {'url': u'http://www.bbc.com/news/world/us_and_canada', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/world/latin_america': {'url': u'http://www.bbc.com/news/world/latin_america', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/living': {'url': u'http://www.cnn.com/living', 'userAgent': u'', 'cookies': u''}, u'http://twitter.com/cnn': {'url': u'http://twitter.com/cnn', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/tech/cybersecurity': {'url': u'http://www.cnn.com/specials/tech/cybersecurity', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/politics/national-politics': {'url': u'http://www.cnn.com/specials/politics/national-politics', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/living/relationships': {'url': u'http://www.cnn.com/specials/living/relationships', 'userAgent': u'', 'cookies': u''}, u'http://m.bbc.co.uk': {'url': u'http://m.bbc.co.uk', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/travel/sleep-eats': {'url': u'http://www.cnn.com/specials/travel/sleep-eats', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/business-35725487': {'url': u'http://www.bbc.com/news/business-35725487', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/iwonder': {'url': u'http://www.bbc.com/iwonder', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/cnn-investigations': {'url': u'http://www.cnn.com/specials/cnn-investigations', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/politics/2016-election': {'url': u'http://www.cnn.com/specials/politics/2016-election', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport/equestrian': {'url': u'http://www.bbc.com/sport/equestrian', 'userAgent': u'', 'cookies': u''}, u'http://cnn.com': {'url': u'http://cnn.com', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/tv/all-shows': {'url': u'http://www.cnn.com/specials/tv/all-shows', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport/athletics': {'url': u'http://www.bbc.com/sport/athletics', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/tech': {'url': u'http://www.cnn.com/tech', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/future': {'url': u'http://www.bbc.com/future', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport/rugby-union': {'url': u'http://www.bbc.com/sport/rugby-union', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/video_and_audio/international': {'url': u'http://www.bbc.com/news/video_and_audio/international', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/photos': {'url': u'http://www.cnn.com/specials/photos', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/us': {'url': u'http://www.cnn.com/us', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/business': {'url': u'http://www.bbc.com/news/business', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/weather/2643743?day=0': {'url': u'http://www.bbc.com/weather/2643743?day=0', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/weather/2643743?day=1': {'url': u'http://www.bbc.com/weather/2643743?day=1', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/weather/2643743?day=2': {'url': u'http://www.bbc.com/weather/2643743?day=2', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/weather/2643743?day=3': {'url': u'http://www.bbc.com/weather/2643743?day=3', 'userAgent': u'', 'cookies': u''}, u'http://money.cnn.com': {'url': u'http://money.cnn.com', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/showbiz/tv-web': {'url': u'http://www.cnn.com/specials/showbiz/tv-web', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport/all-sports': {'url': u'http://www.bbc.com/sport/all-sports', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news#core-navigation': {'url': u'http://www.bbc.com/news#core-navigation', 'userAgent': u'', 'cookies': u''}, u'http://search.bbc.co.uk/search': {'url': u'http://search.bbc.co.uk/search', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/tech/consumer-tech': {'url': u'http://www.cnn.com/specials/tech/consumer-tech', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport/formula1': {'url': u'http://www.bbc.com/sport/formula1', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/style/luxury': {'url': u'http://www.cnn.com/style/luxury', 'userAgent': u'', 'cookies': u''}, u'http://money.cnn.com/media': {'url': u'http://money.cnn.com/media', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news#page': {'url': u'http://www.bbc.com/news#page', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/belief': {'url': u'http://www.cnn.com/specials/belief', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/world-latin-america-35725415': {'url': u'http://www.bbc.com/news/world-latin-america-35725415', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport/disability-sport': {'url': u'http://www.bbc.com/sport/disability-sport', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/politics/washington-politics': {'url': u'http://www.cnn.com/specials/politics/washington-politics', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/opinions': {'url': u'http://www.cnn.com/opinions', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/accessibility': {'url': u'http://www.bbc.com/accessibility', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport/football/35736880': {'url': u'http://www.bbc.com/sport/football/35736880', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/asia': {'url': u'http://www.cnn.com/asia', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/style': {'url': u'http://www.cnn.com/style', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/earth': {'url': u'http://www.bbc.com/earth', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/magazine-35717932': {'url': u'http://www.bbc.com/news/magazine-35717932', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/radio': {'url': u'http://www.bbc.com/radio', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/us/extreme-weather': {'url': u'http://www.cnn.com/specials/us/extreme-weather', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport/football/35738346': {'url': u'http://www.bbc.com/sport/football/35738346', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/world/europe': {'url': u'http://www.bbc.com/news/world/europe', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/travel/aviation-more': {'url': u'http://www.cnn.com/specials/travel/aviation-more', 'userAgent': u'', 'cookies': u''}, u'http://cnn.it/go2': {'url': u'http://cnn.it/go2', 'userAgent': u'', 'cookies': u''}, u'http://www.turner.com': {'url': u'http://www.turner.com', 'userAgent': u'', 'cookies': u''}, u'https://www.facebook.com/cnn': {'url': u'https://www.facebook.com/cnn', 'userAgent': u'', 'cookies': u''}, u'http://money.cnn.com/data/markets': {'url': u'http://money.cnn.com/data/markets', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport/golf': {'url': u'http://www.bbc.com/sport/golf', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/europe': {'url': u'http://www.cnn.com/europe', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/culture': {'url': u'http://www.bbc.com/culture', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/in_pictures': {'url': u'http://www.bbc.com/news/in_pictures', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/food': {'url': u'http://www.bbc.com/food', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/travel/story/20160303-a-deserts-once-in-a-decade-super-bloom': {'url': u'http://www.bbc.com/travel/story/20160303-a-deserts-once-in-a-decade-super-bloom', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/opinion/opinion-social-issues': {'url': u'http://www.cnn.com/specials/opinion/opinion-social-issues', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/2016/03/04/travel/anchorage-alaska-airport-snow/index.html': {'url': u'http://www.cnn.com/2016/03/04/travel/anchorage-alaska-airport-snow/index.html', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/travel/best-of-travel': {'url': u'http://www.cnn.com/specials/travel/best-of-travel', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/videos/digital-shorts': {'url': u'http://www.cnn.com/specials/videos/digital-shorts', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/special_reports': {'url': u'http://www.bbc.com/news/special_reports', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/videos': {'url': u'http://www.cnn.com/videos', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/americas': {'url': u'http://www.cnn.com/americas', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/world-latin-america-35737995': {'url': u'http://www.bbc.com/news/world-latin-america-35737995', 'userAgent': u'', 'cookies': u''}, u'http://bleacherreport.com/nba': {'url': u'http://bleacherreport.com/nba', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/2016/03/04/health/flint-lead-exposure-long-term-pain/index.html': {'url': u'http://www.cnn.com/2016/03/04/health/flint-lead-exposure-long-term-pain/index.html', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/showbiz/movies-music': {'url': u'http://www.cnn.com/specials/showbiz/movies-music', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/profiles': {'url': u'http://www.cnn.com/specials/profiles', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/weather': {'url': u'http://www.bbc.com/weather', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/2016/03/04/us/flint-update-five-months-later/index.html': {'url': u'http://www.cnn.com/2016/03/04/us/flint-update-five-months-later/index.html', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/news/magazine': {'url': u'http://www.bbc.com/news/magazine', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/specials/more/cnn-leadership': {'url': u'http://www.cnn.com/specials/more/cnn-leadership', 'userAgent': u'', 'cookies': u''}, u'https://www.youtube.com/user/CNN': {'url': u'https://www.youtube.com/user/CNN', 'userAgent': u'', 'cookies': u''}, u'http://www.cnn.com/africa': {'url': u'http://www.cnn.com/africa', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/capital/story/20160303-what-scaling-mountains-teaches-you-about-success': {'url': u'http://www.bbc.com/capital/story/20160303-what-scaling-mountains-teaches-you-about-success', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/sport/cricket': {'url': u'http://www.bbc.com/sport/cricket', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.com/taster': {'url': u'http://www.bbc.com/taster', 'userAgent': u'', 'cookies': u''}, u'http://www.bbc.co.uk': {'url': u'http://www.bbc.co.uk', 'userAgent': u'', 'cookies': u''}}
+2016-03-06 03:35:16,112 INFO [MAIN] no working process ... 
+2016-03-06 03:38:55,356 INFO [MAIN] no working process ... 
+2016-03-06 03:38:55,356 INFO [MAIN] allocate task [http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport] to a worker [0 instance running]
+2016-03-06 03:38:56,364 INFO [MAIN] successfully run http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport withpid:45667, full_path:log_dir/www.bbc.com_d9c474a8-19d6-4366-98a5-4f8573732db9
+2016-03-06 03:38:56,364 INFO [MAIN] allocate task [http://www.bbc.com/news/business-35722996] to a worker [1 instance running]
+2016-03-06 03:38:57,370 INFO [MAIN] successfully run http://www.bbc.com/news/business-35722996 withpid:45668, full_path:log_dir/www.bbc.com_b1533973-4f80-4624-a663-3d4a2d877387
+2016-03-06 03:38:57,370 INFO [MAIN] allocate task [http://money.cnn.com/technology] to a worker [2 instance running]
+2016-03-06 03:38:58,387 INFO [MAIN] successfully run http://money.cnn.com/technology withpid:45669, full_path:log_dir/money.cnn.com_5ce96aa1-586e-48c5-8295-56d6a3e156ed
+2016-03-06 03:38:58,388 INFO [MAIN] allocate task [http://www.bbc.com/cbbc] to a worker [3 instance running]
+2016-03-06 03:38:59,396 INFO [MAIN] successfully run http://www.bbc.com/cbbc withpid:45670, full_path:log_dir/www.bbc.com_3f80e9b7-2dd5-489e-b376-8765fadfdc72
+2016-03-06 03:38:59,396 INFO [MAIN] allocate task [http://money.cnn.com/pf] to a worker [4 instance running]
+2016-03-06 03:39:00,405 INFO [MAIN] successfully run http://money.cnn.com/pf withpid:45671, full_path:log_dir/money.cnn.com_9bf03414-179b-4eaf-bb40-1a97a59fd621
+2016-03-06 03:39:05,408 INFO [MAIN] process 45667 is still running
+2016-03-06 03:39:05,409 INFO [MAIN] process 45668 is still running
+2016-03-06 03:39:05,409 INFO [MAIN] process 45669 is still running
+2016-03-06 03:39:05,409 INFO [MAIN] process 45670 is still running
+2016-03-06 03:39:05,409 INFO [MAIN] process 45671 is still running
+2016-03-06 03:39:05,409 INFO [MAIN] all 5 workers are in processing
+2016-03-06 03:39:10,412 INFO [MAIN] process 45667 is still running
+2016-03-06 03:39:10,412 INFO [MAIN] process 45668 is still running
+2016-03-06 03:39:10,413 INFO [MAIN] process 45669 is still running
+2016-03-06 03:39:10,413 INFO [MAIN] process 45670 is still running
+2016-03-06 03:39:10,413 INFO [MAIN] process 45671 is still running
+2016-03-06 03:39:10,413 INFO [MAIN] all 5 workers are in processing
+2016-03-06 03:47:48,968 INFO [MAIN] no working process ... 
+2016-03-06 03:47:48,968 INFO [MAIN] allocate task [http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport] to a worker [0 instance running]
+2016-03-06 03:47:49,978 INFO [MAIN] successfully run http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport withpid:45890, full_path:log_dir/www.bbc.com_f0b7021c-b5dc-4205-8f73-b961f00eba28
+2016-03-06 03:47:49,979 INFO [MAIN] allocate task [http://www.bbc.com/news/business-35722996] to a worker [1 instance running]
+2016-03-06 03:47:50,994 INFO [MAIN] successfully run http://www.bbc.com/news/business-35722996 withpid:45891, full_path:log_dir/www.bbc.com_0c066af3-d092-4099-8fe1-183d274ca923
+2016-03-06 03:47:50,995 INFO [MAIN] allocate task [http://money.cnn.com/technology] to a worker [2 instance running]
+2016-03-06 03:47:52,005 INFO [MAIN] successfully run http://money.cnn.com/technology withpid:45892, full_path:log_dir/money.cnn.com_b35ffaab-85f2-42e0-9850-42e4b4664804
+2016-03-06 03:47:52,005 INFO [MAIN] allocate task [http://www.bbc.com/cbbc] to a worker [3 instance running]
+2016-03-06 03:47:53,015 INFO [MAIN] successfully run http://www.bbc.com/cbbc withpid:45895, full_path:log_dir/www.bbc.com_b54a8d8a-d4c6-414f-b550-012f78204115
+2016-03-06 03:47:53,016 INFO [MAIN] allocate task [http://money.cnn.com/pf] to a worker [4 instance running]
+2016-03-06 03:47:54,023 INFO [MAIN] successfully run http://money.cnn.com/pf withpid:45896, full_path:log_dir/money.cnn.com_d5cdde66-39d4-442b-96d9-afb58b3317f5
+2016-03-06 03:47:59,030 INFO [MAIN] process 45890 is still running
+2016-03-06 03:47:59,030 INFO [MAIN] process 45891 is still running
+2016-03-06 03:47:59,030 INFO [MAIN] process 45892 is still running
+2016-03-06 03:47:59,030 INFO [MAIN] process 45895 is still running
+2016-03-06 03:47:59,031 INFO [MAIN] process 45896 is still running
+2016-03-06 03:47:59,031 INFO [MAIN] all 5 workers are in processing
+2016-03-06 03:48:04,032 INFO [MAIN] process 45890 is still running
+2016-03-06 03:48:04,033 INFO [MAIN] process 45891 is still running
+2016-03-06 03:48:04,033 INFO [MAIN] process 45892 is still running
+2016-03-06 03:48:04,033 INFO [MAIN] EXIT[0] worker[3] http://www.bbc.com/cbbc pid[45895]
+2016-03-06 03:48:04,033 INFO [MAIN] worker[3] http://www.bbc.com/cbbc finished its job, kill it
+2016-03-06 03:48:04,033 INFO [MAIN] process 45890 is still running
+2016-03-06 03:48:04,033 INFO [MAIN] process 45891 is still running
+2016-03-06 03:48:04,033 INFO [MAIN] process 45892 is still running
+2016-03-06 03:48:04,034 INFO [MAIN] process 45896 is still running
+2016-03-06 03:48:04,034 INFO [MAIN] all 4 workers are in processing
+2016-03-06 03:48:04,034 INFO [MAIN] allocate task [http://www.cnn.com/health] to a worker [4 instance running]
+2016-03-06 03:48:05,045 INFO [MAIN] successfully run http://www.cnn.com/health withpid:45900, full_path:log_dir/www.cnn.com_c856fa6c-940d-450d-ab17-e19d40913f1c
+2016-03-06 03:48:10,051 INFO [MAIN] EXIT[0] worker[0] http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport pid[45890]
+2016-03-06 03:48:10,051 INFO [MAIN] worker[0] http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport finished its job, kill it
+2016-03-06 03:48:10,052 INFO [MAIN] process 45891 is still running
+2016-03-06 03:48:10,052 INFO [MAIN] process 45892 is still running
+2016-03-06 03:48:10,052 INFO [MAIN] process 45896 is still running
+2016-03-06 03:48:10,052 INFO [MAIN] process 45900 is still running
+2016-03-06 03:48:10,052 INFO [MAIN] all 4 workers are in processing
+2016-03-06 03:48:10,053 INFO [MAIN] allocate task [http://www.bbc.com/news/world-europe-35734947] to a worker [4 instance running]
+2016-03-06 03:48:11,066 INFO [MAIN] successfully run http://www.bbc.com/news/world-europe-35734947 withpid:45902, full_path:log_dir/www.bbc.com_e3129bc3-4444-4042-accd-07d22b7917e1
+2016-03-06 03:48:16,068 INFO [MAIN] EXIT[0] worker[0] http://www.bbc.com/news/business-35722996 pid[45891]
+2016-03-06 03:48:16,068 INFO [MAIN] worker[0] http://www.bbc.com/news/business-35722996 finished its job, kill it
+2016-03-06 03:48:16,068 INFO [MAIN] process 45892 is still running
+2016-03-06 03:48:16,069 INFO [MAIN] process 45896 is still running
+2016-03-06 03:48:16,069 INFO [MAIN] process 45900 is still running
+2016-03-06 03:48:16,069 INFO [MAIN] process 45902 is still running
+2016-03-06 03:48:16,069 INFO [MAIN] all 4 workers are in processing
+2016-03-06 03:48:16,069 INFO [MAIN] allocate task [http://www.bbc.com/sport/american-football] to a worker [4 instance running]
+2016-03-06 03:48:17,078 INFO [MAIN] successfully run http://www.bbc.com/sport/american-football withpid:45906, full_path:log_dir/www.bbc.com_66880bd9-823b-4bd4-9fb7-3ba07eab0275
+2016-03-06 03:48:22,081 INFO [MAIN] EXIT[0] worker[0] http://money.cnn.com/technology pid[45892]
+2016-03-06 03:48:22,081 INFO [MAIN] worker[0] http://money.cnn.com/technology finished its job, kill it
+2016-03-06 03:48:22,081 INFO [MAIN] EXIT[0] worker[0] http://money.cnn.com/pf pid[45896]
+2016-03-06 03:48:22,081 INFO [MAIN] worker[0] http://money.cnn.com/pf finished its job, kill it
+2016-03-06 03:48:22,081 INFO [MAIN] process 45900 is still running
+2016-03-06 03:48:22,081 INFO [MAIN] process 45902 is still running
+2016-03-06 03:48:22,082 INFO [MAIN] process 45906 is still running
+2016-03-06 03:48:22,082 INFO [MAIN] all 3 workers are in processing
+2016-03-06 03:48:22,082 INFO [MAIN] allocate task [http://bleacherreport.com/world-football] to a worker [3 instance running]
+2016-03-06 03:48:23,093 INFO [MAIN] successfully run http://bleacherreport.com/world-football withpid:45910, full_path:log_dir/bleacherreport.com_fe678fb5-f398-46a5-b06a-76b9af5e06db
+2016-03-06 03:48:23,094 INFO [MAIN] allocate task [http://www.cnn.com/style/fashion] to a worker [4 instance running]
+2016-03-06 03:48:24,100 INFO [MAIN] successfully run http://www.cnn.com/style/fashion withpid:45911, full_path:log_dir/www.cnn.com_83b3e6f1-dd63-4c09-bc03-0c81f940b25d
+2016-03-06 03:48:29,103 INFO [MAIN] process 45900 is still running
+2016-03-06 03:48:29,104 INFO [MAIN] process 45902 is still running
+2016-03-06 03:48:29,104 INFO [MAIN] process 45906 is still running
+2016-03-06 03:48:29,105 INFO [MAIN] process 45910 is still running
+2016-03-06 03:48:29,105 INFO [MAIN] process 45911 is still running
+2016-03-06 03:48:29,105 INFO [MAIN] all 5 workers are in processing
+2016-03-06 03:50:17,557 INFO [MAIN] no working process ... 
+2016-03-06 03:50:17,557 INFO [MAIN] allocate task [http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport] to a worker [0 instance running]
+2016-03-06 03:50:17,558 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport', '1']
+2016-03-06 03:50:18,564 INFO [MAIN] successfully run http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport withpid:45953, full_path:log_dir/www.bbc.com_510e0e73-84aa-445d-ad50-92ab35c8c880
+2016-03-06 03:50:18,565 INFO [MAIN] allocate task [http://www.bbc.com/news/business-35722996] to a worker [1 instance running]
+2016-03-06 03:50:18,566 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/business-35722996', '1']
+2016-03-06 03:50:19,572 INFO [MAIN] successfully run http://www.bbc.com/news/business-35722996 withpid:45954, full_path:log_dir/www.bbc.com_c88e7572-72b7-4b08-9501-394e50405253
+2016-03-06 03:50:19,573 INFO [MAIN] allocate task [http://money.cnn.com/technology] to a worker [2 instance running]
+2016-03-06 03:50:19,573 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://money.cnn.com/technology', '1']
+2016-03-06 03:50:20,582 INFO [MAIN] successfully run http://money.cnn.com/technology withpid:45955, full_path:log_dir/money.cnn.com_c0f9a172-f33c-4b74-8945-b49db713f33a
+2016-03-06 03:50:20,583 INFO [MAIN] allocate task [http://www.bbc.com/cbbc] to a worker [3 instance running]
+2016-03-06 03:50:20,584 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/cbbc', '1']
+2016-03-06 03:50:21,593 INFO [MAIN] successfully run http://www.bbc.com/cbbc withpid:45956, full_path:log_dir/www.bbc.com_02948d07-2678-4b75-add2-84134fbb7f09
+2016-03-06 03:50:21,594 INFO [MAIN] allocate task [http://money.cnn.com/pf] to a worker [4 instance running]
+2016-03-06 03:50:21,595 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://money.cnn.com/pf', '1']
+2016-03-06 03:50:22,600 INFO [MAIN] successfully run http://money.cnn.com/pf withpid:45957, full_path:log_dir/money.cnn.com_77c23e81-f484-4c63-be1e-49b59b2cc9ac
+2016-03-06 03:50:27,603 INFO [MAIN] process 45953 is still running
+2016-03-06 03:50:27,603 INFO [MAIN] process 45954 is still running
+2016-03-06 03:50:27,603 INFO [MAIN] process 45955 is still running
+2016-03-06 03:50:27,603 INFO [MAIN] process 45956 is still running
+2016-03-06 03:50:27,603 INFO [MAIN] process 45957 is still running
+2016-03-06 03:50:27,604 INFO [MAIN] all 5 workers are in processing
+2016-03-06 03:50:32,609 INFO [MAIN] EXIT[0] worker[0] http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport pid[45953]
+2016-03-06 03:50:32,609 INFO [MAIN] worker[0] http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport finished its job, kill it
+2016-03-06 03:50:32,610 INFO [MAIN] process 45954 is still running
+2016-03-06 03:50:32,610 INFO [MAIN] process 45955 is still running
+2016-03-06 03:50:32,610 INFO [MAIN] process 45956 is still running
+2016-03-06 03:50:32,610 INFO [MAIN] process 45957 is still running
+2016-03-06 03:50:32,610 INFO [MAIN] all 4 workers are in processing
+2016-03-06 03:50:32,611 INFO [MAIN] allocate task [http://www.cnn.com/health] to a worker [4 instance running]
+2016-03-06 03:50:32,612 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/health', '1']
+2016-03-06 03:50:33,622 INFO [MAIN] successfully run http://www.cnn.com/health withpid:45963, full_path:log_dir/www.cnn.com_83833bbc-ddcf-4945-baae-09e4f745f668
+2016-03-06 04:01:55,614 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,616 INFO [MAIN] allocate task [http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport] to a worker [0 instance running]
+2016-03-06 04:01:55,617 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport', '1', 5000, '/', '/']
+2016-03-06 04:01:55,625 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,625 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,625 INFO [MAIN] allocate task [http://www.bbc.com/news/business-35722996] to a worker [0 instance running]
+2016-03-06 04:01:55,626 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/business-35722996', '1', 5000, '/', '/']
+2016-03-06 04:01:55,631 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,632 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,632 INFO [MAIN] allocate task [http://money.cnn.com/technology] to a worker [0 instance running]
+2016-03-06 04:01:55,632 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://money.cnn.com/technology', '1', 5000, '/', '/']
+2016-03-06 04:01:55,638 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,638 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,638 INFO [MAIN] allocate task [http://www.bbc.com/cbbc] to a worker [0 instance running]
+2016-03-06 04:01:55,639 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/cbbc', '1', 5000, '/', '/']
+2016-03-06 04:01:55,648 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,648 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,649 INFO [MAIN] allocate task [http://money.cnn.com/pf] to a worker [0 instance running]
+2016-03-06 04:01:55,649 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://money.cnn.com/pf', '1', 5000, '/', '/']
+2016-03-06 04:01:55,656 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,657 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,657 INFO [MAIN] allocate task [http://www.cnn.com/health] to a worker [0 instance running]
+2016-03-06 04:01:55,658 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/health', '1', 5000, '/', '/']
+2016-03-06 04:01:55,670 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,670 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,671 INFO [MAIN] allocate task [http://www.bbc.com/news/world-europe-35734947] to a worker [0 instance running]
+2016-03-06 04:01:55,673 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/world-europe-35734947', '1', 5000, '/', '/']
+2016-03-06 04:01:55,679 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,680 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,680 INFO [MAIN] allocate task [http://www.bbc.com/sport/american-football] to a worker [0 instance running]
+2016-03-06 04:01:55,681 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/american-football', '1', 5000, '/', '/']
+2016-03-06 04:01:55,686 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,686 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,687 INFO [MAIN] allocate task [http://bleacherreport.com/world-football] to a worker [0 instance running]
+2016-03-06 04:01:55,687 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://bleacherreport.com/world-football', '1', 5000, '/', '/']
+2016-03-06 04:01:55,696 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,697 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,697 INFO [MAIN] allocate task [http://www.cnn.com/style/fashion] to a worker [0 instance running]
+2016-03-06 04:01:55,698 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/style/fashion', '1', 5000, '/', '/']
+2016-03-06 04:01:55,705 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,705 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,705 INFO [MAIN] allocate task [http://www.cnn.com/travel] to a worker [0 instance running]
+2016-03-06 04:01:55,706 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/travel', '1', 5000, '/', '/']
+2016-03-06 04:01:55,716 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,717 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,718 INFO [MAIN] allocate task [http://www.bbc.com/tv] to a worker [0 instance running]
+2016-03-06 04:01:55,720 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/tv', '1', 5000, '/', '/']
+2016-03-06 04:01:55,733 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,733 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,734 INFO [MAIN] allocate task [http://www.cnn.com/privacy] to a worker [0 instance running]
+2016-03-06 04:01:55,734 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/privacy', '1', 5000, '/', '/']
+2016-03-06 04:01:55,747 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,748 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,748 INFO [MAIN] allocate task [http://www.bbc.com/news/entertainment_and_arts] to a worker [0 instance running]
+2016-03-06 04:01:55,749 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/entertainment_and_arts', '1', 5000, '/', '/']
+2016-03-06 04:01:55,764 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,765 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,766 INFO [MAIN] allocate task [http://www.bbc.com/news/health] to a worker [0 instance running]
+2016-03-06 04:01:55,768 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/health', '1', 5000, '/', '/']
+2016-03-06 04:01:55,780 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,781 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,781 INFO [MAIN] allocate task [http://money.cnn.com/services/privacy] to a worker [0 instance running]
+2016-03-06 04:01:55,783 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://money.cnn.com/services/privacy', '1', 5000, '/', '/']
+2016-03-06 04:01:55,797 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,798 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,805 INFO [MAIN] allocate task [http://www.bbc.com/capital] to a worker [0 instance running]
+2016-03-06 04:01:55,807 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/capital', '1', 5000, '/', '/']
+2016-03-06 04:01:55,834 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,835 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,836 INFO [MAIN] allocate task [http://bleacherreport.com/mlb] to a worker [0 instance running]
+2016-03-06 04:01:55,837 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://bleacherreport.com/mlb', '1', 5000, '/', '/']
+2016-03-06 04:01:55,845 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,846 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,847 INFO [MAIN] allocate task [http://www.cnn.com/entertainment] to a worker [0 instance running]
+2016-03-06 04:01:55,848 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/entertainment', '1', 5000, '/', '/']
+2016-03-06 04:01:55,860 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,860 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,861 INFO [MAIN] allocate task [http://www.bbc.com/sport/football] to a worker [0 instance running]
+2016-03-06 04:01:55,861 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/football', '1', 5000, '/', '/']
+2016-03-06 04:01:55,870 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,870 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,871 INFO [MAIN] allocate task [http://www.bbc.com/earth/story/20160305-how-to-build-a-working-model-of-the-solar-system] to a worker [0 instance running]
+2016-03-06 04:01:55,871 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/earth/story/20160305-how-to-build-a-working-model-of-the-solar-system', '1', 5000, '/', '/']
+2016-03-06 04:01:55,881 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,881 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,882 INFO [MAIN] allocate task [http://www.bbc.com/future/story/20160303-cheap-oil-is-taking-shipping-routes-back-to-the-1800s] to a worker [0 instance running]
+2016-03-06 04:01:55,882 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/future/story/20160303-cheap-oil-is-taking-shipping-routes-back-to-the-1800s', '1', 5000, '/', '/']
+2016-03-06 04:01:55,891 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,891 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,892 INFO [MAIN] allocate task [http://facebook.com/cnnstyle] to a worker [0 instance running]
+2016-03-06 04:01:55,892 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://facebook.com/cnnstyle', '1', 5000, '/', '/']
+2016-03-06 04:01:55,903 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,904 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,904 INFO [MAIN] allocate task [http://www.cnn.com/weather] to a worker [0 instance running]
+2016-03-06 04:01:55,905 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/weather', '1', 5000, '/', '/']
+2016-03-06 04:01:55,917 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,917 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,918 INFO [MAIN] allocate task [http://www.cnn.com/specials/opinions/cnnireport] to a worker [0 instance running]
+2016-03-06 04:01:55,919 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/opinions/cnnireport', '1', 5000, '/', '/']
+2016-03-06 04:01:55,930 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,932 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,933 INFO [MAIN] allocate task [http://www.cnn.com/style/autos] to a worker [0 instance running]
+2016-03-06 04:01:55,935 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/style/autos', '1', 5000, '/', '/']
+2016-03-06 04:01:55,949 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,950 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,951 INFO [MAIN] allocate task [https://www.facebook.com/cnnpolitics] to a worker [0 instance running]
+2016-03-06 04:01:55,952 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'https://www.facebook.com/cnnpolitics', '1', 5000, '/', '/']
+2016-03-06 04:01:55,960 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,961 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,961 INFO [MAIN] allocate task [http://www.bbc.com/sport/35738958] to a worker [0 instance running]
+2016-03-06 04:01:55,965 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/35738958', '1', 5000, '/', '/']
+2016-03-06 04:01:55,977 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,978 INFO [MAIN] no working process ... 
+2016-03-06 04:01:55,978 INFO [MAIN] allocate task [http://www.bbc.com/education] to a worker [0 instance running]
+2016-03-06 04:01:55,982 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/education', '1', 5000, '/', '/']
+2016-03-06 04:01:55,997 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:55,999 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,000 INFO [MAIN] allocate task [http://www.bbc.com/music] to a worker [0 instance running]
+2016-03-06 04:01:56,011 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/music', '1', 5000, '/', '/']
+2016-03-06 04:01:56,026 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,027 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,028 INFO [MAIN] allocate task [http://money.cnn.com/services/terms.html] to a worker [0 instance running]
+2016-03-06 04:01:56,029 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://money.cnn.com/services/terms.html', '1', 5000, '/', '/']
+2016-03-06 04:01:56,060 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,067 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,067 INFO [MAIN] allocate task [http://www.cnn.com/specials/cnn-longform] to a worker [0 instance running]
+2016-03-06 04:01:56,068 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/cnn-longform', '1', 5000, '/', '/']
+2016-03-06 04:01:56,091 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,091 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,091 INFO [MAIN] allocate task [http://www.bbc.com/www.bbc.com/travel] to a worker [0 instance running]
+2016-03-06 04:01:56,093 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/www.bbc.com/travel', '1', 5000, '/', '/']
+2016-03-06 04:01:56,113 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,114 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,114 INFO [MAIN] allocate task [http://www.cnn.com/specials/politics/world-politics] to a worker [0 instance running]
+2016-03-06 04:01:56,115 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/politics/world-politics', '1', 5000, '/', '/']
+2016-03-06 04:01:56,126 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,128 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,131 INFO [MAIN] allocate task [http://www.bbc.com/arts] to a worker [0 instance running]
+2016-03-06 04:01:56,134 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/arts', '1', 5000, '/', '/']
+2016-03-06 04:01:56,154 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,155 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,155 INFO [MAIN] allocate task [http://www.bbc.com/autos/story/20160304-genevas-best-in-show] to a worker [0 instance running]
+2016-03-06 04:01:56,168 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/autos/story/20160304-genevas-best-in-show', '1', 5000, '/', '/']
+2016-03-06 04:01:56,199 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,199 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,199 INFO [MAIN] allocate task [http://www.bbc.com/news/uk] to a worker [0 instance running]
+2016-03-06 04:01:56,218 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/uk', '1', 5000, '/', '/']
+2016-03-06 04:01:56,233 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,234 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,234 INFO [MAIN] allocate task [http://www.cnn.com/style/architecture] to a worker [0 instance running]
+2016-03-06 04:01:56,237 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/style/architecture', '1', 5000, '/', '/']
+2016-03-06 04:01:56,247 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,250 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,250 INFO [MAIN] allocate task [http://www.cnn.com/specials/travel/business-traveller] to a worker [0 instance running]
+2016-03-06 04:01:56,251 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/travel/business-traveller', '1', 5000, '/', '/']
+2016-03-06 04:01:56,277 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,278 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,278 INFO [MAIN] allocate task [http://www.bbc.com/id/status] to a worker [0 instance running]
+2016-03-06 04:01:56,279 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/id/status', '1', 5000, '/', '/']
+2016-03-06 04:01:56,290 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,291 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,291 INFO [MAIN] allocate task [http://instagram.com/cnn] to a worker [0 instance running]
+2016-03-06 04:01:56,293 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://instagram.com/cnn', '1', 5000, '/', '/']
+2016-03-06 04:01:56,308 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,309 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,310 INFO [MAIN] allocate task [http://www.cnn.com/specials/opinion/opinion-politics] to a worker [0 instance running]
+2016-03-06 04:01:56,311 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/opinion/opinion-politics', '1', 5000, '/', '/']
+2016-03-06 04:01:56,321 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,322 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,323 INFO [MAIN] allocate task [http://www.cnn.com/specials/health/living-well] to a worker [0 instance running]
+2016-03-06 04:01:56,324 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/health/living-well', '1', 5000, '/', '/']
+2016-03-06 04:01:56,335 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,335 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,336 INFO [MAIN] allocate task [http://www.bbc.com/sport#orb-footer] to a worker [0 instance running]
+2016-03-06 04:01:56,336 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport#orb-footer', '1', 5000, '/', '/']
+2016-03-06 04:01:56,352 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,353 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,354 INFO [MAIN] allocate task [http://www.bbc.com#orb-footer] to a worker [0 instance running]
+2016-03-06 04:01:56,355 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com#orb-footer', '1', 5000, '/', '/']
+2016-03-06 04:01:56,369 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,369 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,370 INFO [MAIN] allocate task [http://www.bbc.com/news/world-europe-35738264] to a worker [0 instance running]
+2016-03-06 04:01:56,370 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/world-europe-35738264', '1', 5000, '/', '/']
+2016-03-06 04:01:56,379 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,380 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,381 INFO [MAIN] allocate task [http://www.bbc.com/travel] to a worker [0 instance running]
+2016-03-06 04:01:56,381 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/travel', '1', 5000, '/', '/']
+2016-03-06 04:01:56,390 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,390 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,390 INFO [MAIN] allocate task [http://www.cnn.com/specials/space-science] to a worker [0 instance running]
+2016-03-06 04:01:56,391 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/space-science', '1', 5000, '/', '/']
+2016-03-06 04:01:56,407 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,408 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,408 INFO [MAIN] allocate task [http://www.bbc.com/autos] to a worker [0 instance running]
+2016-03-06 04:01:56,409 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/autos', '1', 5000, '/', '/']
+2016-03-06 04:01:56,418 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,418 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,418 INFO [MAIN] allocate task [http://www.bbc.com/sport] to a worker [0 instance running]
+2016-03-06 04:01:56,420 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport', '1', 5000, '/', '/']
+2016-03-06 04:01:56,430 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,430 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,430 INFO [MAIN] allocate task [http://www.bbc.com/news/world] to a worker [0 instance running]
+2016-03-06 04:01:56,431 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/world', '1', 5000, '/', '/']
+2016-03-06 04:01:56,440 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,441 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,441 INFO [MAIN] allocate task [http://twitter.com/cnnstyle] to a worker [0 instance running]
+2016-03-06 04:01:56,442 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://twitter.com/cnnstyle', '1', 5000, '/', '/']
+2016-03-06 04:01:56,452 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,453 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,466 INFO [MAIN] allocate task [http://www.bbc.com/news/election/us2016] to a worker [0 instance running]
+2016-03-06 04:01:56,466 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/election/us2016', '1', 5000, '/', '/']
+2016-03-06 04:01:56,476 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,476 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,476 INFO [MAIN] allocate task [http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2F] to a worker [0 instance running]
+2016-03-06 04:01:56,478 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2F', '1', 5000, '/', '/']
+2016-03-06 04:01:56,489 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,489 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,489 INFO [MAIN] allocate task [http://www.cnn.com/style/design] to a worker [0 instance running]
+2016-03-06 04:01:56,490 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/style/design', '1', 5000, '/', '/']
+2016-03-06 04:01:56,505 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,507 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,508 INFO [MAIN] allocate task [http://www.cnn.com/specials/health/diet-fitness] to a worker [0 instance running]
+2016-03-06 04:01:56,509 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/health/diet-fitness', '1', 5000, '/', '/']
+2016-03-06 04:01:56,519 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,519 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,519 INFO [MAIN] allocate task [http://www.bbc.com/news/business-35732291] to a worker [0 instance running]
+2016-03-06 04:01:56,521 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/business-35732291', '1', 5000, '/', '/']
+2016-03-06 04:01:56,535 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,536 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,536 INFO [MAIN] allocate task [http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fnews] to a worker [0 instance running]
+2016-03-06 04:01:56,537 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fnews', '1', 5000, '/', '/']
+2016-03-06 04:01:56,563 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,563 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,563 INFO [MAIN] allocate task [http://www.bbc.com/sport/tennis/35736284] to a worker [0 instance running]
+2016-03-06 04:01:56,564 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/tennis/35736284', '1', 5000, '/', '/']
+2016-03-06 04:01:56,583 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,584 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,584 INFO [MAIN] allocate task [http://www.cnn.com/specials/politics/politics-our-team] to a worker [0 instance running]
+2016-03-06 04:01:56,585 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/politics/politics-our-team', '1', 5000, '/', '/']
+2016-03-06 04:01:56,592 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,592 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,592 INFO [MAIN] allocate task [http://www.bbc.com/capital/story/20160222-this-is-why-quitting-was-the-best-thing-they-ever-did] to a worker [0 instance running]
+2016-03-06 04:01:56,593 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/capital/story/20160222-this-is-why-quitting-was-the-best-thing-they-ever-did', '1', 5000, '/', '/']
+2016-03-06 04:01:56,603 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,603 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,604 INFO [MAIN] allocate task [http://www.cnn.com/world] to a worker [0 instance running]
+2016-03-06 04:01:56,604 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/world', '1', 5000, '/', '/']
+2016-03-06 04:01:56,615 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,616 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,616 INFO [MAIN] allocate task [http://www.cnn.com/specials/digital-studios] to a worker [0 instance running]
+2016-03-06 04:01:56,617 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/digital-studios', '1', 5000, '/', '/']
+2016-03-06 04:01:56,631 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,633 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,634 INFO [MAIN] allocate task [http://www.bbc.com/travel/story/20160225-the-worlds-most-secretive-places] to a worker [0 instance running]
+2016-03-06 04:01:56,637 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/travel/story/20160225-the-worlds-most-secretive-places', '1', 5000, '/', '/']
+2016-03-06 04:01:56,662 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,663 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,663 INFO [MAIN] allocate task [http://www.cnn.com/specials/us/energy-and-environment] to a worker [0 instance running]
+2016-03-06 04:01:56,664 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/us/energy-and-environment', '1', 5000, '/', '/']
+2016-03-06 04:01:56,675 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,695 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,695 INFO [MAIN] allocate task [http://www.bbc.com/cbeebies] to a worker [0 instance running]
+2016-03-06 04:01:56,696 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/cbeebies', '1', 5000, '/', '/']
+2016-03-06 04:01:56,706 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,707 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,707 INFO [MAIN] allocate task [http://www.bbc.com/makeitdigital] to a worker [0 instance running]
+2016-03-06 04:01:56,708 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/makeitdigital', '1', 5000, '/', '/']
+2016-03-06 04:01:56,717 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,718 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,718 INFO [MAIN] allocate task [http://bleacherreport.com/college-football] to a worker [0 instance running]
+2016-03-06 04:01:56,719 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://bleacherreport.com/college-football', '1', 5000, '/', '/']
+2016-03-06 04:01:56,736 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,738 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,739 INFO [MAIN] allocate task [http://www.cnn.com/terms] to a worker [0 instance running]
+2016-03-06 04:01:56,740 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/terms', '1', 5000, '/', '/']
+2016-03-06 04:01:56,751 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,752 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,752 INFO [MAIN] allocate task [http://www.bbc.com/news#orb-footer] to a worker [0 instance running]
+2016-03-06 04:01:56,753 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news#orb-footer', '1', 5000, '/', '/']
+2016-03-06 04:01:56,760 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,761 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,762 INFO [MAIN] allocate task [http://www.cnn.com/tv/schedule/cnn] to a worker [0 instance running]
+2016-03-06 04:01:56,766 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/tv/schedule/cnn', '1', 5000, '/', '/']
+2016-03-06 04:01:56,781 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,782 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,782 INFO [MAIN] allocate task [http://www.cnn.com/specials/living/cnn-parents] to a worker [0 instance running]
+2016-03-06 04:01:56,783 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/living/cnn-parents', '1', 5000, '/', '/']
+2016-03-06 04:01:56,797 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,797 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,797 INFO [MAIN] allocate task [http://www.bbc.com/news/election-us-2016-35738700] to a worker [0 instance running]
+2016-03-06 04:01:56,798 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/election-us-2016-35738700', '1', 5000, '/', '/']
+2016-03-06 04:01:56,833 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,833 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,834 INFO [MAIN] allocate task [https://vine.co/cnnpolitics] to a worker [0 instance running]
+2016-03-06 04:01:56,835 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'https://vine.co/cnnpolitics', '1', 5000, '/', '/']
+2016-03-06 04:01:56,988 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:56,988 INFO [MAIN] no working process ... 
+2016-03-06 04:01:56,989 INFO [MAIN] allocate task [http://www.bbc.co.uk/news] to a worker [0 instance running]
+2016-03-06 04:01:56,990 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.co.uk/news', '1', 5000, '/', '/']
+2016-03-06 04:01:57,012 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:57,012 INFO [MAIN] no working process ... 
+2016-03-06 04:01:57,015 INFO [MAIN] allocate task [http://www.bbc.com/news] to a worker [0 instance running]
+2016-03-06 04:01:57,027 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news', '1', 5000, '/', '/']
+2016-03-06 04:01:57,049 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:57,299 INFO [MAIN] no working process ... 
+2016-03-06 04:01:57,345 INFO [MAIN] allocate task [http://www.cnn.com/specials/living/eatocracy] to a worker [0 instance running]
+2016-03-06 04:01:57,383 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/living/eatocracy', '1', 5000, '/', '/']
+2016-03-06 04:01:57,399 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:57,400 INFO [MAIN] no working process ... 
+2016-03-06 04:01:57,400 INFO [MAIN] allocate task [http://www.bbc.com/news/also_in_the_news] to a worker [0 instance running]
+2016-03-06 04:01:57,402 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/also_in_the_news', '1', 5000, '/', '/']
+2016-03-06 04:01:57,412 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:57,414 INFO [MAIN] no working process ... 
+2016-03-06 04:01:57,414 INFO [MAIN] allocate task [http://www.bbc.com/news/technology] to a worker [0 instance running]
+2016-03-06 04:01:57,415 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/technology', '1', 5000, '/', '/']
+2016-03-06 04:01:57,426 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:57,427 INFO [MAIN] no working process ... 
+2016-03-06 04:01:57,427 INFO [MAIN] allocate task [http://www.bbc.com/sport/cycling] to a worker [0 instance running]
+2016-03-06 04:01:57,438 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/cycling', '1', 5000, '/', '/']
+2016-03-06 04:01:57,450 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:57,460 INFO [MAIN] no working process ... 
+2016-03-06 04:01:57,460 INFO [MAIN] allocate task [http://www.bbc.com/news/science_and_environment] to a worker [0 instance running]
+2016-03-06 04:01:57,468 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/science_and_environment', '1', 5000, '/', '/']
+2016-03-06 04:01:57,483 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:57,483 INFO [MAIN] no working process ... 
+2016-03-06 04:01:57,484 INFO [MAIN] allocate task [http://www.bbc.com/sport/front-page] to a worker [0 instance running]
+2016-03-06 04:01:57,486 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/front-page', '1', 5000, '/', '/']
+2016-03-06 04:01:57,498 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:57,499 INFO [MAIN] no working process ... 
+2016-03-06 04:01:57,499 INFO [MAIN] allocate task [http://bleacherreport.com/nfl] to a worker [0 instance running]
+2016-03-06 04:01:57,500 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://bleacherreport.com/nfl', '1', 5000, '/', '/']
+2016-03-06 04:01:57,510 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:57,512 INFO [MAIN] no working process ... 
+2016-03-06 04:01:57,513 INFO [MAIN] allocate task [http://www.bbc.com/nature] to a worker [0 instance running]
+2016-03-06 04:01:57,547 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/nature', '1', 5000, '/', '/']
+2016-03-06 04:01:57,613 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:57,613 INFO [MAIN] no working process ... 
+2016-03-06 04:01:57,614 INFO [MAIN] allocate task [https://twitter.com/cnnpolitics] to a worker [0 instance running]
+2016-03-06 04:01:57,620 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'https://twitter.com/cnnpolitics', '1', 5000, '/', '/']
+2016-03-06 04:01:57,637 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:57,637 INFO [MAIN] no working process ... 
+2016-03-06 04:01:57,639 INFO [MAIN] allocate task [http://www.bbc.com/iplayer] to a worker [0 instance running]
+2016-03-06 04:01:57,642 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/iplayer', '1', 5000, '/', '/']
+2016-03-06 04:01:57,657 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:57,661 INFO [MAIN] no working process ... 
+2016-03-06 04:01:57,662 INFO [MAIN] allocate task [http://www.bbc.com/news/business-35724308] to a worker [0 instance running]
+2016-03-06 04:01:57,700 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/business-35724308', '1', 5000, '/', '/']
+2016-03-06 04:01:57,724 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:57,725 INFO [MAIN] no working process ... 
+2016-03-06 04:01:57,735 INFO [MAIN] allocate task [http://www.cnn.com/2016/03/05/opinions/clinton-trump-made-for-each-other-opinion-zelizer/index.html] to a worker [0 instance running]
+2016-03-06 04:01:57,752 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/2016/03/05/opinions/clinton-trump-made-for-each-other-opinion-zelizer/index.html', '1', 5000, '/', '/']
+2016-03-06 04:01:57,768 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:57,770 INFO [MAIN] no working process ... 
+2016-03-06 04:01:57,770 INFO [MAIN] allocate task [http://www.cnn.com/politics] to a worker [0 instance running]
+2016-03-06 04:01:57,897 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/politics', '1', 5000, '/', '/']
+2016-03-06 04:01:57,923 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:57,924 INFO [MAIN] no working process ... 
+2016-03-06 04:01:57,924 INFO [MAIN] allocate task [http://www.bbc.com/earth/story/20160304-amazing-mothers-of-the-animal-world] to a worker [0 instance running]
+2016-03-06 04:01:57,925 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/earth/story/20160304-amazing-mothers-of-the-animal-world', '1', 5000, '/', '/']
+2016-03-06 04:01:57,948 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:57,949 INFO [MAIN] no working process ... 
+2016-03-06 04:01:57,955 INFO [MAIN] allocate task [http://www.cnn.com/specials/us/crime-and-justice] to a worker [0 instance running]
+2016-03-06 04:01:57,963 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/us/crime-and-justice', '1', 5000, '/', '/']
+2016-03-06 04:01:57,985 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:57,987 INFO [MAIN] no working process ... 
+2016-03-06 04:01:57,991 INFO [MAIN] allocate task [http://www.bbc.com/sport/boxing] to a worker [0 instance running]
+2016-03-06 04:01:57,993 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/boxing', '1', 5000, '/', '/']
+2016-03-06 04:01:58,065 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:58,070 INFO [MAIN] no working process ... 
+2016-03-06 04:01:58,149 INFO [MAIN] allocate task [http://money.cnn.com/luxury] to a worker [0 instance running]
+2016-03-06 04:01:58,150 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://money.cnn.com/luxury', '1', 5000, '/', '/']
+2016-03-06 04:01:58,196 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:58,197 INFO [MAIN] no working process ... 
+2016-03-06 04:01:58,198 INFO [MAIN] allocate task [http://www.cnn.com/specials/showbiz/celebrity-watch] to a worker [0 instance running]
+2016-03-06 04:01:58,200 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/showbiz/celebrity-watch', '1', 5000, '/', '/']
+2016-03-06 04:01:58,213 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:58,213 INFO [MAIN] no working process ... 
+2016-03-06 04:01:58,213 INFO [MAIN] allocate task [http://www.cnn.com/middle-east] to a worker [0 instance running]
+2016-03-06 04:01:58,214 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/middle-east', '1', 5000, '/', '/']
+2016-03-06 04:01:58,226 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:58,227 INFO [MAIN] no working process ... 
+2016-03-06 04:01:58,237 INFO [MAIN] allocate task [http://www.cnn.com/2016/03/05/entertainment/bankroll-fresh-trentavious-white-shot-killed-feat/index.html] to a worker [0 instance running]
+2016-03-06 04:01:58,241 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/2016/03/05/entertainment/bankroll-fresh-trentavious-white-shot-killed-feat/index.html', '1', 5000, '/', '/']
+2016-03-06 04:01:58,261 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:58,263 INFO [MAIN] no working process ... 
+2016-03-06 04:01:58,263 INFO [MAIN] allocate task [http://www.bbc.com/culture/story/20160212-the-room-why-so-many-love-the-worst-film-ever-made] to a worker [0 instance running]
+2016-03-06 04:01:58,265 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/culture/story/20160212-the-room-why-so-many-love-the-worst-film-ever-made', '1', 5000, '/', '/']
+2016-03-06 04:01:58,355 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:58,364 INFO [MAIN] no working process ... 
+2016-03-06 04:01:58,369 INFO [MAIN] allocate task [http://www.bbc.com/sport/tennis] to a worker [0 instance running]
+2016-03-06 04:01:58,376 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/tennis', '1', 5000, '/', '/']
+2016-03-06 04:01:58,404 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:58,406 INFO [MAIN] no working process ... 
+2016-03-06 04:01:58,407 INFO [MAIN] allocate task [http://www.bbc.com/local] to a worker [0 instance running]
+2016-03-06 04:01:58,410 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/local', '1', 5000, '/', '/']
+2016-03-06 04:01:58,429 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:58,430 INFO [MAIN] no working process ... 
+2016-03-06 04:01:58,434 INFO [MAIN] allocate task [http://bleacherreport.com] to a worker [0 instance running]
+2016-03-06 04:01:58,437 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://bleacherreport.com', '1', 5000, '/', '/']
+2016-03-06 04:01:58,466 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:58,471 INFO [MAIN] no working process ... 
+2016-03-06 04:01:58,478 INFO [MAIN] allocate task [http://money.cnn.com/technology/innovationnation] to a worker [0 instance running]
+2016-03-06 04:01:58,479 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://money.cnn.com/technology/innovationnation', '1', 5000, '/', '/']
+2016-03-06 04:01:58,511 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:58,511 INFO [MAIN] no working process ... 
+2016-03-06 04:01:58,519 INFO [MAIN] allocate task [http://www.cnn.com/more] to a worker [0 instance running]
+2016-03-06 04:01:58,561 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/more', '1', 5000, '/', '/']
+2016-03-06 04:01:58,611 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:58,613 INFO [MAIN] no working process ... 
+2016-03-06 04:01:58,614 INFO [MAIN] allocate task [http://shop.bbc.com] to a worker [0 instance running]
+2016-03-06 04:01:58,649 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://shop.bbc.com', '1', 5000, '/', '/']
+2016-03-06 04:01:58,661 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:58,665 INFO [MAIN] no working process ... 
+2016-03-06 04:01:58,693 INFO [MAIN] allocate task [http://www.cnn.com/style/arts] to a worker [0 instance running]
+2016-03-06 04:01:58,702 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/style/arts', '1', 5000, '/', '/']
+2016-03-06 04:01:58,722 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:58,725 INFO [MAIN] no working process ... 
+2016-03-06 04:01:58,725 INFO [MAIN] allocate task [http://www.bbc.com/news/world/us_and_canada] to a worker [0 instance running]
+2016-03-06 04:01:58,726 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/world/us_and_canada', '1', 5000, '/', '/']
+2016-03-06 04:01:58,740 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:58,741 INFO [MAIN] no working process ... 
+2016-03-06 04:01:58,742 INFO [MAIN] allocate task [http://www.bbc.com/news/world/latin_america] to a worker [0 instance running]
+2016-03-06 04:01:58,742 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/world/latin_america', '1', 5000, '/', '/']
+2016-03-06 04:01:58,786 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:58,799 INFO [MAIN] no working process ... 
+2016-03-06 04:01:58,805 INFO [MAIN] allocate task [http://www.cnn.com/living] to a worker [0 instance running]
+2016-03-06 04:01:58,816 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/living', '1', 5000, '/', '/']
+2016-03-06 04:01:58,842 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:58,843 INFO [MAIN] no working process ... 
+2016-03-06 04:01:58,843 INFO [MAIN] allocate task [http://twitter.com/cnn] to a worker [0 instance running]
+2016-03-06 04:01:58,844 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://twitter.com/cnn', '1', 5000, '/', '/']
+2016-03-06 04:01:58,854 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:58,854 INFO [MAIN] no working process ... 
+2016-03-06 04:01:58,855 INFO [MAIN] allocate task [http://www.cnn.com/specials/tech/cybersecurity] to a worker [0 instance running]
+2016-03-06 04:01:58,855 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/tech/cybersecurity', '1', 5000, '/', '/']
+2016-03-06 04:01:58,867 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:58,867 INFO [MAIN] no working process ... 
+2016-03-06 04:01:58,867 INFO [MAIN] allocate task [http://www.cnn.com/specials/politics/national-politics] to a worker [0 instance running]
+2016-03-06 04:01:58,956 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/politics/national-politics', '1', 5000, '/', '/']
+2016-03-06 04:01:59,037 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,039 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,044 INFO [MAIN] allocate task [http://www.cnn.com/specials/living/relationships] to a worker [0 instance running]
+2016-03-06 04:01:59,072 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/living/relationships', '1', 5000, '/', '/']
+2016-03-06 04:01:59,094 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,095 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,095 INFO [MAIN] allocate task [http://m.bbc.co.uk] to a worker [0 instance running]
+2016-03-06 04:01:59,096 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://m.bbc.co.uk', '1', 5000, '/', '/']
+2016-03-06 04:01:59,106 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,107 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,107 INFO [MAIN] allocate task [http://www.cnn.com/specials/travel/sleep-eats] to a worker [0 instance running]
+2016-03-06 04:01:59,108 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/travel/sleep-eats', '1', 5000, '/', '/']
+2016-03-06 04:01:59,118 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,119 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,119 INFO [MAIN] allocate task [http://www.bbc.com/news/business-35725487] to a worker [0 instance running]
+2016-03-06 04:01:59,120 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/business-35725487', '1', 5000, '/', '/']
+2016-03-06 04:01:59,131 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,132 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,132 INFO [MAIN] allocate task [http://www.bbc.com/iwonder] to a worker [0 instance running]
+2016-03-06 04:01:59,137 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/iwonder', '1', 5000, '/', '/']
+2016-03-06 04:01:59,205 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,207 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,208 INFO [MAIN] allocate task [http://www.cnn.com/specials/cnn-investigations] to a worker [0 instance running]
+2016-03-06 04:01:59,242 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/cnn-investigations', '1', 5000, '/', '/']
+2016-03-06 04:01:59,307 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,308 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,309 INFO [MAIN] allocate task [http://www.cnn.com/specials/politics/2016-election] to a worker [0 instance running]
+2016-03-06 04:01:59,310 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/politics/2016-election', '1', 5000, '/', '/']
+2016-03-06 04:01:59,322 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,322 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,323 INFO [MAIN] allocate task [http://www.bbc.com/sport/equestrian] to a worker [0 instance running]
+2016-03-06 04:01:59,323 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/equestrian', '1', 5000, '/', '/']
+2016-03-06 04:01:59,343 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,350 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,350 INFO [MAIN] allocate task [http://cnn.com] to a worker [0 instance running]
+2016-03-06 04:01:59,355 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://cnn.com', '1', 5000, '/', '/']
+2016-03-06 04:01:59,365 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,365 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,365 INFO [MAIN] allocate task [http://www.cnn.com/specials/tv/all-shows] to a worker [0 instance running]
+2016-03-06 04:01:59,374 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/tv/all-shows', '1', 5000, '/', '/']
+2016-03-06 04:01:59,383 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,384 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,384 INFO [MAIN] allocate task [http://www.bbc.com/sport/athletics] to a worker [0 instance running]
+2016-03-06 04:01:59,387 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/athletics', '1', 5000, '/', '/']
+2016-03-06 04:01:59,396 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,397 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,491 INFO [MAIN] allocate task [http://www.cnn.com/tech] to a worker [0 instance running]
+2016-03-06 04:01:59,493 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/tech', '1', 5000, '/', '/']
+2016-03-06 04:01:59,534 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,536 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,536 INFO [MAIN] allocate task [http://www.bbc.com/future] to a worker [0 instance running]
+2016-03-06 04:01:59,537 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/future', '1', 5000, '/', '/']
+2016-03-06 04:01:59,551 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,552 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,554 INFO [MAIN] allocate task [http://www.bbc.com/sport/rugby-union] to a worker [0 instance running]
+2016-03-06 04:01:59,562 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/rugby-union', '1', 5000, '/', '/']
+2016-03-06 04:01:59,582 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,582 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,582 INFO [MAIN] allocate task [http://www.bbc.com/news/video_and_audio/international] to a worker [0 instance running]
+2016-03-06 04:01:59,583 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/video_and_audio/international', '1', 5000, '/', '/']
+2016-03-06 04:01:59,601 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,604 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,605 INFO [MAIN] allocate task [http://www.cnn.com/specials/photos] to a worker [0 instance running]
+2016-03-06 04:01:59,610 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/photos', '1', 5000, '/', '/']
+2016-03-06 04:01:59,686 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,703 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,703 INFO [MAIN] allocate task [http://www.cnn.com/us] to a worker [0 instance running]
+2016-03-06 04:01:59,713 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/us', '1', 5000, '/', '/']
+2016-03-06 04:01:59,735 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,736 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,765 INFO [MAIN] allocate task [http://www.bbc.com/news/business] to a worker [0 instance running]
+2016-03-06 04:01:59,776 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/business', '1', 5000, '/', '/']
+2016-03-06 04:01:59,868 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,869 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,869 INFO [MAIN] allocate task [http://www.bbc.com/weather/2643743?day=0] to a worker [0 instance running]
+2016-03-06 04:01:59,870 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/weather/2643743?day=0', '1', 5000, '/', '/']
+2016-03-06 04:01:59,879 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,880 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,881 INFO [MAIN] allocate task [http://www.bbc.com/weather/2643743?day=1] to a worker [0 instance running]
+2016-03-06 04:01:59,882 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/weather/2643743?day=1', '1', 5000, '/', '/']
+2016-03-06 04:01:59,892 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,893 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,893 INFO [MAIN] allocate task [http://www.bbc.com/weather/2643743?day=2] to a worker [0 instance running]
+2016-03-06 04:01:59,896 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/weather/2643743?day=2', '1', 5000, '/', '/']
+2016-03-06 04:01:59,937 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:01:59,975 INFO [MAIN] no working process ... 
+2016-03-06 04:01:59,975 INFO [MAIN] allocate task [http://www.bbc.com/weather/2643743?day=3] to a worker [0 instance running]
+2016-03-06 04:01:59,979 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/weather/2643743?day=3', '1', 5000, '/', '/']
+2016-03-06 04:02:00,036 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,037 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,037 INFO [MAIN] allocate task [http://money.cnn.com] to a worker [0 instance running]
+2016-03-06 04:02:00,038 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://money.cnn.com', '1', 5000, '/', '/']
+2016-03-06 04:02:00,057 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,059 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,064 INFO [MAIN] allocate task [http://www.cnn.com/specials/showbiz/tv-web] to a worker [0 instance running]
+2016-03-06 04:02:00,066 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/showbiz/tv-web', '1', 5000, '/', '/']
+2016-03-06 04:02:00,082 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,090 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,093 INFO [MAIN] allocate task [http://www.bbc.com/sport/all-sports] to a worker [0 instance running]
+2016-03-06 04:02:00,116 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/all-sports', '1', 5000, '/', '/']
+2016-03-06 04:02:00,139 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,142 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,143 INFO [MAIN] allocate task [http://www.bbc.com/news#core-navigation] to a worker [0 instance running]
+2016-03-06 04:02:00,144 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news#core-navigation', '1', 5000, '/', '/']
+2016-03-06 04:02:00,278 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,286 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,287 INFO [MAIN] allocate task [http://search.bbc.co.uk/search] to a worker [0 instance running]
+2016-03-06 04:02:00,295 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://search.bbc.co.uk/search', '1', 5000, '/', '/']
+2016-03-06 04:02:00,306 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,307 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,307 INFO [MAIN] allocate task [http://www.cnn.com/specials/tech/consumer-tech] to a worker [0 instance running]
+2016-03-06 04:02:00,310 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/tech/consumer-tech', '1', 5000, '/', '/']
+2016-03-06 04:02:00,334 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,334 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,334 INFO [MAIN] allocate task [http://www.bbc.com/sport/formula1] to a worker [0 instance running]
+2016-03-06 04:02:00,340 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/formula1', '1', 5000, '/', '/']
+2016-03-06 04:02:00,362 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,363 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,430 INFO [MAIN] allocate task [http://www.cnn.com/style/luxury] to a worker [0 instance running]
+2016-03-06 04:02:00,435 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/style/luxury', '1', 5000, '/', '/']
+2016-03-06 04:02:00,479 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,479 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,479 INFO [MAIN] allocate task [http://money.cnn.com/media] to a worker [0 instance running]
+2016-03-06 04:02:00,480 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://money.cnn.com/media', '1', 5000, '/', '/']
+2016-03-06 04:02:00,505 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,507 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,509 INFO [MAIN] allocate task [http://www.bbc.com/news#page] to a worker [0 instance running]
+2016-03-06 04:02:00,517 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news#page', '1', 5000, '/', '/']
+2016-03-06 04:02:00,542 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,542 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,543 INFO [MAIN] allocate task [http://www.cnn.com/specials/belief] to a worker [0 instance running]
+2016-03-06 04:02:00,544 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/belief', '1', 5000, '/', '/']
+2016-03-06 04:02:00,615 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,624 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,626 INFO [MAIN] allocate task [http://www.bbc.com/news/world-latin-america-35725415] to a worker [0 instance running]
+2016-03-06 04:02:00,629 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/world-latin-america-35725415', '1', 5000, '/', '/']
+2016-03-06 04:02:00,640 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,641 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,644 INFO [MAIN] allocate task [http://www.bbc.com/sport/disability-sport] to a worker [0 instance running]
+2016-03-06 04:02:00,645 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/disability-sport', '1', 5000, '/', '/']
+2016-03-06 04:02:00,693 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,699 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,703 INFO [MAIN] allocate task [http://www.cnn.com/specials/politics/washington-politics] to a worker [0 instance running]
+2016-03-06 04:02:00,706 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/politics/washington-politics', '1', 5000, '/', '/']
+2016-03-06 04:02:00,725 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,732 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,736 INFO [MAIN] allocate task [http://www.cnn.com/opinions] to a worker [0 instance running]
+2016-03-06 04:02:00,746 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/opinions', '1', 5000, '/', '/']
+2016-03-06 04:02:00,815 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,817 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,817 INFO [MAIN] allocate task [http://www.bbc.com/accessibility] to a worker [0 instance running]
+2016-03-06 04:02:00,878 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/accessibility', '1', 5000, '/', '/']
+2016-03-06 04:02:00,907 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,910 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,911 INFO [MAIN] allocate task [http://www.bbc.com/sport/football/35736880] to a worker [0 instance running]
+2016-03-06 04:02:00,912 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/football/35736880', '1', 5000, '/', '/']
+2016-03-06 04:02:00,931 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,933 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,934 INFO [MAIN] allocate task [http://www.cnn.com/asia] to a worker [0 instance running]
+2016-03-06 04:02:00,934 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/asia', '1', 5000, '/', '/']
+2016-03-06 04:02:00,947 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,948 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,949 INFO [MAIN] allocate task [http://www.cnn.com/style] to a worker [0 instance running]
+2016-03-06 04:02:00,950 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/style', '1', 5000, '/', '/']
+2016-03-06 04:02:00,961 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,961 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,961 INFO [MAIN] allocate task [http://www.bbc.com/earth] to a worker [0 instance running]
+2016-03-06 04:02:00,962 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/earth', '1', 5000, '/', '/']
+2016-03-06 04:02:00,974 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,974 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,974 INFO [MAIN] allocate task [http://www.bbc.com/news/magazine-35717932] to a worker [0 instance running]
+2016-03-06 04:02:00,975 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/magazine-35717932', '1', 5000, '/', '/']
+2016-03-06 04:02:00,986 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,987 INFO [MAIN] no working process ... 
+2016-03-06 04:02:00,987 INFO [MAIN] allocate task [http://www.bbc.com/radio] to a worker [0 instance running]
+2016-03-06 04:02:00,988 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/radio', '1', 5000, '/', '/']
+2016-03-06 04:02:00,999 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:00,999 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,000 INFO [MAIN] allocate task [http://www.cnn.com/specials/us/extreme-weather] to a worker [0 instance running]
+2016-03-06 04:02:01,002 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/us/extreme-weather', '1', 5000, '/', '/']
+2016-03-06 04:02:01,012 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,012 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,013 INFO [MAIN] allocate task [http://www.bbc.com/sport/football/35738346] to a worker [0 instance running]
+2016-03-06 04:02:01,014 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/football/35738346', '1', 5000, '/', '/']
+2016-03-06 04:02:01,024 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,025 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,110 INFO [MAIN] allocate task [http://www.bbc.com/news/world/europe] to a worker [0 instance running]
+2016-03-06 04:02:01,118 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/world/europe', '1', 5000, '/', '/']
+2016-03-06 04:02:01,187 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,189 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,189 INFO [MAIN] allocate task [http://www.cnn.com/specials/travel/aviation-more] to a worker [0 instance running]
+2016-03-06 04:02:01,190 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/travel/aviation-more', '1', 5000, '/', '/']
+2016-03-06 04:02:01,211 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,214 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,216 INFO [MAIN] allocate task [http://cnn.it/go2] to a worker [0 instance running]
+2016-03-06 04:02:01,220 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://cnn.it/go2', '1', 5000, '/', '/']
+2016-03-06 04:02:01,263 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,264 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,264 INFO [MAIN] allocate task [http://www.turner.com] to a worker [0 instance running]
+2016-03-06 04:02:01,266 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.turner.com', '1', 5000, '/', '/']
+2016-03-06 04:02:01,314 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,314 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,329 INFO [MAIN] allocate task [https://www.facebook.com/cnn] to a worker [0 instance running]
+2016-03-06 04:02:01,344 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'https://www.facebook.com/cnn', '1', 5000, '/', '/']
+2016-03-06 04:02:01,382 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,383 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,384 INFO [MAIN] allocate task [http://money.cnn.com/data/markets] to a worker [0 instance running]
+2016-03-06 04:02:01,386 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://money.cnn.com/data/markets', '1', 5000, '/', '/']
+2016-03-06 04:02:01,396 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,397 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,397 INFO [MAIN] allocate task [http://www.bbc.com/sport/golf] to a worker [0 instance running]
+2016-03-06 04:02:01,399 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/golf', '1', 5000, '/', '/']
+2016-03-06 04:02:01,411 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,420 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,420 INFO [MAIN] allocate task [http://www.cnn.com/europe] to a worker [0 instance running]
+2016-03-06 04:02:01,429 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/europe', '1', 5000, '/', '/']
+2016-03-06 04:02:01,479 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,479 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,480 INFO [MAIN] allocate task [http://www.bbc.com/culture] to a worker [0 instance running]
+2016-03-06 04:02:01,483 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/culture', '1', 5000, '/', '/']
+2016-03-06 04:02:01,502 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,504 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,506 INFO [MAIN] allocate task [http://www.bbc.com/news/in_pictures] to a worker [0 instance running]
+2016-03-06 04:02:01,509 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/in_pictures', '1', 5000, '/', '/']
+2016-03-06 04:02:01,546 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,547 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,548 INFO [MAIN] allocate task [http://www.bbc.com/food] to a worker [0 instance running]
+2016-03-06 04:02:01,555 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/food', '1', 5000, '/', '/']
+2016-03-06 04:02:01,584 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,585 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,585 INFO [MAIN] allocate task [http://www.bbc.com/travel/story/20160303-a-deserts-once-in-a-decade-super-bloom] to a worker [0 instance running]
+2016-03-06 04:02:01,604 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/travel/story/20160303-a-deserts-once-in-a-decade-super-bloom', '1', 5000, '/', '/']
+2016-03-06 04:02:01,646 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,655 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,656 INFO [MAIN] allocate task [http://www.cnn.com/specials/opinion/opinion-social-issues] to a worker [0 instance running]
+2016-03-06 04:02:01,658 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/opinion/opinion-social-issues', '1', 5000, '/', '/']
+2016-03-06 04:02:01,696 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,707 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,715 INFO [MAIN] allocate task [http://www.cnn.com/2016/03/04/travel/anchorage-alaska-airport-snow/index.html] to a worker [0 instance running]
+2016-03-06 04:02:01,731 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/2016/03/04/travel/anchorage-alaska-airport-snow/index.html', '1', 5000, '/', '/']
+2016-03-06 04:02:01,745 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,746 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,746 INFO [MAIN] allocate task [http://www.cnn.com/specials/travel/best-of-travel] to a worker [0 instance running]
+2016-03-06 04:02:01,747 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/travel/best-of-travel', '1', 5000, '/', '/']
+2016-03-06 04:02:01,759 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,765 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,766 INFO [MAIN] allocate task [http://www.cnn.com/specials/videos/digital-shorts] to a worker [0 instance running]
+2016-03-06 04:02:01,768 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/videos/digital-shorts', '1', 5000, '/', '/']
+2016-03-06 04:02:01,905 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,907 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,908 INFO [MAIN] allocate task [http://www.bbc.com/news/special_reports] to a worker [0 instance running]
+2016-03-06 04:02:01,912 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/special_reports', '1', 5000, '/', '/']
+2016-03-06 04:02:01,933 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,934 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,934 INFO [MAIN] allocate task [http://www.cnn.com/videos] to a worker [0 instance running]
+2016-03-06 04:02:01,935 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/videos', '1', 5000, '/', '/']
+2016-03-06 04:02:01,959 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,960 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,960 INFO [MAIN] allocate task [http://www.cnn.com/americas] to a worker [0 instance running]
+2016-03-06 04:02:01,961 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/americas', '1', 5000, '/', '/']
+2016-03-06 04:02:01,973 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,975 INFO [MAIN] no working process ... 
+2016-03-06 04:02:01,975 INFO [MAIN] allocate task [http://www.bbc.com/news/world-latin-america-35737995] to a worker [0 instance running]
+2016-03-06 04:02:01,977 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/world-latin-america-35737995', '1', 5000, '/', '/']
+2016-03-06 04:02:01,997 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:01,998 INFO [MAIN] no working process ... 
+2016-03-06 04:02:02,002 INFO [MAIN] allocate task [http://bleacherreport.com/nba] to a worker [0 instance running]
+2016-03-06 04:02:02,003 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://bleacherreport.com/nba', '1', 5000, '/', '/']
+2016-03-06 04:02:02,015 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:02,016 INFO [MAIN] no working process ... 
+2016-03-06 04:02:02,016 INFO [MAIN] allocate task [http://www.cnn.com/2016/03/04/health/flint-lead-exposure-long-term-pain/index.html] to a worker [0 instance running]
+2016-03-06 04:02:02,017 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/2016/03/04/health/flint-lead-exposure-long-term-pain/index.html', '1', 5000, '/', '/']
+2016-03-06 04:02:02,070 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:02,071 INFO [MAIN] no working process ... 
+2016-03-06 04:02:02,073 INFO [MAIN] allocate task [http://www.cnn.com/specials/showbiz/movies-music] to a worker [0 instance running]
+2016-03-06 04:02:02,083 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/showbiz/movies-music', '1', 5000, '/', '/']
+2016-03-06 04:02:02,128 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:02,139 INFO [MAIN] no working process ... 
+2016-03-06 04:02:02,140 INFO [MAIN] allocate task [http://www.cnn.com/specials/profiles] to a worker [0 instance running]
+2016-03-06 04:02:02,141 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/profiles', '1', 5000, '/', '/']
+2016-03-06 04:02:02,159 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:02,160 INFO [MAIN] no working process ... 
+2016-03-06 04:02:02,161 INFO [MAIN] allocate task [http://www.bbc.com/weather] to a worker [0 instance running]
+2016-03-06 04:02:02,162 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/weather', '1', 5000, '/', '/']
+2016-03-06 04:02:02,174 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:02,178 INFO [MAIN] no working process ... 
+2016-03-06 04:02:02,178 INFO [MAIN] allocate task [http://www.cnn.com/2016/03/04/us/flint-update-five-months-later/index.html] to a worker [0 instance running]
+2016-03-06 04:02:02,179 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/2016/03/04/us/flint-update-five-months-later/index.html', '1', 5000, '/', '/']
+2016-03-06 04:02:02,236 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:02,240 INFO [MAIN] no working process ... 
+2016-03-06 04:02:02,241 INFO [MAIN] allocate task [http://www.bbc.com/news/magazine] to a worker [0 instance running]
+2016-03-06 04:02:02,242 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/magazine', '1', 5000, '/', '/']
+2016-03-06 04:02:02,279 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:02,288 INFO [MAIN] no working process ... 
+2016-03-06 04:02:02,290 INFO [MAIN] allocate task [http://www.cnn.com/specials/more/cnn-leadership] to a worker [0 instance running]
+2016-03-06 04:02:02,294 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/specials/more/cnn-leadership', '1', 5000, '/', '/']
+2016-03-06 04:02:02,319 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:02,320 INFO [MAIN] no working process ... 
+2016-03-06 04:02:02,320 INFO [MAIN] allocate task [https://www.youtube.com/user/CNN] to a worker [0 instance running]
+2016-03-06 04:02:02,337 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'https://www.youtube.com/user/CNN', '1', 5000, '/', '/']
+2016-03-06 04:02:02,356 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:02,358 INFO [MAIN] no working process ... 
+2016-03-06 04:02:02,360 INFO [MAIN] allocate task [http://www.cnn.com/africa] to a worker [0 instance running]
+2016-03-06 04:02:02,376 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/africa', '1', 5000, '/', '/']
+2016-03-06 04:02:02,438 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:02,439 INFO [MAIN] no working process ... 
+2016-03-06 04:02:02,440 INFO [MAIN] allocate task [http://www.bbc.com/capital/story/20160303-what-scaling-mountains-teaches-you-about-success] to a worker [0 instance running]
+2016-03-06 04:02:02,440 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/capital/story/20160303-what-scaling-mountains-teaches-you-about-success', '1', 5000, '/', '/']
+2016-03-06 04:02:02,479 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:02,480 INFO [MAIN] no working process ... 
+2016-03-06 04:02:02,482 INFO [MAIN] allocate task [http://www.bbc.com/sport/cricket] to a worker [0 instance running]
+2016-03-06 04:02:02,485 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/cricket', '1', 5000, '/', '/']
+2016-03-06 04:02:02,500 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:02,502 INFO [MAIN] no working process ... 
+2016-03-06 04:02:02,503 INFO [MAIN] allocate task [http://www.bbc.com/taster] to a worker [0 instance running]
+2016-03-06 04:02:02,511 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/taster', '1', 5000, '/', '/']
+2016-03-06 04:02:02,584 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:02,588 INFO [MAIN] no working process ... 
+2016-03-06 04:02:02,593 INFO [MAIN] allocate task [http://www.bbc.co.uk] to a worker [0 instance running]
+2016-03-06 04:02:02,599 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.co.uk', '1', 5000, '/', '/']
+2016-03-06 04:02:02,615 ERROR failed to launch worker execv() arg 2 must contain only strings
+2016-03-06 04:02:02,616 INFO [MAIN] no working process ... 
+2016-03-06 04:02:30,361 INFO [MAIN] no working process ... 
+2016-03-06 04:02:30,361 INFO [MAIN] allocate task [http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport] to a worker [0 instance running]
+2016-03-06 04:02:30,361 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport', '1', '5000', '/', '/']
+2016-03-06 04:02:31,372 INFO [MAIN] successfully run http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport withpid:46401, full_path:log_dir/www.bbc.com_f26da7f4-cb3c-471e-adbd-20c4183271d9
+2016-03-06 04:02:31,372 INFO [MAIN] allocate task [http://www.bbc.com/news/business-35722996] to a worker [1 instance running]
+2016-03-06 04:02:31,373 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/business-35722996', '1', '5000', '/', '/']
+2016-03-06 04:02:32,379 INFO [MAIN] successfully run http://www.bbc.com/news/business-35722996 withpid:46402, full_path:log_dir/www.bbc.com_4fa9300a-cdb2-4c7b-8ad0-445f09439953
+2016-03-06 04:02:32,380 INFO [MAIN] allocate task [http://money.cnn.com/technology] to a worker [2 instance running]
+2016-03-06 04:02:32,381 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://money.cnn.com/technology', '1', '5000', '/', '/']
+2016-03-06 04:02:33,388 INFO [MAIN] successfully run http://money.cnn.com/technology withpid:46403, full_path:log_dir/money.cnn.com_2384dbac-1c1d-449f-a307-df06e255c13f
+2016-03-06 04:02:33,389 INFO [MAIN] allocate task [http://www.bbc.com/cbbc] to a worker [3 instance running]
+2016-03-06 04:02:33,389 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/cbbc', '1', '5000', '/', '/']
+2016-03-06 04:02:34,396 INFO [MAIN] successfully run http://www.bbc.com/cbbc withpid:46406, full_path:log_dir/www.bbc.com_45fee1cb-9d16-4071-ad90-27c836f95b93
+2016-03-06 04:02:34,397 INFO [MAIN] allocate task [http://money.cnn.com/pf] to a worker [4 instance running]
+2016-03-06 04:02:34,398 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://money.cnn.com/pf', '1', '5000', '/', '/']
+2016-03-06 04:02:35,405 INFO [MAIN] successfully run http://money.cnn.com/pf withpid:46407, full_path:log_dir/money.cnn.com_4bd53006-a79b-4aa4-b4fa-0b5b642c006c
+2016-03-06 04:02:40,408 INFO [MAIN] process 46401 is still running
+2016-03-06 04:02:40,408 INFO [MAIN] process 46402 is still running
+2016-03-06 04:02:40,408 INFO [MAIN] process 46403 is still running
+2016-03-06 04:02:40,409 INFO [MAIN] process 46406 is still running
+2016-03-06 04:02:40,409 INFO [MAIN] process 46407 is still running
+2016-03-06 04:02:40,409 INFO [MAIN] all 5 workers are in processing
+2016-03-06 04:02:45,414 INFO [MAIN] EXIT[0] worker[0] http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport pid[46401]
+2016-03-06 04:02:45,414 INFO [MAIN] worker[0] http://www.bbc.com/id/status?ptrt=http%3A%2F%2Fwww.bbc.com%2Fsport finished its job, kill it
+2016-03-06 04:02:45,414 INFO [MAIN] process 46402 is still running
+2016-03-06 04:02:45,415 INFO [MAIN] process 46403 is still running
+2016-03-06 04:02:45,415 INFO [MAIN] EXIT[0] worker[2] http://www.bbc.com/cbbc pid[46406]
+2016-03-06 04:02:45,415 INFO [MAIN] worker[2] http://www.bbc.com/cbbc finished its job, kill it
+2016-03-06 04:02:45,415 INFO [MAIN] process 46402 is still running
+2016-03-06 04:02:45,415 INFO [MAIN] process 46403 is still running
+2016-03-06 04:02:45,416 INFO [MAIN] process 46407 is still running
+2016-03-06 04:02:45,416 INFO [MAIN] all 3 workers are in processing
+2016-03-06 04:02:45,416 INFO [MAIN] allocate task [http://www.cnn.com/health] to a worker [3 instance running]
+2016-03-06 04:02:45,417 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/health', '1', '5000', '/', '/']
+2016-03-06 04:02:46,429 INFO [MAIN] successfully run http://www.cnn.com/health withpid:46411, full_path:log_dir/www.cnn.com_43279f7c-9a88-4a7c-8e75-c04d56a693a0
+2016-03-06 04:02:46,430 INFO [MAIN] allocate task [http://www.bbc.com/news/world-europe-35734947] to a worker [4 instance running]
+2016-03-06 04:02:46,431 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/world-europe-35734947', '1', '5000', '/', '/']
+2016-03-06 04:02:47,440 INFO [MAIN] successfully run http://www.bbc.com/news/world-europe-35734947 withpid:46413, full_path:log_dir/www.bbc.com_e9fc854e-de02-498c-8fd8-58aaa09af623
+2016-03-06 04:02:52,444 INFO [MAIN] process 46402 is still running
+2016-03-06 04:02:52,445 INFO [MAIN] process 46403 is still running
+2016-03-06 04:02:52,445 INFO [MAIN] process 46407 is still running
+2016-03-06 04:02:52,445 INFO [MAIN] process 46411 is still running
+2016-03-06 04:02:52,445 INFO [MAIN] process 46413 is still running
+2016-03-06 04:02:52,445 INFO [MAIN] all 5 workers are in processing
+2016-03-06 04:02:57,450 INFO [MAIN] process 46402 is still running
+2016-03-06 04:02:57,450 INFO [MAIN] process 46403 is still running
+2016-03-06 04:02:57,451 INFO [MAIN] process 46407 is still running
+2016-03-06 04:02:57,451 INFO [MAIN] process 46411 is still running
+2016-03-06 04:02:57,451 INFO [MAIN] process 46413 is still running
+2016-03-06 04:02:57,451 INFO [MAIN] all 5 workers are in processing
+2016-03-06 04:03:02,455 INFO [MAIN] process 46402 is still running
+2016-03-06 04:03:02,455 INFO [MAIN] process 46403 is still running
+2016-03-06 04:03:02,455 INFO [MAIN] process 46407 is still running
+2016-03-06 04:03:02,455 INFO [MAIN] process 46411 is still running
+2016-03-06 04:03:02,456 INFO [MAIN] process 46413 is still running
+2016-03-06 04:03:02,456 INFO [MAIN] all 5 workers are in processing
+2016-03-06 04:03:07,457 INFO [MAIN] EXIT[0] worker[0] http://www.bbc.com/news/business-35722996 pid[46402]
+2016-03-06 04:03:07,458 INFO [MAIN] worker[0] http://www.bbc.com/news/business-35722996 finished its job, kill it
+2016-03-06 04:03:07,458 INFO [MAIN] EXIT[0] worker[0] http://money.cnn.com/technology pid[46403]
+2016-03-06 04:03:07,458 INFO [MAIN] worker[0] http://money.cnn.com/technology finished its job, kill it
+2016-03-06 04:03:07,458 INFO [MAIN] EXIT[0] worker[0] http://money.cnn.com/pf pid[46407]
+2016-03-06 04:03:07,459 INFO [MAIN] worker[0] http://money.cnn.com/pf finished its job, kill it
+2016-03-06 04:03:07,459 INFO [MAIN] process 46411 is still running
+2016-03-06 04:03:07,459 INFO [MAIN] process 46413 is still running
+2016-03-06 04:03:07,459 INFO [MAIN] all 2 workers are in processing
+2016-03-06 04:03:07,459 INFO [MAIN] allocate task [http://www.bbc.com/sport/american-football] to a worker [2 instance running]
+2016-03-06 04:03:07,460 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/sport/american-football', '1', '5000', '/', '/']
+2016-03-06 04:03:08,472 INFO [MAIN] successfully run http://www.bbc.com/sport/american-football withpid:46420, full_path:log_dir/www.bbc.com_2bf3eb25-5ab9-4ca3-b300-5afa9f7023c9
+2016-03-06 04:03:08,473 INFO [MAIN] allocate task [http://bleacherreport.com/world-football] to a worker [3 instance running]
+2016-03-06 04:03:08,473 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://bleacherreport.com/world-football', '1', '5000', '/', '/']
+2016-03-06 04:03:09,485 INFO [MAIN] successfully run http://bleacherreport.com/world-football withpid:46421, full_path:log_dir/bleacherreport.com_1b09aacc-44a3-4429-8c4b-2a0815c04b9e
+2016-03-06 04:03:09,486 INFO [MAIN] allocate task [http://www.cnn.com/style/fashion] to a worker [4 instance running]
+2016-03-06 04:03:09,487 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/style/fashion', '1', '5000', '/', '/']
+2016-03-06 04:03:10,495 INFO [MAIN] successfully run http://www.cnn.com/style/fashion withpid:46422, full_path:log_dir/www.cnn.com_79b613f7-b867-4606-9dac-6251c43ef645
+2016-03-06 04:03:15,497 INFO [MAIN] process 46411 is still running
+2016-03-06 04:03:15,498 INFO [MAIN] process 46413 is still running
+2016-03-06 04:03:15,498 INFO [MAIN] process 46420 is still running
+2016-03-06 04:03:15,498 INFO [MAIN] process 46421 is still running
+2016-03-06 04:03:15,498 INFO [MAIN] process 46422 is still running
+2016-03-06 04:03:15,498 INFO [MAIN] all 5 workers are in processing
+2016-03-06 04:03:20,513 INFO [MAIN] EXIT[0] worker[0] http://www.cnn.com/health pid[46411]
+2016-03-06 04:03:20,514 INFO [MAIN] worker[0] http://www.cnn.com/health finished its job, kill it
+2016-03-06 04:03:20,514 INFO [MAIN] process 46413 is still running
+2016-03-06 04:03:20,514 INFO [MAIN] process 46420 is still running
+2016-03-06 04:03:20,514 INFO [MAIN] process 46421 is still running
+2016-03-06 04:03:20,514 INFO [MAIN] process 46422 is still running
+2016-03-06 04:03:20,514 INFO [MAIN] all 4 workers are in processing
+2016-03-06 04:03:20,515 INFO [MAIN] allocate task [http://www.cnn.com/travel] to a worker [4 instance running]
+2016-03-06 04:03:20,516 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/travel', '1', '5000', '/', '/']
+2016-03-06 04:03:21,524 INFO [MAIN] successfully run http://www.cnn.com/travel withpid:46426, full_path:log_dir/www.cnn.com_8bdc62b5-d984-4dd1-81f9-950cdc8f1b56
+2016-03-06 04:03:26,526 INFO [MAIN] process 46413 is still running
+2016-03-06 04:03:26,526 INFO [MAIN] process 46420 is still running
+2016-03-06 04:03:26,527 INFO [MAIN] process 46421 is still running
+2016-03-06 04:03:26,527 INFO [MAIN] process 46422 is still running
+2016-03-06 04:03:26,527 INFO [MAIN] process 46426 is still running
+2016-03-06 04:03:26,527 INFO [MAIN] all 5 workers are in processing
+2016-03-06 04:03:31,532 INFO [MAIN] process 46413 is still running
+2016-03-06 04:03:31,532 INFO [MAIN] EXIT[0] worker[1] http://www.bbc.com/sport/american-football pid[46420]
+2016-03-06 04:03:31,532 INFO [MAIN] worker[1] http://www.bbc.com/sport/american-football finished its job, kill it
+2016-03-06 04:03:31,532 INFO [MAIN] process 46413 is still running
+2016-03-06 04:03:31,533 INFO [MAIN] process 46421 is still running
+2016-03-06 04:03:31,533 INFO [MAIN] process 46422 is still running
+2016-03-06 04:03:31,533 INFO [MAIN] process 46426 is still running
+2016-03-06 04:03:31,533 INFO [MAIN] all 4 workers are in processing
+2016-03-06 04:03:31,533 INFO [MAIN] allocate task [http://www.bbc.com/tv] to a worker [4 instance running]
+2016-03-06 04:03:31,534 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/tv', '1', '5000', '/', '/']
+2016-03-06 04:03:32,544 INFO [MAIN] successfully run http://www.bbc.com/tv withpid:46430, full_path:log_dir/www.bbc.com_6b7c3a81-84e9-4831-b56a-3552b40a26d1
+2016-03-06 04:03:37,547 INFO [MAIN] process 46413 is still running
+2016-03-06 04:03:37,547 INFO [MAIN] process 46421 is still running
+2016-03-06 04:03:37,548 INFO [MAIN] EXIT[0] worker[2] http://www.cnn.com/style/fashion pid[46422]
+2016-03-06 04:03:37,548 INFO [MAIN] worker[2] http://www.cnn.com/style/fashion finished its job, kill it
+2016-03-06 04:03:37,548 INFO [MAIN] process 46413 is still running
+2016-03-06 04:03:37,548 INFO [MAIN] process 46421 is still running
+2016-03-06 04:03:37,548 INFO [MAIN] process 46426 is still running
+2016-03-06 04:03:37,549 INFO [MAIN] process 46430 is still running
+2016-03-06 04:03:37,549 INFO [MAIN] all 4 workers are in processing
+2016-03-06 04:03:37,549 INFO [MAIN] allocate task [http://www.cnn.com/privacy] to a worker [4 instance running]
+2016-03-06 04:03:37,549 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.cnn.com/privacy', '1', '5000', '/', '/']
+2016-03-06 04:03:38,558 INFO [MAIN] successfully run http://www.cnn.com/privacy withpid:46434, full_path:log_dir/www.cnn.com_bd25d33f-d763-4571-a0bf-59ed10035786
+2016-03-06 04:03:43,561 INFO [MAIN] process 46413 is still running
+2016-03-06 04:03:43,561 INFO [MAIN] process 46421 is still running
+2016-03-06 04:03:43,561 INFO [MAIN] process 46426 is still running
+2016-03-06 04:03:43,562 INFO [MAIN] EXIT[0] worker[3] http://www.bbc.com/tv pid[46430]
+2016-03-06 04:03:43,562 INFO [MAIN] worker[3] http://www.bbc.com/tv finished its job, kill it
+2016-03-06 04:03:43,562 INFO [MAIN] process 46413 is still running
+2016-03-06 04:03:43,562 INFO [MAIN] process 46421 is still running
+2016-03-06 04:03:43,562 INFO [MAIN] process 46426 is still running
+2016-03-06 04:03:43,562 INFO [MAIN] process 46434 is still running
+2016-03-06 04:03:43,562 INFO [MAIN] all 4 workers are in processing
+2016-03-06 04:03:43,562 INFO [MAIN] allocate task [http://www.bbc.com/news/entertainment_and_arts] to a worker [4 instance running]
+2016-03-06 04:03:43,563 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/entertainment_and_arts', '1', '5000', '/', '/']
+2016-03-06 04:03:44,579 INFO [MAIN] successfully run http://www.bbc.com/news/entertainment_and_arts withpid:46437, full_path:log_dir/www.bbc.com_c24e2523-8553-4063-ac97-99f8726fc008
+2016-03-06 04:03:49,587 INFO [MAIN] process 46413 is still running
+2016-03-06 04:03:49,588 INFO [MAIN] process 46421 is still running
+2016-03-06 04:03:49,588 INFO [MAIN] EXIT[0] worker[2] http://www.cnn.com/travel pid[46426]
+2016-03-06 04:03:49,588 INFO [MAIN] worker[2] http://www.cnn.com/travel finished its job, kill it
+2016-03-06 04:03:49,589 INFO [MAIN] process 46413 is still running
+2016-03-06 04:03:49,589 INFO [MAIN] process 46421 is still running
+2016-03-06 04:03:49,589 INFO [MAIN] process 46434 is still running
+2016-03-06 04:03:49,589 INFO [MAIN] process 46437 is still running
+2016-03-06 04:03:49,589 INFO [MAIN] all 4 workers are in processing
+2016-03-06 04:03:49,589 INFO [MAIN] allocate task [http://www.bbc.com/news/health] to a worker [4 instance running]
+2016-03-06 04:03:49,590 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/news/health', '1', '5000', '/', '/']
+2016-03-06 04:03:50,599 INFO [MAIN] successfully run http://www.bbc.com/news/health withpid:46439, full_path:log_dir/www.bbc.com_1c089506-067a-4657-9745-a0223f38c6d2
+2016-03-06 04:03:55,602 INFO [MAIN] process 46413 is still running
+2016-03-06 04:03:55,602 INFO [MAIN] process 46421 is still running
+2016-03-06 04:03:55,602 INFO [MAIN] process 46434 is still running
+2016-03-06 04:03:55,603 INFO [MAIN] process 46437 is still running
+2016-03-06 04:03:55,603 INFO [MAIN] process 46439 is still running
+2016-03-06 04:03:55,603 INFO [MAIN] all 5 workers are in processing
+2016-03-06 04:04:00,604 INFO [MAIN] process 46413 is still running
+2016-03-06 04:04:00,605 INFO [MAIN] process 46421 is still running
+2016-03-06 04:04:00,605 INFO [MAIN] process 46434 is still running
+2016-03-06 04:04:00,605 INFO [MAIN] process 46437 is still running
+2016-03-06 04:04:00,605 INFO [MAIN] process 46439 is still running
+2016-03-06 04:04:00,605 INFO [MAIN] all 5 workers are in processing
+2016-03-06 04:04:05,606 INFO [MAIN] process 46413 is still running
+2016-03-06 04:04:05,607 INFO [MAIN] process 46421 is still running
+2016-03-06 04:04:05,607 INFO [MAIN] EXIT[0] worker[2] http://www.cnn.com/privacy pid[46434]
+2016-03-06 04:04:05,607 INFO [MAIN] worker[2] http://www.cnn.com/privacy finished its job, kill it
+2016-03-06 04:04:05,608 INFO [MAIN] process 46413 is still running
+2016-03-06 04:04:05,608 INFO [MAIN] process 46421 is still running
+2016-03-06 04:04:05,608 INFO [MAIN] process 46437 is still running
+2016-03-06 04:04:05,608 INFO [MAIN] EXIT[0] worker[3] http://www.bbc.com/news/health pid[46439]
+2016-03-06 04:04:05,609 INFO [MAIN] worker[3] http://www.bbc.com/news/health finished its job, kill it
+2016-03-06 04:04:05,609 INFO [MAIN] process 46413 is still running
+2016-03-06 04:04:05,609 INFO [MAIN] process 46421 is still running
+2016-03-06 04:04:05,609 INFO [MAIN] process 46437 is still running
+2016-03-06 04:04:05,609 INFO [MAIN] all 3 workers are in processing
+2016-03-06 04:04:05,609 INFO [MAIN] allocate task [http://money.cnn.com/services/privacy] to a worker [3 instance running]
+2016-03-06 04:04:05,610 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://money.cnn.com/services/privacy', '1', '5000', '/', '/']
+2016-03-06 04:04:06,622 INFO [MAIN] successfully run http://money.cnn.com/services/privacy withpid:46446, full_path:log_dir/money.cnn.com_fc7707fa-cad1-4d98-831c-d2dd43b115ed
+2016-03-06 04:04:06,623 INFO [MAIN] allocate task [http://www.bbc.com/capital] to a worker [4 instance running]
+2016-03-06 04:04:06,623 INFO Command to start worker ['phantomjs', 'phantom_worker.js', u'http://www.bbc.com/capital', '1', '5000', '/', '/']
+2016-03-06 04:04:07,634 INFO [MAIN] successfully run http://www.bbc.com/capital withpid:46447, full_path:log_dir/www.bbc.com_6a34d673-70e1-410d-9ad8-284d45e0cdbd
+2016-03-06 04:04:12,636 INFO [MAIN] process 46413 is still running
+2016-03-06 04:04:12,636 INFO [MAIN] process 46421 is still running
+2016-03-06 04:04:12,636 INFO [MAIN] process 46437 is still running
+2016-03-06 04:04:12,636 INFO [MAIN] process 46446 is still running
+2016-03-06 04:04:12,636 INFO [MAIN] process 46447 is still running
+2016-03-06 04:04:12,636 INFO [MAIN] all 5 workers are in processing

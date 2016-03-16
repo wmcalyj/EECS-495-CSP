@@ -1,0 +1,17 @@
+2016-03-07 20:03:38 [scrapy] INFO: Scrapy 1.0.4 started (bot: scrapybot)
+2016-03-07 20:03:38 [scrapy] INFO: Optional features available: ssl, http11
+2016-03-07 20:03:38 [scrapy] INFO: Overridden settings: {'LOG_FILE': 'stdout', 'LOG_LEVEL': 'INFO'}
+2016-03-07 20:03:39 [scrapy] INFO: Received SIGINT, shutting down gracefully. Send again to force 
+2016-03-07 20:03:39 [scrapy] INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+2016-03-07 20:03:40 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2016-03-07 20:03:40 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2016-03-07 20:03:40 [scrapy] INFO: Enabled item pipelines: 
+2016-03-07 20:03:40 [scrapy] INFO: Spider opened
+2016-03-07 20:03:40 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2016-03-07 20:03:40 [scrapy] INFO: Closing spider (shutdown)
+2016-03-07 20:03:40 [scrapy] INFO: Dumping Scrapy stats:
+{'finish_reason': 'shutdown',
+ 'finish_time': datetime.datetime(2016, 3, 8, 2, 3, 40, 216509),
+ 'log_count/INFO': 8,
+ 'start_time': datetime.datetime(2016, 3, 8, 2, 3, 40, 144498)}
+2016-03-07 20:03:40 [scrapy] INFO: Spider closed (shutdown)
