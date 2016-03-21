@@ -21,9 +21,11 @@ logger.addHandler(hdlr)
 logger.addHandler(consoleHandler)
 logger.setLevel(logging.DEBUG)
 
+HOST = "lotus.cs.northwestern.edu"
+
 def fetchURLContents(url):
     try:
-        host = "http://localhost:4040/api/web-contents/contents-fetch"
+        host = "http://" + HOST + ":4040/api/web-contents/contents-fetch"
         req = urllib2.Request(host)
         req.add_header('Content-Type', 'application/json')
 
@@ -63,7 +65,7 @@ def fetchURLContents(url):
 
 def storeDistance(url1, url2, distance):
     try:
-        host = "http://localhost:4040/api/web-contents/distance-store"
+        host = "http://" + HOST + ":4040/api/web-contents/distance-store"
         req = urllib2.Request(host)
         req.add_header('Content-Type', 'application/json')
 
@@ -90,7 +92,7 @@ def storeDistance(url1, url2, distance):
 
 def storeScripts(url, host_list, inline_list):
     try:
-        host = "http://localhost:4040/api/web-contents/scripts-store"
+        host = "http://" + HOST + ":4040/api/web-contents/scripts-store"
         req = urllib2.Request(host)
         req.add_header('Content-Type', 'application/json')
 
@@ -116,7 +118,7 @@ def storeScripts(url, host_list, inline_list):
 
 def storeTree(url, key, tree):
     try:
-        host = "http://localhost:4040/api/web-contents/trees-store"
+        host = "http://" + HOST + ":4040/api/web-contents/trees-store"
         req = urllib2.Request(host)
         req.add_header('Content-Type', 'application/json')
         domain = getEffectiveDomainFromURL(url)
@@ -145,7 +147,7 @@ def storeTree(url, key, tree):
 
 def fetchScripts(url):
     try:
-        host = "http://localhost:4040/api/web-contents/scripts-fetch"
+        host = "http://" + HOST + ":4040/api/web-contents/scripts-fetch"
         req = urllib2.Request(host)
         req.add_header('Content-Type', 'application/json')
 
@@ -184,7 +186,7 @@ def fetchScripts(url):
 
 def fetchDistance(url1, url2):
     try:
-        host = "http://localhost:4040/api/web-contents/distance-fetch"
+        host = "http://" + HOST + ":4040/api/web-contents/distance-fetch"
         req = urllib2.Request(host)
         req.add_header('Content-Type', 'application/json')
 
@@ -220,7 +222,7 @@ def fetchDistance(url1, url2):
 
 def fetchTrees(domain):
     try:
-        host = "http://localhost:4040/api/web-contents/trees-fetch"
+        host = "http://" + HOST + ":4040/api/web-contents/trees-fetch"
         req = urllib2.Request(host)
         req.add_header('Content-Type', 'application/json')
         domain = domain.strip().lower()
@@ -251,7 +253,7 @@ def fetchTrees(domain):
 
 def fetchRenderedUrls(rendered):
     try:
-        host = "http://localhost:4040/api/web-contents/rendered-urls-fetch"
+        host = "http://" + HOST + ":4040/api/web-contents/rendered-urls-fetch"
         req = urllib2.Request(host)
         req.add_header('Content-Type', 'application/json')
         data = {}

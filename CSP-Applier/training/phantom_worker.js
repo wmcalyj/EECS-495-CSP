@@ -10,6 +10,7 @@ var queue = require('./Queue'),
 
 var debug = false;
 var fs = require('fs');
+var HOST = "lotus.cs.northwestern.edu"
 
 /* Settings */
 defaultUserAgent =
@@ -96,7 +97,7 @@ taskWorker = (function() {
   };
 
   send_contents = function(url, contents, landing_url) {
-    var db_listener = "http://localhost:4040/api/web-contents/contents-store",
+    var db_listener = "http://" + HOST + ":4040/api/web-contents/contents-store",
       sender, error = null,
       json_header, encoded_contents, data;
     sender = require('webpage').create();
@@ -146,7 +147,7 @@ taskWorker = (function() {
 
 
   send_scripts = function(url, script, hostname) {
-    var db_listener = "http://localhost:4040/api/web-contents/pure-scripts-store",
+    var db_listener = "http://" + HOST + ":4040/api/web-contents/pure-scripts-store",
       sender, error = null,
       json_header, encoded_contents, data;
     sender = require('webpage').create();
