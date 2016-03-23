@@ -78,7 +78,7 @@ taskWorker = (function() {
           // console.log("[WRITING SCRIPTS NOW]");
           var script = scripts[i].text;
           // script = script.replace(/\s/g, "");
-          // console.log("script: [" + script + "]");
+          console.log("script: [" + script + "]");
           fs.write(path2, script, 'a');
           fs.write(path2, "\n", 'a');
           send_scripts(current_url, script, hostname);
