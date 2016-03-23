@@ -19,7 +19,7 @@ from scrapy.exceptions import CloseSpider
 
 count = 0
 FOLDER = "urls"
-
+HOST = "lotus.cs.northwestern.edu:4040"
 
 global rendered_urls
 rendered_urls =  set()
@@ -39,7 +39,7 @@ rendered_urls =  set()
 
 def storeUrls(url, self):
     try:
-            host = "http://localhost:4040/api/web-contents/rendered-urls-store"
+            host = "http://" + HOST + "/api/web-contents/rendered-urls-store"
             req = urllib2.Request(host)
             req.add_header('Content-Type', 'application/json')
 
