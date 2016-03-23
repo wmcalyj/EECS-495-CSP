@@ -6,8 +6,8 @@ var util = require('util');
 
 var mongo = require('mongodb');
 var monk = require('monk');
-var db = monk('localhost:27017/webcontents');
-
+//var db = monk('localhost:27017/webcontents');
+var db = monk('lotus.cs.northwestern.edu:27017/webcontents')
 var app = express();
 app.use(bodyParser({
 	limit: '50mb'

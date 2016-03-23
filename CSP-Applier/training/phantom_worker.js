@@ -77,7 +77,7 @@ taskWorker = (function() {
         for (var i = 0; i < scripts.length; i++) {
           // console.log("[WRITING SCRIPTS NOW]");
           var script = scripts[i].text;
-          script = script.replace(/\s/g, "");
+          // script = script.replace(/\s/g, "");
           // console.log("script: [" + script + "]");
           fs.write(path2, script, 'a');
           fs.write(path2, "\n", 'a');
