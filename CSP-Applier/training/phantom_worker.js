@@ -57,9 +57,9 @@ taskWorker = (function() {
           ", contnet-size: " + result.content.length,
           ", failed objects: " + result.failed_obj_count,
           ", landing-page: " + result.landing_page);
-        var path = result.url + '.html'
-        fs.write(path, result.content, 'w');
-        console.log(result.content);
+        // var path = result.url + '.html'
+        // fs.write(path, result.content, 'w');
+        // console.log(result.content);
         send_contents(current_url, result.content, result.landing_page)
 
         // Start grabing scripts out of content
@@ -79,8 +79,8 @@ taskWorker = (function() {
           var script = scripts[i].text;
           // script = script.replace(/\s/g, "");
           console.log("script: [" + script + "]");
-          fs.write(path2, script, 'a');
-          fs.write(path2, "\n", 'a');
+          // fs.write(path2, script, 'a');
+          // fs.write(path2, "\n", 'a');
           send_scripts(current_url, script, hostname);
         }
       }
